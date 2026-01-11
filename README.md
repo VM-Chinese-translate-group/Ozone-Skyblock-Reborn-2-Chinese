@@ -32,6 +32,29 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 
 ---
 
+需汉化模组
+- Agritech: Evolved
+- Re: Avaritia IO
+- Useful Foundation
+- Useful Machinery (partial)
+- Condensed Ores
+- Ex Machinis: Divitiae Deorum (partial)
+- Creative Tools
+- Deeper and Darker (partial)
+- Nether Ex
+- Dimension Expansion
+- Dragonite Gear
+- Haven Animal Seeds
+- Hooper Gadgetry
+- ~~Ytones~~
+- Mob Flow Utilities
+- RFTools Storage
+- KubeJS (Modified Contents)
+- Slab Machines
+- Vertical Slabs
+
+---
+
 # ⚙️ 自动化 Paratranz 同步教程
 
 ## 1. 设置环境变量
