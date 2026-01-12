@@ -1,5 +1,4 @@
 {
-  //这是一条为避免忘记修改而写的注释，如何修改请查看Readme文件。
   "packId": 1358268,
   "packName": "Ozone Skyblock Reborn 2",
   "versionPattern": "Ozone Skyblock Reborn 2 {version}",
@@ -27,3 +26,4 @@
   ]
 
 }
+
