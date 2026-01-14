@@ -36,22 +36,26 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 - Agritech: Evolved
 - Re: Avaritia IO
 - Useful Foundation
-- Useful Machinery (partial)
+- ~~Useful Machinery (partial)~~
 - Condensed Ores
 - Ex Machinis: Divitiae Deorum (partial)
 - Creative Tools
-- Deeper and Darker (partial)
+- ~~Deeper and Darker (partial)~~
 - Nether Ex
 - Dimension Expansion
 - Dragonite Gear
 - Haven Animal Seeds
-- Hooper Gadgetry
+- Hopper Gadgetry
 - ~~Ytones~~
 - Mob Flow Utilities
 - RFTools Storage
 - KubeJS (Modified Contents)
 - Slab Machines
 - Vertical Slabs
+
+被划掉的模组由于各种原因（模组内部存在汉化、模组本身汉化意义不大等）不汉化
+
+就是说，已有组织负责汉化的模组和个人认为不汉不影响游玩的模组在这个项目不汉化
 
 ---
 
