@@ -10,7 +10,7 @@
 	chapter.316E4E132106EEC3.title: "Dimension Diving"
 	chapter.39804937A030E667.title: "Miscellaneous Marvels"
 	chapter.43460BCD6731B646.title: "Power Production"
-	chapter.51C54822990EC8CC.title: "Starting Stuff"
+	chapter.51C54822990EC8CC.title: "入门指南"
 	chapter.53C0840E4343A861.title: "Storage Solutions"
 	chapter.574290CF213AD0B2.title: "Incredible Industry"
 	chapter.5852C8EAABD22796.title: "Space Scouting"
@@ -2362,17 +2362,17 @@
 	quest.72C6F582DAA81CBF.quest_desc: ["A multiblock machine that uses molds and power to shape metal ingots and other materials into plates, rods, gears, and more."]
 	quest.72C6F582DAA81CBF.title: "Metal Press"
 	quest.731CFBA9CEF27A6A.quest_desc: [
-		"Welcome to Ozone Skyblock Reborn 2, an expert pack by MuggleOrWizard! This pack is the sequel to Ozone Skyblock Reborn. If you have any questions or comments while playing this modpack, feel free to leave a comment on the project page, send me a message on Curseforge, or join the Discord server."
+		"欢迎来到 Ozone Skyblock Reborn 2，一款由 MuggleOrWizard 制作的专家包！本包是 Ozone Skyblock Reborn 系列的续作。如果你在游玩过程中想要提出建议或遇到了某些问题，欢迎在项目页面中留下评论，或是在 Curseforge 给我发送消息，还可以加入 Discord 服务器进行反馈。"
 		""
-		"If you are playing multiplayer, you can run the command \"&b/skyblock gui&r\" to see how to make islands and teams for each person/group. To make or join a team for quests/chunks, click the teams icon in the upper left of your screen when your inventory is open. The quest book can be found there as well."
+		"如果你正在多人世界中游玩，可以执行指令 “&b/skyblock gui&r” 来建立团队并创建岛屿。在物品栏开启时点击屏幕左上角的队伍图标，可以建立或加入队伍，以共享认领区块和任务进度。任务也可以从物品栏界面屏幕左上角点击查看。"
 		""
-		"&4Read the quest with the heart icon to learn about the different pack modes!&r"
+		"&4阅读带有红心图标的任务可以了解本整合包的不同模式！&r"
 		""
-		"&2This pack series is inspired by the modpack series \"Project Ozone\" by TheCazadorSniper. If you haven't played it before, I highly recommend you check it out - you can find it on the Curseforge app.&r"
+		"&2这个整合包系列的灵感源自于 TheCazadorSniper 的 “Project Ozone” 系列。如果你还没玩过，我强烈推荐你看一看——在 Curseforge 上就可以找到。&r"
 		""
-		"Some quest descriptions may use info taken or modified from the mod's respective project page, wiki, or in-game guidebook. All rights reserved to the mod and wiki authors. For more information on a mod, visit the Ozone Skyblock Reborn 2 project page, scroll to the mod list, and click on the mod you want to learn about."
+		""
 	]
-	quest.731CFBA9CEF27A6A.quest_subtitle: "Click the checkmark after reading!"
+	quest.731CFBA9CEF27A6A.quest_subtitle: "阅读后打钩！"
 	quest.732A662662650FD1.quest_desc: ["The Infusion Altarnator is a single-block automatable version of the Infusion Altar."]
 	quest.732A662662650FD1.quest_subtitle: "Mystical Automation"
 	quest.735C3B21ACEECB35.quest_desc: [
@@ -2612,7 +2612,7 @@
 	task.23FCB8AAD248736E.title: "Endest"
 	task.249C4BC4448C6008.title: "Storage"
 	task.272EE42B31F779A7.title: "Helpful Tips"
-	task.279530634E517929.title: "Read Me"
+	task.279530634E517929.title: "游玩介绍"
 	task.2AA12BAEBCC7700A.title: "Laser"
 	task.2B3F62AA4A632D89.title: "Space"
 	task.2B4C757EA76528EE.title: "Wither"
