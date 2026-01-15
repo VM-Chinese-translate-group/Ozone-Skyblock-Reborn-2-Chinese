@@ -2370,7 +2370,7 @@
 		""
 		"&2这个整合包系列的灵感源自于 TheCazadorSniper 的 “Project Ozone” 系列。如果你还没玩过，我强烈推荐你看一看——在 Curseforge 上就可以找到。&r"
 		""
-		""
+		"部分任务描述中可能包含取自或修改自模组项目页面、wiki 或游戏内指引书中的信息。版权归属于对应模组及 wiki 的作者。想要了解更多关于某个模组的信息，访问 Ozone Skyblock Reborn 2 项目页面，浏览模组列表，然后点击你想要了解的模组即可。"
 	]
 	quest.731CFBA9CEF27A6A.quest_subtitle: "阅读后打钩！"
 	quest.732A662662650FD1.quest_desc: ["The Infusion Altarnator is a single-block automatable version of the Infusion Altar."]
@@ -2612,7 +2612,7 @@
 	task.23FCB8AAD248736E.title: "Endest"
 	task.249C4BC4448C6008.title: "Storage"
 	task.272EE42B31F779A7.title: "Helpful Tips"
-	task.279530634E517929.title: "游玩介绍"
+	task.279530634E517929.title: "游玩说明"
 	task.2AA12BAEBCC7700A.title: "Laser"
 	task.2B3F62AA4A632D89.title: "Space"
 	task.2B4C757EA76528EE.title: "Wither"
