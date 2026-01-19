@@ -1,37 +1,37 @@
 {
-  "creativetab.dragonitegear_tab": "Dragonite Gear",
+  "creativetab.dragonitegear_tab": "龙石装备",
 
-  "item.dragonitegear.dragonite_ingot": "Dragonite Ingot",
-  "item.dragonitegear.dragonite_infused_ingot": "Dragonite Infused Ingot",
-  "item.dragonitegear.raw_dragonite": "Raw Dragonite",
-  "item.dragonitegear.storm_breath": "Storm Breath",
-  "block.dragonitegear.dragonite_forge": "Dragonite Forge",
-  "block.dragonitegear.dragonite_ore": "Dragonite Ore",
+  "item.dragonitegear.dragonite_ingot": "龙石锭",
+  "item.dragonitegear.dragonite_infused_ingot": "注影龙石锭",
+  "item.dragonitegear.raw_dragonite": "粗龙石",
+  "item.dragonitegear.storm_breath": "风暴之吸",
+  "block.dragonitegear.dragonite_forge": "龙石锻炉",
+  "block.dragonitegear.dragonite_ore": "龙石矿石",
 
-  "item.dragonitegear.dragonite_sword": "Dragonite Sword",
-  "item.dragonitegear.dragonite_greatsword": "Dragonite Greatsword",
-  "item.dragonitegear.dragonite_pickaxe": "Dragonite Pickaxe",
-  "item.dragonitegear.dragonite_axe": "Dragonite Axe",
-  "item.dragonitegear.dragonite_shovel": "Dragonite Shovel",
-  "item.dragonitegear.dragonite_hoe": "Dragonite Hoe",
-  "item.dragonitegear.dragonite_bow": "Dragonite Bow",
-  "item.dragonitegear.dragonite_staff": "Dragonite Staff",
-  "tooltip.dragonitegear.dragonite_staff": "A powerful staff that can fire projectiles which explode on impact.\nRight-click to fire a projectile.",
-
-
-  "item.dragonitegear.stormforged_sword": "Stormforged Sword",
-  "item.dragonitegear.stormforged_greatsword": "Stormforged Greatsword",
-  "item.dragonitegear.stormforged_pickaxe": "Stormforged Pickaxe",
-  "item.dragonitegear.stormforged_axe": "Stormforged Axe",
-  "item.dragonitegear.stormforged_shovel": "Stormforged Shovel",
-  "item.dragonitegear.stormforged_hoe": "Stormforged Hoe",
-  "item.dragonitegear.stormforged_bow": "Stormforged Bow",
-  "item.dragonitegear.stormforged_staff": "Stormforged Staff",
-  "tooltip.dragonitegear.stormforged_staff": "An upgraded staff which will fire 3 projectiles which explode on impact.\nRight-click to fire 3 projectiles.",
+  "item.dragonitegear.dragonite_sword": "龙石剑",
+  "item.dragonitegear.dragonite_greatsword": "龙石大剑",
+  "item.dragonitegear.dragonite_pickaxe": "龙石镐",
+  "item.dragonitegear.dragonite_axe": "龙石斧",
+  "item.dragonitegear.dragonite_shovel": "龙石锹",
+  "item.dragonitegear.dragonite_hoe": "龙石锄",
+  "item.dragonitegear.dragonite_bow": "龙石弓",
+  "item.dragonitegear.dragonite_staff": "龙石杖",
+  "tooltip.dragonitegear.dragonite_staff": "能够释放火球，造成冲击的强力法杖。\n右击释放火球。",
 
 
-  "item.dragonitegear.dragonite_helmet": "Dragonite Helmet",
-  "item.dragonitegear.dragonite_chestplate": "Dragonite Chestplate",
-  "item.dragonitegear.dragonite_leggings": "Dragonite Leggings",
-  "item.dragonitegear.dragonite_boots": "Dragonite Boots"
+  "item.dragonitegear.stormforged_sword": "暴风之剑",
+  "item.dragonitegear.stormforged_greatsword": "暴风大剑",
+  "item.dragonitegear.stormforged_pickaxe": "暴风之镐",
+  "item.dragonitegear.stormforged_axe": "暴风之斧",
+  "item.dragonitegear.stormforged_shovel": "暴风之锹",
+  "item.dragonitegear.stormforged_hoe": "暴风之锄",
+  "item.dragonitegear.stormforged_bow": "暴风之弓",
+  "item.dragonitegear.stormforged_staff": "暴风之杖",
+  "tooltip.dragonitegear.stormforged_staff": "更高级的法杖，能够释放三个火球，轰击敌人。\n右击释放三个火球。",
+
+
+  "item.dragonitegear.dragonite_helmet": "龙石头盔",
+  "item.dragonitegear.dragonite_chestplate": "龙石胸甲",
+  "item.dragonitegear.dragonite_leggings": "龙石护腿",
+  "item.dragonitegear.dragonite_boots": "龙石靴子"
 }
