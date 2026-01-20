@@ -74,11 +74,11 @@
 		"Souls are collected using Soul Jars. Each Soul Jar can hold the souls of a single mob type. The amount of souls required to fill a Soul Jar differs depending on the mob."
 	]
 	quest.02AA09894A7363BD.quest_desc: [
-		"Generate infinite cobblestone (and other blocks)! Just place between a lava source and a water source."
+		"生成无限多的圆石（以及其他方块）！只需要将其放置在水源方块和熔岩源方块之间。"
 		""
-		"To generate block other than cobblestone, see JEI for details."
+		"要生成圆石以外的其他方块，请参阅 JEI。"
 		""
-		"Higher tiers exist, see JEI."
+		"存在更高级的版本，详见 JEI。"
 	]
 	quest.02AA09894A7363BD.quest_subtitle: "Cobblegen Galore"
 	quest.02B0D8895641DC69.quest_desc: [
@@ -86,16 +86,16 @@
 		""
 		"Note: Mars contains Plutonium (radioactive)."
 	]
-	quest.02CC10C8AD373D9B.quest_desc: ["A good starting point for carrying water between crucibles and barrels. Has limited durability. Lava transporting is not a smart idea."]
+	quest.02CC10C8AD373D9B.quest_desc: ["一个良好的开端。木桶可以用来从桶和坩埚间运输水。耐久有限。用它来运输熔岩不太明智。"]
 	quest.02E01BE2547A5F38.quest_desc: ["Klein Stars are great sources of EMC - even better when you can get them from seeds!"]
 	quest.02E01BE2547A5F38.quest_subtitle: "Mystical Agriculture"
 	quest.03122E9277646415.quest_desc: ["Prevents hostile mobs from spawning, large radius"]
 	quest.032193BAE8D6E08E.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
 	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in a refinery will create Stellaris oil."]
 	quest.03A0FA63A3AFBC5D.quest_desc: [
-		"Metal blocks are easy to craft in normal, much harder in expert."
+		"在普通难度下合成金属块非常简单，但在专家模式则相当难。"
 		""
-		"For expert mode: break ore blocks with a pickaxe to get raw ore, craft in a 3x3 to get raw ore block, and right-click the raw ore block into a stone barrel filled with lava. There are better ways of making metal blocks later in the game, see JEI."
+		"专家模式：用镐子破坏矿石方块以得到粗矿，将粗矿 3x3 合成为粗矿块，再手持粗矿块右击充满熔岩的石桶。游戏后期会有更好的制作金属块的方式，详见 JEI。"
 	]
 	quest.03AC14A7BE6B4833.quest_desc: ["Take a seat and eat some lunch!"]
 	quest.03B8D5EE6E52994C.quest_desc: ["Applied Energistics 2 adds components and mechanics to provide logistics and storage solutions. You can replace your massive room full of chests with a compact ME Network, but that's just the beginning of things. Applied Energistics is meant to work with and allow automation of other mods in a modpack. You can set up your system to, with a single click, craft all of the prerequisites (and the final result) of a complex crafting chain, or keep certain quantities of items in stock, crafting more as needed, or simply transfer items around your base."]
@@ -216,7 +216,7 @@
 		"Harvests the normal shovel blocks extremely quickly."
 	]
 	quest.08B173A9EF4FB5AF.quest_desc: ["Extended Crafting adds more ways to craft items, more items to craft with, and more utilities for crafting. "]
-	quest.08BB82725AF1F810.quest_desc: ["Use the porcelain crucible to get lava by placing it over a heat source (a torch or campfire to start) and filling it with cobblestone."]
+	quest.08BB82725AF1F810.quest_desc: ["陶瓷坩埚可以用来获取熔岩，只需将其放置在热源上（一开始可以用火把或营火）并在坩埚里放入圆石即可。"]
 	quest.08C405602991B1A9.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.091A0CAD568B9566.quest_desc: [
 		"The Basic variant is your starter Reactor. With a maximum size of 5x5x5 blocks (external dimensions), it's the perfect solution to start the mod!"
@@ -224,7 +224,7 @@
 		"See the book for details and how to set up."
 	]
 	quest.091A0CAD568B9566.title: "Basic Reactor Components"
-	quest.091C5591FC5A4116.quest_desc: ["Cobblestone can be crafted from pebbles."]
+	quest.091C5591FC5A4116.quest_desc: ["石子可以合成圆石。"]
 	quest.092088B386465246.quest_desc: ["A refined redstone-based material used in crafting advanced components and late-game machinery."]
 	quest.0949229274785FB0.quest_desc: ["Load chunks so stuff keeps on ticking when you aren't around. 3x3 area."]
 	quest.0955CDE0AF99C578.quest_desc: ["Cyanite and water in a reprocesser will create blutonium."]
@@ -349,7 +349,7 @@
 	quest.10ED928F001EA290.quest_desc: ["The main block that handles transferring items, fluids, energy, or redstone through the laser network using configurable cards."]
 	quest.10F60275E430ACDE.quest_desc: ["Crafting ingredient for hammers - 5x5x1"]
 	quest.1108CD5FBC79FE9C.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. This is the maximum tier injector."]
-	quest.112AE0A9B15941D2.quest_desc: ["These pipez can be upgraded to make them faster and filterable."]
+	quest.112AE0A9B15941D2.quest_desc: ["这些管道可以升级，以获得更快的速度和过滤功能。"]
 	quest.112AE0A9B15941D2.title: "Pipez"
 	quest.117E924B8AD92073.quest_desc: ["The 4 circuit presses are used to craft processors in the inscriber. Use Mystical Agriculture to craft these presses."]
 	quest.117E924B8AD92073.title: "Inscriber Presses"
@@ -386,12 +386,12 @@
 	]
 	quest.1248104A9F7A3F32.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
 	quest.125C064F10CFBF60.quest_desc: [
-		"Sieve and Hammer: Insert upgrades to process large amounts of material very quickly."
+		"筛子和锤：能够插入升级，快速地处理大量物品。"
 		""
-		"Compactor: Use RF to compress materials after sifting. A good complement to any auto-sieving setup!"
+		"压缩机：使用 RF 压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！"
 	]
 	quest.125C064F10CFBF60.quest_subtitle: "Ex Machinis"
-	quest.125C064F10CFBF60.title: "Flux Upgrades"
+	quest.125C064F10CFBF60.title: "通量升级"
 	quest.125E5D92A7D84955.quest_desc: ["Immersive Engineering multiblock machine. Assemble as a 3x3 and right-click with the engineer's hammer. Uses coal and outputs coal coke and creosote oil. See JEI or the manual for details."]
 	quest.125E5D92A7D84955.title: "Coke Oven"
 	quest.1273EAF9DC0A7479.quest_desc: ["Found via mining in the Aether."]
@@ -540,20 +540,20 @@
 	quest.1B20650DA11BD5F6.quest_desc: ["Max Blocks: 128"]
 	quest.1B4A6ACF29C9DD46.quest_desc: ["The Combiner allows the player to create an ore block from 8 dust. Place the ore dust in the top slot, and some cobblestone in the bottom slot, and it will combine to make the ore block. It requires 1000 power per operation. Works with the dust of copper, iron, tin, osmium, obsidian (only needs 4) and gold. Also allows 1 Flint to a gravel block and 16 Redstone/Lapis to their ores."]
 	quest.1B5C8B86CFDBB051.quest_desc: [
-		"For quest completions, items are automatically detected when they are in your inventory. Make sure to hold completed items in your inventory until FTB Quests detects it -> no quest complete = no rewards!"
+		"完成任务所需的物品需要放在物品栏才能被检测到。一定要将任务物品放进物品栏，等待 FTB Quest 检测 -> 任务未完成 = 没有奖励！"
 		""
-		"Quest rewards include coins. Coins can be redeemed at the coin shop for reward bags!"
+		"任务奖励包含硬币，硬币可以在硬币商店中兑换奖励袋！"
 		""
-		"Click on an item in your quest book or search in JEI to find how to craft items. You can also press \"r\" while hovering over an item. Press \"u\" to see an item's uses."
+		"在任务书中点击物品、在 JEI 中搜索都可以找到物品的配方，也可以将鼠标指针指向物品按 “r” 键来查看配方。同样，按 “u” 键可以查看物品的用途。"
 		""
-		"You can \"twerk\" to grow trees and some crops (pressing shift multiple times - make sure sticky keys are disabled on a PC), and you can vein mine blocks (the mod is FTB Ultimine, default keybind is the grave key `)."
+		"你可以通过“蹲起”让树和作物生长（多次按下潜行键——记得关闭粘滞键），你还可以连锁破坏方块（用到了 FTB Ultimine 模组，默认按键是反引号键 `）。"
 		""
-		"To gain more than the five base hearts, try eating a wide variety of food!"
+		"要获取更多生命值，试试吃下各种各样的食物！"
 		""
-		"You do not have to complete a whole page of quests before moving on to the next, but note that some quests cannot be started without finishing others first."
+		"你没必要在完成一个章节的所有任务后再开始下一章，但有些任务只有在前置任务完成后才能解锁。"
 	]
-	quest.1B5C8B86CFDBB051.quest_subtitle: "Important Info Here!"
-	quest.1B6FEBB8D9440617.quest_desc: ["Can be hammered into dust. Use in a sieve to obtain resources!"]
+	quest.1B5C8B86CFDBB051.quest_subtitle: "重要信息！"
+	quest.1B6FEBB8D9440617.quest_desc: ["能够粉碎成尘土，在筛子中使用可以获取资源！"]
 	quest.1B940854A058386C.quest_desc: ["Converts organic materials into biomass fuel"]
 	quest.1BAB46320F75A91B.quest_desc: [
 		"When starting out as a magical botanist, it proves beneficial to use the powers of nature on a more direct level before delving directly into aura itself. The Ritual of the Forest uses properties of Gold Powder to incorporate the power of natural ingredients directly into a fresh, growing tree, devouring it in the process, but at the same time, transforming it into useful tools and items."
@@ -737,7 +737,7 @@
 	quest.2516E592916EFBEB.quest_desc: ["Upgraded essences are crafted using the previous tier of essence and an infusion crystal. Used to create Tier 5 seeds. (Crystals are required in expert mode)"]
 	quest.251E78ED5A7DF9BF.quest_desc: ["Energy cubes can be used to hold large amounts of RF. The higher the tier, the more RF can be stored. Tier 4!"]
 	quest.2530A93E24EE02E2.quest_desc: ["Creative flight at no additional cost!"]
-	quest.253B925F5877067D.quest_desc: ["Sift gravel using a sieve and mesh to get ore chunks."]
+	quest.253B925F5877067D.quest_desc: ["用筛子筛沙砾可以得到矿物碎块。"]
 	quest.25771C0683859846.quest_desc: ["Fully automate a wither farm to mass produce nether stars."]
 	quest.2591C17114EF1CFC.quest_desc: ["An excellent way of duplicating ultimate singularities"]
 	quest.2595D390AED8C101.quest_desc: ["Diamond chest is upgraded from the gold chest."]
@@ -790,7 +790,7 @@
 		"The shears will harvest a large number of leaves or wool from many adjacent sheep."
 	]
 	quest.27453FAA4CD8BB2C.quest_desc: ["Made up of 387420489 cobblestone!"]
-	quest.279D5C185DE6FBF4.quest_desc: ["Craft ore chunks into ore (2x2)."]
+	quest.279D5C185DE6FBF4.quest_desc: ["将矿物碎块合成矿石（2x2）。"]
 	quest.27A3D6364800040A.quest_desc: ["Outdoor cooking - with style!"]
 	quest.27A8BB58004C1DB9.quest_desc: ["Any item placed into its inventory will be converted into EMC. It transfers energy from Energy Collectors to Energy Condensers. When transferring, it gives a 3 EMC per second bonus. It is also used to charge the Klein Star series with EMC. "]
 	quest.27C9EAA07B64CDD3.quest_desc: [
@@ -836,29 +836,29 @@
 	quest.2C52AF4EB1C85864.quest_desc: ["Uses solar power (sun) to generate RF. Tier 2!"]
 	quest.2C7CB05FD8889BD4.quest_desc: ["Turns lava and lava+redstone into RF."]
 	quest.2C8B647BDD0F481A.quest_desc: [
-		"&2By default, the pack is in normal mode.&r"
+		"&2默认情况下，整合包处于普通模式。&r"
 		""
-		"You can think of normal mode as Titan and expert mode as Kappa."
+		"你可以把普通模式当成 Titan 模式，专家模式当成 Kappa 模式。"
 		""
-		"There is no easy mode, sorry!"
+		"并没有简单模式，抱歉咯！"
 		""
-		"\"&b/packmode normal&r\" = Normal Mode = Harder recipes compared to regular modded packs."
+		"\"&b/packmode normal&r\" = 普通模式 = 比通常的模组整合更困难的合成配方。"
 		""
-		"\"&b/packmode expert&r\" = Expert Mode = Harder recipes compared to normal mode. Be prepared for the grind!"
+		"\"&b/packmode expert&r\" = 专家模式 = 比普通模式更加困难的合成配方，做好受苦的准备！"
 		""
-		"\"&b/packmode current&r\" = Checks the current pack mode."
+		"\"&b/packmode current&r\" = 查看整合包当前所处的模式。"
 		""
-		"Cheats need to be enabled or you need to be OP on the server. If on a server, this will change the difficulty for everyone."
+		"运行以上指令需要开启作弊或拥有服务器的 OP 权限。在服务器运行指令时，会改变所有人的模式。"
 		""
-		"You can also modify this through the kubejs/config/common.json file before loading the game."
+		"你也可以先在 kubejs/config/common.json 文件中修改难度，再开始游戏。"
 		""
-		"&4If playing a mode other than normal, you will need to run the command or change the config each time the modpack updates!&r"
+		"&4在非普通模式游玩时，每次整合包更新后，都需要重新运行指令或修改 config 文件来调整难度！&r"
 		""
-		"Please note that the quest book is optimized for normal mode. If you are playing in a different mode, be prepared to jump around the different quest chapters more than usual!"
+		"请注意，任务书仅适配普通模式，在其他模式下游玩时，要做好在各个章节任务间反复横跳的准备！"
 		""
-		"You can also run the command \"&b/packmode help&r\" to see details on packmodes."
+		"你也可以执行指令 “&b/packmode help&r\" 来查看关于整合包模式的更多细节。"
 	]
-	quest.2C8B647BDD0F481A.quest_subtitle: "Pick your poison!"
+	quest.2C8B647BDD0F481A.quest_subtitle: "两害相权！"
 	quest.2CD7E699CEEE73F8.quest_desc: [
 		"Store RF, like a battery!"
 		""
@@ -872,9 +872,9 @@
 	]
 	quest.2D205E67DE382A31.quest_desc: ["Upgrade that voids excess items. Prevents systems from jamming up due to overflow."]
 	quest.2D2B0DB13122E2EA.quest_desc: [
-		"Put saplings, leaves, wood chippings (hammer logs), or other organic material into an oak barrel to create dirt."
+		"将树苗、树叶、木屑（用锤破坏原木）或其他有机物放进木桶，就可以制造出泥土。"
 		""
-		"You can also make a dirt generator using water and witchwater - just like you would make a cobblestone generator with lava and water!"
+		"你也可以用水和巫水制作刷土机——就像用熔岩和水制作刷石机一样！"
 	]
 	quest.2D2E4CE0DE0E015F.quest_desc: ["Power from biofuel (plant matter in the crusher)."]
 	quest.2D928501975CB165.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
@@ -917,9 +917,9 @@
 	quest.2F631C8EE15BA50F.quest_desc: ["Automatically open those loot crates that keep dropping from your mob farm! (Hint: use hoppers or pipes for automation!)"]
 	quest.2F631C8EE15BA50F.quest_subtitle: "FTB Quests"
 	quest.2F7D243BFA0DE65C.quest_desc: [
-		"Barrels can also be used to create clay, slime, netherrack, end stone, obsidian, and more. See JEI for details."
+		"桶也可以用来制造黏土、粘液块、下界岩、末地石、黑曜石等方块。查阅 JEI 获取更多信息。"
 		""
-		"Clay blocks can be made by putting dust in a barrel filled with water."
+		"将尘土放入装满水的桶中就可以制作出黏土方块。"
 	]
 	quest.2F8633A3B969A2E5.quest_desc: ["Used for fusion crafting. One core is needed, and then one injector per item required for crafting. Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
 	quest.2FF30E29BD7550D5.quest_desc: ["Makes your rocket look like a tiny rocket!"]
@@ -931,9 +931,9 @@
 		"Propeller Hats is a mod that adds multiple tiers of propeller hats which can used to fly around. They are powered by FE so you will need a charger of some type to charge them."
 	]
 	quest.306E8065443E1FC6.quest_desc: ["Use on dirt to create dreadful dirt - will spawn hostile mobs. (5x5 space)"]
-	quest.30CC71CAC95122E2.quest_desc: ["Use the Alloy Kiln to create alloys without power in the early game. See JEI for how to build the multiblock structure."]
-	quest.30CC71CAC95122E2.quest_subtitle: "Immersive Engineering"
-	quest.30CC71CAC95122E2.title: "Alloy Kiln"
+	quest.30CC71CAC95122E2.quest_desc: ["游戏前期，合金窑可以在没有电力的情况下制作合金，在 JEI 中可以查看该多方块结构的搭建方式。"]
+	quest.30CC71CAC95122E2.quest_subtitle: "沉浸工程"
+	quest.30CC71CAC95122E2.title: "合金窑"
 	quest.30EC24CE1E708631.quest_desc: ["Tired of endless crafting? Take a break on your brand new sofa!"]
 	quest.30EDDDAA38ED12D1.quest_desc: ["Slay a sheep and cook its meat to obtain mutton."]
 	quest.30EDDDAA38ED12D1.quest_subtitle: "Minecraft"
@@ -1007,7 +1007,7 @@
 		""
 		"It also acts as the workstation for the Fluix Researcher."
 	]
-	quest.33D83D703DB763EF.quest_desc: ["Made from clay and bone meal, used to craft unfired porcelain items like crucibles."]
+	quest.33D83D703DB763EF.quest_desc: ["由黏土球和骨粉制作而来，用以制作未烧制的瓷器，如坩埚等。"]
 	quest.33F3134668A08D26.quest_desc: [
 		"Burns any Fuel (Coal/Wood/etc)."
 		""
@@ -1021,12 +1021,12 @@
 	]
 	quest.33F3134668A08D26.quest_subtitle: "Charging Gadgets"
 	quest.33FBEE929807ECFB.quest_desc: [
-		"Upgraded from the iron mesh."
+		"由铁筛网升级而来。"
 		""
-		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
 	]
 	quest.34172B8D67D6281E.quest_desc: ["Crafting ingredient to create Warden tools and armor."]
-	quest.34612C1E6AEDC97F.quest_desc: ["Early-game ore duplication - pretty slow, but better options are in your future!"]
+	quest.34612C1E6AEDC97F.quest_desc: ["游戏前期双倍矿方式——非常慢，但是未来会有更好的选择！"]
 	quest.34612C1E6AEDC97F.quest_subtitle: "Useful Machinery"
 	quest.3465BA65A8FF769E.quest_desc: ["The inscriber is used to inscribe circuits and processors using presses, and to crush various items into dust. It can accept either AE2's power (AE) or Fabric/Forge Energy (E/FE). It can be sided, such that inserting items from different sides inserts them into different slots in its inventory. To facilitate this, it can be rotated with a Certus Quartz Wrench. It can also be set to push the results of crafts to adjacent inventories."]
 	quest.3475FD5AB260705E.quest_desc: ["Just like an item drawer, but holds fluids!"]
@@ -1139,9 +1139,9 @@
 	quest.39596CAA42FE6D8A.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.397356F1B2238867.quest_desc: ["Your basic terminal, allowing you to view and access the contents of your network's storage and request things from your autocrafting setup."]
 	quest.3999198FADFC6A44.quest_desc: [
-		"Upgraded from the golden mesh."
+		"由金筛网升级而来。"
 		""
-		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
 	]
 	quest.39BB1EE4D2B24353.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
 	quest.39BC864BAA5BEF13.quest_desc: ["PackagedAuto is an addon to Applied Energistics 2, and it aims to use \"packages\" of items to allow autocrafting with more than 9 items, and fluid crafting is also supported."]
@@ -1212,11 +1212,11 @@
 	quest.3ED9992DD5070D51.quest_subtitle: "Farmer's Delight"
 	quest.3EDA781E026296F3.quest_desc: ["This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."]
 	quest.3F171C175D462267.quest_desc: [
-		"Sieve: Auto-sieve materials! Uses the same mesh as regular sieves. Meshes can be enchanted with fortune and efficiency. Need more iron? Try sifting crushed deepslate."
+		"筛子：自动筛矿！和普通筛子共用筛网。筛网可以附魔时运和效率。需要更多铁吗？试试筛粉碎深板岩。"
 		""
-		"Hammer: Can turn cobble to gravel, gravel to sand, sand to dust, and more! Requires a hammer (which can be enchanted with efficiency)."
+		"锤：能够将圆石变沙砾，沙砾变沙子，沙子变尘土等等！需要放入锤子（可以附魔效率）。"
 	]
-	quest.3F171C175D462267.title: "Mechanical Upgrades"
+	quest.3F171C175D462267.title: "机械升级"
 	quest.3F1E49F84A0BA465.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies phantoms."]
 	quest.3F3DC4BF5C52FE28.quest_desc: ["Build a max sized big reactor with reinforced materials."]
 	quest.3F74784097718DB8.quest_desc: [
@@ -1237,7 +1237,7 @@
 	]
 	quest.3FBC14ADA3E118E2.quest_subtitle: "Extended Crafting"
 	quest.3FE0809FC18DD36F.quest_desc: ["A sword with 8 attack damage."]
-	quest.3FFD5071CAB35FE9.quest_desc: ["A skyblock classic. Just like a regular bucket, but can only be used in some crafting recipes. Holding lava in it can limit its lifespan."]
+	quest.3FFD5071CAB35FE9.quest_desc: ["经典空岛用品，和普通的桶差不多，但是只能在个别合成配方中使用，用来盛熔岩会缩短其寿命。"]
 	quest.402ABC0A6EA35DD4.quest_desc: ["You use connectors to connect machines to your network. Through that connector various channels (even with different types) can do their thing. Normal connectors only allow access through the side from which you are placing the connector. i.e. for a vanilla furnace that would mean that with a normal connector you can only get the melted result by placing a connector at the bottom of the furnace. "]
 	quest.402C2DF5EB7E3496.quest_desc: [
 		"It uses no durability and kills every mob or player with one hit, even if the player is in Creative mode."
@@ -1410,11 +1410,11 @@
 	quest.4579E77C572486C8.quest_desc: ["An upgraded furnace with a base cook time of 80"]
 	quest.457F0F8D2AF686E8.quest_desc: ["A creative-tier upgrade that provides unlimited anything to compatible machines without consuming any resources."]
 	quest.45887881B110D056.quest_desc: [
-		"The compressed sieve can be used to sift compressed blocks - nine blocks in one!"
+		"压缩筛子可以筛压缩方块——九合一！"
 		""
-		"Sieves can be automated if you place a click machine below them, pointing up! Better sieving automation can be achieved as well. "
+		"在筛子底部放置方向朝上的自动点击器可以自动筛矿！同样还有更好的自动化筛矿方式。"
 		""
-		"You can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square). The difference between regular sieves and compressed sieves is that you need to fill each compressed sieve one-by-one and them you can sift them all at once."
+		"将压缩筛子摆放在一起可以同时筛矿（尝试摆成 3x3 的正方形）。 与普通筛子不同的是，你需要一个一个地放入方块才能开始筛矿。"
 	]
 	quest.45A5707D025CD692.quest_desc: [
 		"The Diamond Apple grants the following potion effects:"
@@ -1435,7 +1435,7 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.465262DA42AAFC33.quest_desc: ["Can be hammered into sand. Use in a sieve to obtain resources!"]
+	quest.465262DA42AAFC33.quest_desc: ["能够粉碎成沙子，在筛子中使用可以获取资源！"]
 	quest.46914D5CDA4CAFA7.quest_desc: ["Obtained by defeating the Ender Dragon. Unlocks the start of Draconic Evolution!"]
 	quest.46914D5CDA4CAFA7.quest_subtitle: "Draconic Evolution"
 	quest.46A87E7A5F454339.quest_desc: ["This mod allows you to cover up pretty much any cable/pipe from any mod!"]
@@ -1510,9 +1510,9 @@
 		"See The Hermetica for more details on Theurgy."
 	]
 	quest.4AEC1E7CE3F054B7.quest_desc: [
-		"Break a block with a hammer to crush it. Cobblestone -> Gravel, Gravel -> Sand, Sand -> Dust, Netherrack -> Crushed Netherrack, End Stone -> Crushed End Stone, Cobbled Deepslate -> Crushed Deepslate, Blackstone -> Crushed Blackstone, Crushed Netherrack -> Red Sand. Later, you can automate this process with different machines. For now, vein mining and construction sticks will be your friend. "
+		"用锤子破坏方块可以粉碎它。圆石 -> 沙砾，沙砾 -> 沙子，沙子 -> 尘土，下界岩 -> 粉碎下界岩，末地石 -> 粉碎末地石，深板岩圆石 -> 粉碎深板岩，黑石 -> 粉碎黑石，粉碎下界岩 -> 红沙。不久之后，你就能用多种机器来自动化这一过程，但现在，仰仗着你的连锁破坏和建筑棒兄弟吧。"
 		""
-		"Try hammering logs to obtain wood chippings - great for compost!"
+		"试试锤击原木来获取木屑——一种极好的堆肥！"
 	]
 	quest.4B49091675AA1DFA.quest_desc: ["Any item placed into its inventory will be converted into EMC and will transfer energy from Energy Collectors to Energy Condensers. When transferring, it gives a 10 EMC per second bonus. It will charge any of the Klein Star series with EMC. "]
 	quest.4B5D653985BDC839.quest_desc: [
@@ -1520,7 +1520,7 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.4B62DEDA4F901770.quest_desc: ["Maximize smelting efficiency with unparalleled speed, reconfigurable sides, augments for smoking and blasting, and much more."]
+	quest.4B62DEDA4F901770.quest_desc: ["以更快的速度、可调节的面、烟熏炉和高炉组件等，来最大化熔炼效率。"]
 	quest.4B893A1BDA3CEC33.quest_desc: ["A powerful sword in it's own right by charging it and using activating it (C) the Dark Matter Sword will consume EMC in exchange for a devastating sweep attack. The area of the attack is controlled by charge level (V, shift+V)."]
 	quest.4BCB152BBCEB3B90.quest_desc: [
 		"The Environmental Eye is very useful in theory; however, a lot of magical botanists struggle with its limited range of gauging aura in the environment around them. A simple solution to this problem is the Environmental Ocular. While working similarly to the Environmental Eye, the main difference is its much bigger gauge for aura in the area: It is twice as large."
@@ -1528,9 +1528,9 @@
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
 	quest.4BD1385340E3C938.quest_desc: [
-		"Ore can be mined into raw ore, or smelted directly into ingots."
+		"矿石可以挖掘成粗矿，也可以直接熔炼成锭。"
 		""
-		"In addition to regular crafting recipes, iron ingots are used to make compressed iron ingots. Throw some iron ingots on the ground and set off an explosion (i.e. TNT or mini TNT) nearby. You will lose about 20% of your ingots, but the rest will be converted to compressed iron! Later, you can make it in more efficient ways."
+		"除了通常的合成配方外，铁锭还可以用来制作压缩铁锭。将铁锭扔到地面上，并在附近引发爆炸（例如 TNT 或迷你 TNT），你将失去约 20% 的铁锭，其余部分将会转化成压缩铁锭！后期可以解锁更加高效的获取方式。"
 	]
 	quest.4BDA60A93E629E04.quest_desc: [
 		"Higher tier versions of the tier 1 block gen. Faster yields! "
@@ -1596,9 +1596,9 @@
 	quest.4D1BF4F802916D45.quest_desc: ["A sword with 7 attack damage."]
 	quest.4D1FA2C2E6FC7A8C.quest_desc: ["Allows the use of the terminals/crafting device across dimensions."]
 	quest.4D25AC81B93F326E.quest_desc: [
-		"Sift dirt to obtain grass seeds. Clicking grass seeds on a dirt block will turn the dirt into a grass block. Grass seeds can also be used to craft moss."
+		"筛泥土可以获取草籽。手持草籽右击泥土可以将其转化为草方块。草籽还可以用来合成苔藓块。"
 		""
-		"Passive mobs will spawn on grass blocks if you are far enough away from them. Trouble spawning mobs? Look up \"Haven Animal Seeds\" in JEI."
+		"友好生物可以在草方块上生成，但前提是与草方块保持好一定距离。在生物生成上遇到了麻烦？在 JEI 中搜索 “Haven Animal Seeds”。"
 	]
 	quest.4D2DA470DCB74326.quest_desc: ["Place in front of a tree or log to generate latex."]
 	quest.4D462F76B3844D3D.quest_desc: ["The Precision Sawmill is used for reclaiming wood from wooden items and turn logs into planks with a better yield (6 planks per log). Also makes sawdust for use in making Cardboard Boxes."]
@@ -1625,7 +1625,7 @@
 	quest.4EB47C3E07B444F6.quest_subtitle: "Haven Animal Seeds"
 	quest.4F24A4C6468A063A.quest_desc: ["Obtained by reprocessing ridiculite with rossinite, which is a waste product from using verderium as fuel in a reactor."]
 	quest.4F67D41CEFA7A8B0.quest_desc: ["The dense heart of a star in convenient ingot form."]
-	quest.4F849729CA0DAF2E.quest_desc: ["Use in a sieve to obtain resources! Can also be turned into clay blocks."]
+	quest.4F849729CA0DAF2E.quest_desc: ["在筛子中使用可以获取资源！还可以转化成黏土方块。"]
 	quest.4F9D4A5D5C0B81D0.quest_desc: ["Grow trees and harvest them automatically! Requires an axe to be inserted and a hopper with chest to be below."]
 	quest.4FB596AD930D87D8.quest_desc: ["Connect different inventories to your Simple Storage Network!"]
 	quest.4FB596AD930D87D8.title: "Cables and Connectors"
@@ -1732,11 +1732,11 @@
 	quest.537E84EDD29F486A.quest_desc: ["Steeleaf is a tool and armor material found in Labyrinth, Hollow Hill, and Dark Tower chests. This material is as powerful as Diamond in a tool or armor, but is less durable than even Iron."]
 	quest.53ADBC3ADF1C83C0.quest_desc: ["Made of 10,000 invar ingots"]
 	quest.53F53BD4220B295B.quest_desc: [
-		"Early game power. Generate RF from coal. Other power generation options are obtainable as you move through the pack."
+		"游戏早期发电方式，通过燃煤产生 RF，随着你的进一步发展，更多发电方式将会解锁。"
 		""
-		"Note: To make compressed iron in the early game, set off an explosion next to some iron ingots (TNT plus redstone signal). They will be converted to compressed iron, with a 20% loss rate on average."
+		"注：在前期，可以通过引爆铁锭（TNT 加红石信号）来获取压缩铁锭，平均损失率为 20%。"
 	]
-	quest.53F53BD4220B295B.quest_subtitle: "Industrial Foregoing"
+	quest.53F53BD4220B295B.quest_subtitle: "工业先锋"
 	quest.53F5A5A785503096.quest_desc: ["Energy storage item that holds and transfers RF"]
 	quest.543FAEFE24110294.quest_desc: [
 		"This device generates energy for your ME network without the need for fuel. Because of the crystal vibrations this device generates, only one can be used in each network. These vibrations even pass through Quartz Fiber."
@@ -1779,11 +1779,11 @@
 	quest.55B089A848531E3E.quest_desc: ["Essence Armor pieces are higher tier armor that can be upgraded using Augments."]
 	quest.563EF0C91E88B0D5.quest_desc: ["Plant on grass to grow a pig Make sure to give it plenty of breathing room to grow."]
 	quest.56718D2CB87DF305.quest_desc: [
-		"Compressed hammers can hammer compressed blocks!"
+		"压缩锤可以粉碎压缩方块！"
 		""
-		"Break a block with a hammer to crush it. Cobblestone -> Gravel, Gravel -> Sand, Sand -> Dust, Netherrack -> Crushed Netherrack, End Stone -> Crushed End Stone, Cobbled Deepslate -> Crushed Deepslate, Blackstone -> Crushed Blackstone, Crushed Netherrack -> Red Sand. Later, you can automate this process with different machines. For now, vein mining and construction sticks will be your friend. "
+		"用锤子破坏方块可以粉碎它。圆石 -> 沙砾，沙砾 -> 沙子，沙子 -> 尘土，下界岩 -> 粉碎下界岩，末地石 -> 粉碎末地石，深板岩圆石 -> 粉碎深板岩，黑石 -> 粉碎黑石，粉碎下界岩 -> 红沙。不久之后，你就能用多种机器来自动化这一过程，但现在，仰仗着你的连锁破坏和建筑棒兄弟吧。"
 		""
-		"Try hammering logs to obtain wood chippings - great for compost!"
+		"试试锤击原木来获取木屑——一种极好的堆肥！"
 	]
 	quest.5675512404BF2759.quest_desc: ["A three-slotted compacting drawer."]
 	quest.56772ECF0B3C75CE.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI. Requires pink slime, obtained from the mob slaughter factory."]
@@ -1910,9 +1910,9 @@
 	]
 	quest.5CAB7799DC531CE6.quest_desc: ["Transports pressure. Upgradable."]
 	quest.5CEF864B6400D5F1.quest_desc: [
-		"Infest leaves by right-clicking on a leaf block with a silkworm."
+		"手持蚕右击树叶方块以感染树叶。"
 		""
-		"Note: Break leaves with a crook to obtain silkworks - 1% chance of dropping."
+		"注：用钩子破坏树叶以获取蚕——掉率为 1%。"
 	]
 	quest.5CFAC0E0451F6ADD.quest_desc: ["The Tesseract allows you to transport Items, Fluid and Energy. Tesseracts work at any distance and even across dimensions! Use multiple channels to have different groups of Tesseracts!"]
 	quest.5CFAC0E0451F6ADD.quest_subtitle: "Tesseract"
@@ -1937,9 +1937,9 @@
 	quest.5DF4D12AFAF3972E.quest_subtitle: "Stellaris"
 	quest.5E2AD42305DE2B60.quest_desc: ["In strong lighting, or if placed in the nether, it will generate a passive 40 EMC per second up to a maximum of 60,000 EMC. When placed adjacent to a Energy Condenser MK1, Energy Condenser MK2, Energy Condenser MK3, Anti-Matter Relay MK1, Anti-Matter Relay MK2, or Anti-Matter Relay MK3, it will transfer the EMC into that machine. "]
 	quest.5E44820EC853BAA9.quest_desc: [
-		"Upgraded from the diamond mesh. Requires a netherite upgrade smithing template, which can be found in nether bastions."
+		"由钻石筛网升级而来，需要一个锻造模板，可以在下界堡垒中取得。"
 		""
-		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
 	]
 	quest.5E4C03123DB8AB9C.quest_desc: ["Mining a Wood Block of a tree will instantly mine the whole tree. Mining leaves will mine a sphere of about 5 blocks. It uses no durability. "]
 	quest.5E6CC59391F00CAA.quest_desc: ["This offers multiple saved destinations, faster teleportation, and more configuration options"]
@@ -1955,16 +1955,16 @@
 	quest.5F0F1FFB4160C1C0.quest_desc: ["This machine extracts oil from canola seeds to be used as fuel or in energy systems."]
 	quest.5F20B63527ED0622.quest_desc: ["Tier 2. The only armor pieces in Draconic Evolution for 1.21.1 are the chestplates. Modules are needed to make it function, see JEI."]
 	quest.5F4DAFEDC43C0964.quest_desc: [
-		"Use a crook on leaves to obtain saplings and silkworms (Note: silkworks have a 1% chance of dropping)."
+		"用钩子钩树叶可以获取树苗和蚕（注：蚕的掉率为 1%）"
 		""
-		"Sieves are used to obtain resources. A mesh is required."
+		"而筛子可以用来获取资源，你需要给筛子放入筛网。"
 		""
-		"Sieves can be automated if you place a click machine below them, pointing up! Better sieving automation can be achieved as well. "
+		"在筛子底部放置方向朝上的自动点击器可以自动筛矿！同样还有更好的自动化筛矿方式。"
 		""
-		"Note: Construction wands and vein mining will be your friend in the early game. You can sift using multiple sieves at once by placing them next to each other (try a 3x3 square)."
+		"注：在游戏前期，建筑棒和连锁破坏是你的好帮手。将筛子摆放在一起可以同时筛矿（尝试摆成 3x3 的正方形吧）。"
 	]
-	quest.5F4DAFEDC43C0964.quest_subtitle: "Ex Deorum"
-	quest.5F4DAFEDC43C0964.title: "Crook and Sieve"
+	quest.5F4DAFEDC43C0964.quest_subtitle: "无中生有：神赐"
+	quest.5F4DAFEDC43C0964.title: "钩子和筛子"
 	quest.5F52D927648C1375.quest_desc: ["The Advanced Magnet picks up Items and Experience within a 11 block range of the player!"]
 	quest.5F5BB0B31B3A1C26.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
 	quest.5F7BB2B66376EC4B.quest_desc: ["It can break every block including Bedrock instantly. It has a Fortune X enchantment when crafted and uses no durability. "]
@@ -1998,7 +1998,7 @@
 	]
 	quest.60553E95A9C0BBF4.quest_desc: ["The Builder consumes RF to construct areas in the world with blocks fed into its inventory or relocating preexisting areas. It can also clear a large area of space or break specific blocks in an area."]
 	quest.6055F3B2ACE430FC.quest_desc: ["Knives are scavenging tools: they allow you to obtain a few more resources from both fauna and flora."]
-	quest.60596DD8FDCEC74A.quest_desc: ["Place a mesh inside of a sieve to generate resources from dirt, gravel, sand, dust, and more! Meshes can be used in both normal sieves and compressed sieves"]
+	quest.60596DD8FDCEC74A.quest_desc: ["将筛网放进筛子，就可以开始筛泥土、沙砾、沙子、尘土等方块，获取多种资源了！筛网既可以放进普通筛子，也可以放进压缩筛子。"]
 	quest.60B2410C50B81C1A.quest_desc: [
 		"Store RF, like a battery!"
 		""
@@ -2053,12 +2053,12 @@
 	quest.6299CB158A777246.quest_desc: ["Consumes nearby leaves and turns them into power."]
 	quest.62C53D877A059585.quest_desc: ["All fluids piped into here will be voided."]
 	quest.62D5202491593442.quest_desc: [
-		"Water can be created by collecting rainwater in an oak barrel or by putting saplings or leaves into an oak crucible."
+		"用木桶收集雨水，或者将树苗或树叶放进木坩埚内，可以生成水。"
 		""
-		"Barrels are useful for creating blocks such as dirt, clay, soul sand, slime, and more! Stone barrel varient is also present. See JEI."
+		"木桶非常实用，可以用来制造泥土、黏土、灵魂沙、粘液块等方块！你也可以制作石桶，详见 JEI。"
 	]
-	quest.62D5202491593442.quest_subtitle: "Ex Deorum"
-	quest.62D5202491593442.title: "Wooden Barrel and Crucible"
+	quest.62D5202491593442.quest_subtitle: "无中生有：神赐"
+	quest.62D5202491593442.title: "木桶和木坩埚"
 	quest.633CEC0C789695E7.quest_desc: ["A good start for starting to automate your mob farm! No more standing around and punching the mobs yourself."]
 	quest.633CEC0C789695E7.quest_subtitle: "Spiky Spikes"
 	quest.6349016135BBD0AC.quest_desc: [
@@ -2100,9 +2100,9 @@
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
 	quest.64D345ED39C8AF6E.quest_desc: [
-		"Upgraded from the flint mesh."
+		"由燧石筛网升级而来。"
 		""
-		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
 	]
 	quest.650B9EB6E578026C.quest_desc: [
 		"Crafting co-processors make the system send out ingredient batches from ME Pattern Providers more often by making the CPU tick faster. This allows them to keep up with machines that process quickly. An example of this is a pattern provider surrounded by Molecular Assemblers being able to push ingredients faster than a single assembler can process, and thus distributing the ingredient batches between the surrounding assemblers."
@@ -2120,7 +2120,7 @@
 	quest.6584CD710EFC59ED.quest_desc: ["Obsidian chest is upgraded from the diamond chest. Same storage amount, just blast-resistant!"]
 	quest.65B7E98FC7D9ADBE.quest_desc: ["It can mine all blocks a normal shovel can mine instantly. It uses no durability."]
 	quest.664982C92C008BF9.quest_desc: ["Your basic terminal, now portable! View and access the contents of your network's storage and request things from your autocrafting setup from anywhere within the range of a ME Wireless Access Point."]
-	quest.6649913A78D19083.quest_desc: ["There will be better ways to craft plates later in the game, but the best way to start is with the Engineer's Hammer."]
+	quest.6649913A78D19083.quest_desc: ["游戏后期会有更好的制作板子的方式，但在前期，最好的方式就是用工程师锤。"]
 	quest.664FCA66D021E5EB.quest_desc: [
 		"Years after their original inception, magical botanists have finally found a new material able to harness the powers of aura through new means: the mystical and elusive )Netherite. With it, one can create a most powerful material: Ingots of the Depths. These ingots, as expected, can also be turned into armor and tools."
 		""
@@ -2135,8 +2135,8 @@
 	quest.67165901C0E6C509.quest_desc: ["Crafting ingredient needed to make recipe holders and encoders."]
 	quest.672951246DF850D1.quest_desc: ["Ice shards are found on cold moons and planets."]
 	quest.672B673A2F199A90.quest_desc: ["All Rotspawn drop utheric shards when killed."]
-	quest.67684E03885EB857.quest_desc: ["These blocks can all be processed through the compressed sieve to generate resources."]
-	quest.67684E03885EB857.title: "Compressed Sieving"
+	quest.67684E03885EB857.quest_desc: ["这些方块可以放入压缩筛子进行筛矿，获取资源。"]
+	quest.67684E03885EB857.title: "压缩筛矿"
 	quest.678ACA1FAD9052E4.quest_desc: ["Generates power from radioactive materials."]
 	quest.67A73C10038C9156.quest_desc: ["Uses solar power (sun) to generate RF. Tier 7!"]
 	quest.67E4375F1DD59AA0.quest_desc: ["Faster conduits!"]
@@ -2190,11 +2190,11 @@
 	]
 	quest.6960CFAA0006178F.quest_subtitle: "Mob Flow Utilities"
 	quest.696A38C5D80A2CDC.quest_desc: [
-		"Sift dirt or shift-click the ground to get pebbles."
+		"筛泥土或潜行右击地面可以得到石子。"
 		""
-		"Use the keybind shortcut \"shift\" + \"k\" while hovering over a stack of pebbles to automatically compress into cobblestone!"
+		"将鼠标移动至你收集的石子，按下快捷键 “shift” + “k” 可以将它们自动合成圆石！"
 	]
-	quest.696A38C5D80A2CDC.quest_subtitle: "Ex Deorum"
+	quest.696A38C5D80A2CDC.quest_subtitle: "无中生有：神赐"
 	quest.69C8C3F25F60409F.quest_desc: ["Increases the area that the absorbtion hopper can collect items/xp from."]
 	quest.69D590FA274E2B41.quest_desc: [
 		"Place the Flux Crafter in-world and right-click to view the GUI. Inside there's a 3x3 crafting grid, similar to a Crafting Table. Place your recipe ingredients into the grid."
@@ -2233,7 +2233,7 @@
 	quest.6C1D7C9A68FBB65D.quest_desc: ["A creative-tier upgrade that provides infinite access to the stored item in a drawer without consuming the original stack."]
 	quest.6C647123A99A46DD.quest_desc: ["This block generator has a speed of 8"]
 	quest.6C682E372AB94474.quest_desc: ["Max Blocks: 27"]
-	quest.6C71752F5F9B7222.quest_desc: ["Just like the wooden barrel, except this one can hold hot liquids such as lava."]
+	quest.6C71752F5F9B7222.quest_desc: ["和木桶差不多，但是这个桶可以盛熔岩等热流体。"]
 	quest.6C931BB4213DC381.quest_desc: ["This block generator has a speed of 16"]
 	quest.6D1640B0CC4ADAF6.quest_desc: [
 		"Features:"
@@ -2339,7 +2339,7 @@
 	quest.712D46C093C92BA7.quest_desc: ["A highly advanced multiblock structure that generates massive amounts of RF energy but requires careful management to prevent catastrophic explosions."]
 	quest.712D46C093C92BA7.title: "Draconic Reactor"
 	quest.7139AC799DC225FA.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
-	quest.714DD2BC87D5A3A8.quest_desc: ["Break infested leaves with a crook to get string!"]
+	quest.714DD2BC87D5A3A8.quest_desc: ["用钩子破坏被感染的树叶就可以得到线！"]
 	quest.71985D320264CC4B.quest_desc: ["How To Change Texture: Inside a crafting window place the block you want to use the texture of for the outside of the drawer in the first slot of the crafting window, on the second slot put the block that will be used for the texture on the inside of the framed drawer, and on the third slot put a framed drawer. You can change the drawer divider texture by adding a block into the 4th slot."]
 	quest.71C5B72891529DDB.quest_desc: ["Special apples that give different buffs! Hold shift while hovering over the apple to see its effects."]
 	quest.71E75FEACF764F83.quest_desc: [
@@ -2362,15 +2362,15 @@
 	quest.72C6F582DAA81CBF.quest_desc: ["A multiblock machine that uses molds and power to shape metal ingots and other materials into plates, rods, gears, and more."]
 	quest.72C6F582DAA81CBF.title: "Metal Press"
 	quest.731CFBA9CEF27A6A.quest_desc: [
-		"欢迎来到 Ozone Skyblock Reborn 2，一款由 MuggleOrWizard 制作的专家包！本包是 Ozone Skyblock Reborn 系列的续作。如果你在游玩过程中想要提出建议或遇到了某些问题，欢迎在项目页面中留下评论，或是在 Curseforge 给我发送消息，还可以加入 Discord 服务器进行反馈。"
+		"欢迎来到 Ozone Skyblock Reborn 2，一款由 MuggleOrWizard 制作的专家包！本包是 Ozone Skyblock Reborn 系列的续作。如果你在游玩过程中想要提出建议或遇到了某些问题，欢迎在项目页面中留下评论，或是在 Curseforge 给我发送消息，也可以加入 Discord 服务器进行反馈。"
 		""
-		"如果你正在多人世界中游玩，可以执行指令 “&b/skyblock gui&r” 来建立团队并创建岛屿。在物品栏开启时点击屏幕左上角的队伍图标，可以建立或加入队伍，以共享认领区块和任务进度。任务也可以从物品栏界面屏幕左上角点击查看。"
+		"如果你正在多人世界中游玩，可以执行指令 “&b/skyblock gui&r” 来建立团队并创建岛屿。在物品栏开启时点击屏幕左上角的队伍图标，可以建立或加入队伍，共享认领区块和任务进度。任务也可以从物品栏界面屏幕左上角点击查看。"
 		""
 		"&4阅读带有红心图标的任务可以了解本整合包的不同模式！&r"
 		""
 		"&2这个整合包系列的灵感源自于 TheCazadorSniper 的 “Project Ozone” 系列。如果你还没玩过，我强烈推荐你看一看——在 Curseforge 上就可以找到。&r"
 		""
-		"部分任务描述中可能包含取自或修改自模组项目页面、wiki 或游戏内指引书中的信息。版权归属于对应模组及 wiki 的作者。想要了解更多关于某个模组的信息，访问 Ozone Skyblock Reborn 2 项目页面，浏览模组列表，然后点击你想要了解的模组即可。"
+		"部分任务描述中可能包含取自或修改自模组项目页面、wiki 或游戏内指引书中的信息。版权归属于对应模组及 wiki 作者。想要了解更多关于某个模组的信息，访问 Ozone Skyblock Reborn 2 项目页面，浏览模组列表，然后点击你想要了解的模组即可。"
 	]
 	quest.731CFBA9CEF27A6A.quest_subtitle: "阅读后打钩！"
 	quest.732A662662650FD1.quest_desc: ["The Infusion Altarnator is a single-block automatable version of the Infusion Altar."]
@@ -2396,11 +2396,11 @@
 	quest.74353DACE7BECFB0.quest_desc: ["Desh can be found on the moon."]
 	quest.74795B5D24F8B27F.quest_desc: ["Similar to the Storage Terminal, but with the addition of a crafting interface."]
 	quest.749846E05249E17D.quest_desc: [
-		"The wrench is used to configure pipez. Other cable options are obtainable as you move through the pack."
+		"这个扳手能够用来调整 pipez 模组的管道，随着进一步发展还将解锁更多类型的管道供你选择。"
 		""
-		"The Pipez mod adds simple and highly configurable pipes. Includes a highly configurable filter system and upgrade tiers. Now with Pretty x Smart Pipez resource pack!"
+		"Pipez 模组添加了一些简便且可任意调整的管道，同时还具有可高度配置的过滤系统和各种升级。同时还使用了 Pretty x Smart Pipez 资源包！"
 		""
-		"Note: TPS lag may occur for some players in worlds with lots of pipez!"
+		"注：大量的 pipez 管道可能会使同一世界内部分玩家的 TPS 降低！"
 	]
 	quest.749846E05249E17D.quest_subtitle: "Pipez"
 	quest.749E64CD1E5C5529.quest_desc: ["Made of 10,000 silver ingots"]
@@ -2478,9 +2478,9 @@
 	quest.78894BE946EAEC1A.quest_desc: ["Uses uraninite, redstone, coal, water, and dry ice to generate RF."]
 	quest.78A26490832112B9.quest_desc: ["Generate a timed redstone pulse unless a pulse is received in the meantime"]
 	quest.78FD281689257180.quest_desc: [
-		"Upgraded from the string mesh."
+		"由线筛网升级而来。"
 		""
-		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
 	]
 	quest.79929E7B59774B6F.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for niotic tier Powah items."]
 	quest.79A6A2865FCF6823.quest_desc: ["Uses solar power (sun) to generate RF. Tier 1!"]
@@ -2561,7 +2561,7 @@
 	quest.7E1ADEEC8EADE7A8.quest_subtitle: "ProjectE"
 	quest.7E1ADEEC8EADE7A8.title: "Covalence Dust"
 	quest.7E56A182F8DEF697.quest_desc: ["The Crusher, well, crushes things. Not to be mistaken for the Enrichment Chamber."]
-	quest.7E7C8A3B94BF6C37.quest_desc: ["Enchant your meshes with efficiency and fortune for more speed and better drop rates!"]
+	quest.7E7C8A3B94BF6C37.quest_desc: ["在筛网上附魔效率和时运，提升速度和掉率！"]
 	quest.7ED21876B4C1CE24.quest_desc: ["Obtained by reprocessing benitoite with rossinite, which is a waste product from using verderium as fuel in a reactor."]
 	quest.7EE2214DA65D041B.quest_desc: ["Makes your rocket look like a big rocket!"]
 	quest.7EEF3486A0EB8B61.quest_desc: ["Use energy to automate chiseling blocks! "]
@@ -2611,7 +2611,7 @@
 	task.1EC5EC6D97B0CF60.title: "EMC"
 	task.23FCB8AAD248736E.title: "Endest"
 	task.249C4BC4448C6008.title: "Storage"
-	task.272EE42B31F779A7.title: "Helpful Tips"
+	task.272EE42B31F779A7.title: "实用提示"
 	task.279530634E517929.title: "游玩说明"
 	task.2AA12BAEBCC7700A.title: "Laser"
 	task.2B3F62AA4A632D89.title: "Space"
@@ -2631,5 +2631,5 @@
 	task.67B0E55D7E797F8A.title: "Frequently Asked Questions"
 	task.70B3DE01340F05E0.title: "Cobble"
 	task.728D6B8853D87281.title: "Chance"
-	task.749F51B583696908.title: "Pack Mode"
+	task.749F51B583696908.title: "整合包模式"
 }
