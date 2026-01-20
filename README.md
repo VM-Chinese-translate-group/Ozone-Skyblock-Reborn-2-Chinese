@@ -52,8 +52,9 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 - KubeJS (Modified Contents)
 - Slab Machines
 - Vertical Slabs (done)
-- wooden hopper
-- golden hopper
+- Wooden Hopper
+- Golden Hopper
+- Crafting Station
 
 被划掉的模组由于各种原因（模组内部存在汉化、模组本身汉化意义不大等）不汉化
 
