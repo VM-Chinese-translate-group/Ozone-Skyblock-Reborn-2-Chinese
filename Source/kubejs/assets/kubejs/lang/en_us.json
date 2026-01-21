@@ -47,7 +47,7 @@
 
     "fluid.kubejs.molten_insanium": "Molten Insanium",
 
-
+    "item.kubejs.molten_insanium_bucket": "Molten Insanium Bucket",
 
 
     "item.kubejs.blazing_star": "Blazing Star",
@@ -383,4 +383,5 @@
     "item.kubejs.utherium_sulfur.tooltip.extended": "Sulfur represents the \"idea\" or \"soul\" of an object",
     "item.kubejs.utherium_sulfur.tooltip.usage": "Sulfur is the central element used in Spagyrics processes.\n\n§oHint: Sulfurs crafted from different states of the same material (such as from Ore or Ingots) are interchangeable.§r"
 }
+
 
