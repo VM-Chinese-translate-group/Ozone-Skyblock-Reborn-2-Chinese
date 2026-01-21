@@ -1,27 +1,27 @@
 {
-	chapter.0B4D25B1D0EFA14E.title: "Applied Automation"
-	chapter.0CA6AD38E75C8A80.title: "Crazy Crafting"
-	chapter.135ADB72F33F7566.title: "Mechanical Methods"
-	chapter.1601303EAAFFE96D.title: "EMC Extravaganza "
-	chapter.17D2072A30FD981D.title: "Endgame Experience"
-	chapter.2658F0CCAA937298.title: "Factory Fanatics"
-	chapter.27E02EB8F3311112.title: "Draconically Dangerous"
-	chapter.29534AE5CE34445D.title: "Simple Achievements"
-	chapter.316E4E132106EEC3.title: "Dimension Diving"
-	chapter.39804937A030E667.title: "Miscellaneous Marvels"
-	chapter.43460BCD6731B646.title: "Power Production"
+	chapter.0B4D25B1D0EFA14E.title: "应用自动化"
+	chapter.0CA6AD38E75C8A80.title: "疯狂合成"
+	chapter.135ADB72F33F7566.title: "机械手段"
+	chapter.1601303EAAFFE96D.title: "EMC 华彩"
+	chapter.17D2072A30FD981D.title: "终局体验"
+	chapter.2658F0CCAA937298.title: "工厂狂热"
+	chapter.27E02EB8F3311112.title: "龙级灾害"
+	chapter.29534AE5CE34445D.title: "简单成就"
+	chapter.316E4E132106EEC3.title: "维度深潜"
+	chapter.39804937A030E667.title: "惊奇杂物"
+	chapter.43460BCD6731B646.title: "生产电力"
 	chapter.51C54822990EC8CC.title: "入门指南"
-	chapter.53C0840E4343A861.title: "Storage Solutions"
-	chapter.574290CF213AD0B2.title: "Incredible Industry"
-	chapter.5852C8EAABD22796.title: "Space Scouting"
-	chapter.5A780A347557A677.title: "Overpowered Opulence"
-	chapter.601DE1E7A9B34F09.title: "Magical Mayhem"
-	chapter.6281543A9FF4B497.title: "Coin Shop"
-	chapter.63B4DECB51F4BDDD.title: "Mob Mashing"
-	chapter.6DC3573F985B3407.title: "Culinary Creations"
-	chapter.7150356FCD9C2633.title: "Resources Required"
-	chapter.7D3F9E93F7A636B7.title: "FAQ"
-	chapter.7E229907B5BA0260.title: "Delightful Decor"
+	chapter.53C0840E4343A861.title: "仓储方案"
+	chapter.574290CF213AD0B2.title: "不思议工业"
+	chapter.5852C8EAABD22796.title: "太空侦查"
+	chapter.5A780A347557A677.title: "无上奢靡"
+	chapter.601DE1E7A9B34F09.title: "纷扰魔力"
+	chapter.6281543A9FF4B497.title: "硬币商店"
+	chapter.63B4DECB51F4BDDD.title: "捣碎怪物"
+	chapter.6DC3573F985B3407.title: "厨艺美食"
+	chapter.7150356FCD9C2633.title: "资源短缺"
+	chapter.7D3F9E93F7A636B7.title: "有问必答"
+	chapter.7E229907B5BA0260.title: "富丽堂皇"
 	quest.000303D086D2B044.quest_desc: ["Plant on grass to grow a sheep Make sure to give it plenty of breathing room to grow."]
 	quest.0019EFE1E929FEE1.quest_desc: ["Compact your produce into blocks!"]
 	quest.003E76D37F01200A.quest_desc: ["Used to create simulations of mobs."]
@@ -122,7 +122,7 @@
 		""
 		"Remember to put a battery into the ender cell for energy storage!"
 	]
-	quest.050E9ECB6D658C96.quest_desc: ["The Entity Conveyer moves mobs and items along a horizontal vector."]
+	quest.050E9ECB6D658C96.quest_desc: ["实体传送带能够将生物和物品水平移动。"]
 	quest.0565492F3A30C232.quest_desc: ["Obtained by reprocessing ludicrite with magnetite, which is a waste product from using bluetonium as fuel in a reactor."]
 	quest.05C818675A4A2782.quest_desc: ["Generates power from coal and the sun."]
 	quest.05C818675A4A2782.title: "Generators"
@@ -157,7 +157,7 @@
 	]
 	quest.066E2CD8219B369B.quest_desc: ["Storage upgrade tier 1. Hover over item for details. Upgradable to the Gold Upgrade."]
 	quest.0678B5715CCEEE6A.quest_desc: ["The Chemical Injection Chamber uses Hydrogen Chloride gas to turn ores into 4 Shards. It is the start of x4 ore processing and requires a steady supply of Hydrogen Chloride, which in turn requires the player to have a Thermal Evaporation Plant running."]
-	quest.067ECCB49F68CBFA.quest_desc: ["Upgradable spikes. Counts as a player kill. Requires a redstone signal."]
+	quest.067ECCB49F68CBFA.quest_desc: ["可升级的钉刺，击杀时视为玩家击杀，需要红石信号激活。"]
 	quest.06A46A5949A9F3BA.quest_desc: [
 		"Complete this quest by successfully landing on Venus."
 		""
@@ -229,14 +229,14 @@
 	quest.0949229274785FB0.quest_desc: ["Load chunks so stuff keeps on ticking when you aren't around. 3x3 area."]
 	quest.0955CDE0AF99C578.quest_desc: ["Cyanite and water in a reprocesser will create blutonium."]
 	quest.09616105B2147867.quest_desc: [
-		"Iron Spikes are a basic block that can be placed on any side of a solid block. Iron Spikes will damage mobs  and players when they come in to contact with them. Mobs will drop XP and their normal drops."
+		"铁钉刺能够放置在固体方块的任意面上，伤害接触到它们的生物和玩家，被杀死的生物将会掉落经验和常见掉落物。"
 		""
-		"Mob Grinding Utils is a mod designed to encourage players to create new ways for farming mobs for drops and experience. Contained in the mod is a fully modular system for players to explore and use to get the most out of their mob farms."
+		"Mob Grinding Utils 模组鼓励玩家采用新方式进行刷怪，获取掉落物和经验。模组内包括了一个完全模块化的系统供玩家探索并使用，以最大化刷怪场的效率。"
 	]
 	quest.09616105B2147867.quest_subtitle: "Mob Grinding Utils"
 	quest.096BF1C5A9A0F0B4.quest_desc: ["Just like the stove from Farmer's Delight!"]
 	quest.097A73052FFD1BFA.quest_desc: ["Connect to a drain to get molten metal out of the foundry."]
-	quest.097B7BF8B0CBC549.quest_desc: ["Inhibits Teleportation for Entities up to 8 Blocks away. Can be attached on ANY side of Solid Blocks.  Right Click to Deactivate/Activate."]
+	quest.097B7BF8B0CBC549.quest_desc: ["抑制以其为中心半径八格范围内的实体传送行为，可以装在固体方块的任意面，右击开关。（译者注：物品上的描述不够准确，请以此任务描述为准）"]
 	quest.098EE0E9BA10FE16.quest_desc: [
 		"A vat for alchemical digestion, required for exaltation."
 		""
@@ -259,8 +259,8 @@
 		"Note: EnderIO cables are known to sometimes cause lag. If you experience this, consider switching to a different cable type."
 	]
 	quest.0AA83FF3BDF54213.title: "Conduits - Tier 1"
-	quest.0AE2BFC6D900AD0F.quest_desc: ["Increases the area of effect for the fan - height, width, and distance."]
-	quest.0AE2BFC6D900AD0F.title: "Fan Upgrades"
+	quest.0AE2BFC6D900AD0F.quest_desc: ["扩大风扇的作用范围——高度，宽度，以及距离。"]
+	quest.0AE2BFC6D900AD0F.title: "风扇升级"
 	quest.0AFC1C633F5E6D38.quest_desc: ["Tier 2 - Can store 200 stacks."]
 	quest.0B3E66925374481B.quest_desc: ["Produce and sustain 1 million EMC/second."]
 	quest.0B49965D7D3DF4F9.quest_desc: [
@@ -288,11 +288,11 @@
 		""
 		"Crafter Tier 3 can remember 8 recipes."
 	]
-	quest.0C3DB4A72DC396C5.quest_desc: ["Rotten flesh is a food item that can be eaten by the player, at the high risk of inflicting Hunger. Drops from Zombies."]
+	quest.0C3DB4A72DC396C5.quest_desc: ["腐肉是一种可以食用的食物，但有很大概率给食用者施加饥饿效果。由僵尸掉落。"]
 	quest.0C3DB4A72DC396C5.quest_subtitle: "Minecraft"
 	quest.0C71AB75B63CC9A4.quest_desc: ["It does not use durability. Right-clicking a Dirt block with the Hoe of the Green Earth will place a 9x9 square of Farmland centered on the clicked block. "]
-	quest.0C80CE674E69189A.quest_desc: ["Applies affects to mobs damaged by the mob masher - max of 10 upgrades per type."]
-	quest.0C80CE674E69189A.title: "Masher Upgrades"
+	quest.0C80CE674E69189A.quest_desc: ["为受到怪物捣碎器伤害的生物施加各种效果——每种最多放置 10 个。"]
+	quest.0C80CE674E69189A.title: "捣碎器升级"
 	quest.0CA6B94A84718B7D.quest_desc: [
 		"Your starting point for Project E."
 		""
@@ -420,7 +420,7 @@
 	quest.130380166BF98207.title: "Bottling Machine"
 	quest.137F5A524DB75A97.quest_desc: ["Potion ingredient, found in nether fortresses."]
 	quest.1388958122E58F71.quest_desc: ["Potion ingredient, slay a ghast to obtain."]
-	quest.138FFE0F7A3437A7.quest_desc: ["The Singularity Tank is a basic fluid tank that will hold 32 Buckets of any fluid. Use it to store XP from your mob farm! You can also craft an XP Drain Singularity Tank to store player XP as liquid XP."]
+	quest.138FFE0F7A3437A7.quest_desc: ["奇异储罐是一种基础的流体储罐，能够容纳 32 桶流体。用它来存储刷怪场的经验吧！你还可以合成一个地漏经验奇异储罐，将你的经验存储为流体经验。"]
 	quest.13E86FB30A4078F6.quest_desc: ["Froststeel can be found in the Frostfield biome of the Undergarden. Consider using the Nature's Compass to find the biome."]
 	quest.14582B862A91C1E6.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
 	quest.14ADE52746F0F97D.quest_desc: [
@@ -587,7 +587,7 @@
 		""
 		"Use a Mob Imprisonment Tool on your new entity and duplicate in the Industrial Foregoing Mob Duplicator."
 	]
-	quest.1CFE1ABB42819D7E.quest_desc: ["Mob Fans are designed to allow players to push mobs all over the place in all directions (even vertically). The Mob Fan Block has 3 upgrade options to expand it’s capabilities - Width, Height and Distance modifiers."]
+	quest.1CFE1ABB42819D7E.quest_desc: ["怪物风扇可以将生物推向各个方向（甚至包括垂直方向）。它拥有三种增强效果的升级可供选择——宽度、高度和距离升级。"]
 	quest.1CFE1ABB42819D7E.quest_subtitle: "Mob Grinding Utils"
 	quest.1D0B7AA898DB7CD4.quest_desc: ["Generate infinite lava (slowly)! Place into a fluid drawer"]
 	quest.1D1E009C95C47AC9.quest_desc: ["Crafting material needed to make Packaged Auto machines."]
@@ -616,7 +616,7 @@
 		"- Other Machines (Discharger, Energy Hopper, Player Transmitter)"
 	]
 	quest.1EE7658030431E1A.quest_subtitle: "Powah"
-	quest.1F40FE21EC2AEF22.quest_desc: ["A sword with 4 attack damage."]
+	quest.1F40FE21EC2AEF22.quest_desc: ["一把能造成 4 点伤害的剑。"]
 	quest.1F40FE21EC2AEF22.quest_subtitle: "Minecraft"
 	quest.1F894A409738DBF4.quest_desc: ["This machines is needed to craft more advanced items and machines, such as more complex machine frames."]
 	quest.1F901B2CE53B3F58.quest_desc: [
@@ -684,9 +684,9 @@
 	quest.2201A958694C7F35.quest_desc: ["Cables (and connectors) can have four different colors (and a base version). These are used to be able to distinguish multiple distinct networks adjacent to each others (to prevent the cables from connecting). A controller will adapt its color to the first colored cable it can find around it and then remember that (unless that color is totally removed)."]
 	quest.220E723BF056F6D6.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.2226EAAF3B304A2D.quest_desc: [
-		"To charge your propeller hat, look up the \"Charging Station\" from Charging Gadgets in JEI."
+		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
 		""
-		"Propeller Hats is a mod that adds multiple tiers of propeller hats which can used to fly around. They are powered by FE so you will need a charger of some type to charge them."
+		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.2230558554C39B34.quest_desc: ["Made of 10,000 tin ingots"]
 	quest.22350912A0D709A2.quest_desc: [
@@ -802,14 +802,14 @@
 	]
 	quest.27D559AF2FF8AB16.quest_desc: ["Open one stack of chance cubes (any before this does not count)."]
 	quest.284AD374B7EC81DF.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
-	quest.288D1A8284EA6444.quest_desc: ["Use on a chicken to create a golden egg. Click the egg on a 5x5 dirt patch to create delightful dirt (spawns passive mobs when lit)"]
+	quest.288D1A8284EA6444.quest_desc: ["在鸡上使用可以制造一个金鸡蛋。在 5x5 的泥土中央使用以创造一片祈福之土（光照充足时生成友好生物）。"]
 	quest.28AADA8236CEE862.quest_desc: [
 		"Used to craft items that need a blueprint."
 		""
 		"Items made in the Engineer's workbench are generally used in other crafting recipes. A good example is the powered lantern, which blocks hostile mobs from spawning in a radius! "
 	]
 	quest.28B2DF42316767BD.quest_desc: ["Sinks can hold water!"]
-	quest.28E3C30852CAB186.quest_desc: ["Put on a singularity tank and click to shower in xp!"]
+	quest.28E3C30852CAB186.quest_desc: ["装在奇异储罐上，右击它就可以享受经验浴了！"]
 	quest.293B776662114118.quest_desc: ["Right click to turn wood into stripped logs and right click again to harvest instantly."]
 	quest.29454E312AFB3287.quest_desc: ["Craft, assemble, start, and successfully maintain a Draconic Reactor (no boom allowed)."]
 	quest.2968D69970CDA8DE.quest_desc: ["Hold shift key when hovering over the items to see stats."]
@@ -818,14 +818,14 @@
 	quest.29E7B708749B9B42.quest_desc: ["Made of 10,000 copper ingots"]
 	quest.2A3CAFB5D3427FB3.quest_desc: ["Made in an altar. Consumes ambrosium as fuel."]
 	quest.2A6EFE02F0113946.quest_desc: [
-		"To charge your propeller hat, look up the \"Charging Station\" from Charging Gadgets in JEI."
+		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
 		""
-		"Propeller Hats is a mod that adds multiple tiers of propeller hats which can used to fly around. They are powered by FE so you will need a charger of some type to charge them."
+		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.2ABCE226A3B4F4EE.quest_desc: ["All energy piped into here will be voided."]
 	quest.2AD25DE5F43D3B4A.quest_desc: ["Plant on grass to grow a cow Make sure to give it plenty of breathing room to grow."]
 	quest.2AEE4D88A489DA16.quest_desc: ["A teleportation item that allows players to set and instantly travel to saved locations"]
-	quest.2B72356DFAAC12A5.quest_desc: ["A sword with 5 attack damage."]
+	quest.2B72356DFAAC12A5.quest_desc: ["一把能造成 5 点伤害的剑。"]
 	quest.2BBE7E9D9A8772BE.quest_desc: ["This first build converts items into EMC one at a time. When enough EMC amasses, the target item is created and placed in the chest. It seems to hungrily pull EMC from Energy Collectors and Anti Matter Relays around itself to use in the creation of items."]
 	quest.2BF9F779FD75AA4C.quest_desc: ["Craft into various items from the mobs' home dimension."]
 	quest.2BF9F779FD75AA4C.title: "Generalized Predictions"
@@ -914,7 +914,7 @@
 	quest.2F5B723497046BFC.quest_desc: ["Get rid of those pesky phantoms! Can be placed in the charm slot."]
 	quest.2F5DF89B8B8B3967.quest_desc: ["Klein Star Zwei holds up to 200,000 EMC and is also used in the crafting of Klein Star Drei. "]
 	quest.2F60BEB4CAB4424A.quest_desc: ["This terminal can be used to view, insert, and extract items in the Simple Storage Network."]
-	quest.2F631C8EE15BA50F.quest_desc: ["Automatically open those loot crates that keep dropping from your mob farm! (Hint: use hoppers or pipes for automation!)"]
+	quest.2F631C8EE15BA50F.quest_desc: ["自动打开怪物掉落的战利品箱！（提示：用漏斗或管道来自动化！）"]
 	quest.2F631C8EE15BA50F.quest_subtitle: "FTB Quests"
 	quest.2F7D243BFA0DE65C.quest_desc: [
 		"桶也可以用来制造黏土、粘液块、下界岩、末地石、黑曜石等方块。查阅 JEI 获取更多信息。"
@@ -926,13 +926,13 @@
 	quest.2FF4F03F52C1D8F3.quest_desc: ["This upgrade changes the fuel needed by the rocket to hydrogen."]
 	quest.30016E1C526393CB.quest_desc: ["Mobius Fuel is a fuel added by ProjectE. It burns sixteen times as long as regular coal and is able to smelt 128 items."]
 	quest.305DDEB9CE993D3A.quest_desc: [
-		"To charge your propeller hat, look up the \"Charging Station\" from Charging Gadgets in JEI."
+		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
 		""
-		"Propeller Hats is a mod that adds multiple tiers of propeller hats which can used to fly around. They are powered by FE so you will need a charger of some type to charge them."
+		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
 	]
-	quest.306E8065443E1FC6.quest_desc: ["Use on dirt to create dreadful dirt - will spawn hostile mobs. (5x5 space)"]
+	quest.306E8065443E1FC6.quest_desc: ["在泥土上使用以创造诅咒之土（5x5 区域）——诅咒之土上将生成敌对生物。"]
 	quest.30CC71CAC95122E2.quest_desc: ["游戏前期，合金窑可以在没有电力的情况下制作合金，在 JEI 中可以查看该多方块结构的搭建方式。"]
-	quest.30CC71CAC95122E2.quest_subtitle: "沉浸工程"
+	quest.30CC71CAC95122E2.quest_subtitle: "Immersive Engineering"
 	quest.30CC71CAC95122E2.title: "合金窑"
 	quest.30EC24CE1E708631.quest_desc: ["Tired of endless crafting? Take a break on your brand new sofa!"]
 	quest.30EDDDAA38ED12D1.quest_desc: ["Slay a sheep and cook its meat to obtain mutton."]
@@ -975,7 +975,7 @@
 		""
 		"Have a suggestion on what to add to the Simple Achievements? Send a message on Discord!"
 	]
-	quest.329254403D3AE4CC.title: "Simple Achievements"
+	quest.329254403D3AE4CC.title: "简单成就"
 	quest.329F702B5D9928FB.quest_desc: ["A creative-tier air source that provides infinite compressed air to connected pneumatic machines without requiring power or fuel."]
 	quest.32FA63E4958B5E3C.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for blazing tier Powah items."]
 	quest.332842533827F298.quest_desc: [
@@ -1046,7 +1046,7 @@
 	quest.3503BC17056BE43D.quest_desc: ["Grants immunity to fire and lava and replenishes hunger."]
 	quest.350D228F048488A4.quest_desc: ["Surrounding yourself in dark matter seems like such a good idea! It absorbs a large amount of damage taken. You are nearly invincible with the set of armor. At times, you think that you can see movement within the sheen of armor."]
 	quest.351C81062D0749EC.quest_desc: ["Surrounding yourself in dark matter seems like such a good idea! It absorbs a large amount of damage taken. You are nearly invincible with the set of armor. At times, you think that you can see movement within the sheen of armor."]
-	quest.3535CD981AB4679A.quest_desc: ["Gunpowder is an item used for explosion-related recipes, and as an ingredient in potions. Drops from Creepers."]
+	quest.3535CD981AB4679A.quest_desc: ["火药可以用来合成爆炸相关的物品，也可以作为酿药的材料。由苦力怕掉落。"]
 	quest.354B464B693D4D84.quest_desc: ["A basic resource used to craft advanced machinery, components, and crafting tables."]
 	quest.354B464B693D4D84.quest_subtitle: "Extended Crafting"
 	quest.356967A5117434E7.quest_desc: ["Restores health, provides underwater breathing, and permanent night vision (shift+X)."]
@@ -1061,11 +1061,11 @@
 	quest.36F5C86A7D54D95E.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.3700FAC908C2A72E.quest_desc: ["A full set of infinity armor will grant you creative flight and invincibility - even from a /kill command."]
 	quest.372B5CB656A0373E.quest_desc: [
-		"It might be easier to build a large scale mob farm if you had a way to fly... "
+		"如果你会飞的话，建造大规模刷怪场可能就会简单许多……"
 		""
-		"To charge your propeller hat, look up the \"Charging Station\" from Charging Gadgets in JEI."
+		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
 		""
-		"Propeller Hats is a mod that adds multiple tiers of propeller hats which can used to fly around. They are powered by FE so you will need a charger of some type to charge them."
+		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.372B5CB656A0373E.quest_subtitle: "Propeller Hats"
 	quest.375349762EEA75A9.quest_desc: ["A simple wooden planter that automatically grows crops and saplings without requiring power at a much slower rate. Can't be automated (except to output into a container directly below it)."]
@@ -1165,7 +1165,7 @@
 		""
 		"Tier 1."
 	]
-	quest.3B39980FD69BE7EE.quest_desc: ["Use on dirt to create delightful dirt - will spawn passive mobs. (5x5 space)"]
+	quest.3B39980FD69BE7EE.quest_desc: ["在泥土上使用以创造祈福之土（5x5 区域）——祈福之土上将生成友好生物。"]
 	quest.3B6BA03724FFA136.quest_desc: ["Storage upgrade tier 3. Hover over item for details. Upgradable to the Netherite Upgrade."]
 	quest.3BD7934F9EDAA4A9.quest_desc: [
 		"Of course, based on the world that you are currently in, the type of aura collected will slightly vary. For instance, in the normal world, aura can be gathered in the form of sunlight, while in the Nether realm, aura can be gathered in the form of ghosts, and in the End realm, aura is present in the form of an overabundance of darkness."
@@ -1205,7 +1205,7 @@
 		"Another useful trait is that while most fluid tanks can only store 1 type of fluid, interfaces can store up to 9, as well as items. They're essentially just chests/multi-fluid tanks with some extra functionality, and you can prevent that extra functionality by keeping them disconnected from any networks. Thus, they are useful in some niche cases where you want to store a small amount of a bunch of different stuff."
 	]
 	quest.3E745AF0ACA85BA6.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
-	quest.3E7EFAE0131CDB93.quest_desc: ["A bone is an item primarily obtained from skeletons and similar mobs. It can be crafted into bone meal or used to tame wild wolves. "]
+	quest.3E7EFAE0131CDB93.quest_desc: ["骨头的主要获取途径为骷髅及类似生物，能够用来合成骨粉或驯服野生的狼。"]
 	quest.3EB30F879AB9402A.quest_desc: ["Use as a fertilizer in advanced planters!"]
 	quest.3EC6F6C5228BAD28.quest_desc: ["Combines the functions of a pickaxe, shovel, and sword with immense mining speed and attack power"]
 	quest.3ED9992DD5070D51.quest_desc: ["Using a simple cooking system and a few familiar ingredients, Farmer's Delight lets you be able to prepare a wide variety of hearty meals: from sandwiches to salads and stews, from beautiful desserts to mouth-watering feasts, no ingredient will be left behind in your kitchen!"]
@@ -1236,7 +1236,7 @@
 		"To increase crafting speed, place Ender Alternators around the Ender Crafter. Any Alternators placed within a 4 block radius will increase the crafting speed. You can tell they are working if they are emitting particle effects."
 	]
 	quest.3FBC14ADA3E118E2.quest_subtitle: "Extended Crafting"
-	quest.3FE0809FC18DD36F.quest_desc: ["A sword with 8 attack damage."]
+	quest.3FE0809FC18DD36F.quest_desc: ["一把能造成 8 点伤害的剑。"]
 	quest.3FFD5071CAB35FE9.quest_desc: ["经典空岛用品，和普通的桶差不多，但是只能在个别合成配方中使用，用来盛熔岩会缩短其寿命。"]
 	quest.402ABC0A6EA35DD4.quest_desc: ["You use connectors to connect machines to your network. Through that connector various channels (even with different types) can do their thing. Normal connectors only allow access through the side from which you are placing the connector. i.e. for a vanilla furnace that would mean that with a normal connector you can only get the melted result by placing a connector at the bottom of the furnace. "]
 	quest.402C2DF5EB7E3496.quest_desc: [
@@ -1593,7 +1593,7 @@
 	]
 	quest.4CFFA19AA2AA47CD.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.4D15D569E53DE66E.quest_desc: ["The ender gate can wirelessly pull power from the ender cell (Works similar to Flux Networks). Both can be upgraded."]
-	quest.4D1BF4F802916D45.quest_desc: ["A sword with 7 attack damage."]
+	quest.4D1BF4F802916D45.quest_desc: ["一把能造成 7 点伤害的剑。"]
 	quest.4D1FA2C2E6FC7A8C.quest_desc: ["Allows the use of the terminals/crafting device across dimensions."]
 	quest.4D25AC81B93F326E.quest_desc: [
 		"筛泥土可以获取草籽。手持草籽右击泥土可以将其转化为草方块。草籽还可以用来合成苔藓块。"
@@ -1635,7 +1635,7 @@
 	quest.50200EBDECAF2A3B.quest_desc: ["A high-tech planter with energy consumption, module slots, fertilizer support, and enhanced automation capabilities"]
 	quest.50233C3BE23A074A.quest_desc: ["The Angel Ring mod adds an Angel Ring, which allows you to fly, like in a creative mode to help with building/travelling. Inspired by Extra Utilities' Angel Ring."]
 	quest.5073B7267BD701D2.quest_desc: ["Link two or more ender tanks to transport and access fluids! Color code with dyes to pair tanks together."]
-	quest.50765C7CF71D6A59.quest_desc: ["An ender pearl is an item that can be thrown to teleport to where it lands, or used to craft eyes of ender, which are required to access the End. Dropped by Endermen."]
+	quest.50765C7CF71D6A59.quest_desc: ["末影珍珠可以将投掷者传送至落点处，也可以用来合成末影之眼，以抵达末地。由末影人掉落。"]
 	quest.507C29EFF8CEFCDA.quest_desc: ["Part of the multiblock. Heats metals, allowing for smelting and alloying at the required temperatures."]
 	quest.50852ED19616CDB8.quest_desc: ["Generates obsidian slowly."]
 	quest.50A188092863FFFA.quest_desc: ["Upgrade cards are crafted with either basic or advanced card bases"]
@@ -1736,7 +1736,7 @@
 		""
 		"注：在前期，可以通过引爆铁锭（TNT 加红石信号）来获取压缩铁锭，平均损失率为 20%。"
 	]
-	quest.53F53BD4220B295B.quest_subtitle: "工业先锋"
+	quest.53F53BD4220B295B.quest_subtitle: "Industrial Foregoing"
 	quest.53F5A5A785503096.quest_desc: ["Energy storage item that holds and transfers RF"]
 	quest.543FAEFE24110294.quest_desc: [
 		"This device generates energy for your ME network without the need for fuel. Because of the crystal vibrations this device generates, only one can be used in each network. These vibrations even pass through Quartz Fiber."
@@ -1814,11 +1814,11 @@
 	quest.5844BCF0147A9BB5.quest_desc: ["This is an excellent place to store food and cooking utensils!"]
 	quest.584678F8D7970634.quest_desc: ["Part of the multiblock. Stores the lava used by the foundry for melting materials."]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
-	quest.5873CD588D98B39D.quest_desc: ["A sword with 6 attack damage."]
+	quest.5873CD588D98B39D.quest_desc: ["一把能造成 6 点伤害的剑。"]
 	quest.595C4352743D4003.quest_desc: ["FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."]
 	quest.595C4352743D4003.quest_subtitle: "Framed Blocks"
 	quest.59804052F93F303D.quest_desc: ["Use a binding card on an enderman or endermite."]
-	quest.5999B9EFE3305FAA.quest_desc: ["A sword with 5.75 attack damage."]
+	quest.5999B9EFE3305FAA.quest_desc: ["一把能造成 5.75 点伤害的剑。"]
 	quest.59B11FC479561B73.quest_desc: [
 		"To get started with the Aether, you must construct a portal with a Glowstone frame and light it with a water bucket in the middle (only an iron water bucket will work), this will activate the portal and allow you to step through and enter the dimension. From here you can begin your survival in the Aether’s hostile paradise!"
 		""
@@ -1924,7 +1924,7 @@
 	]
 	quest.5D5354A10309133E.quest_desc: ["Alchemical Coal is a fuel added by ProjectE. It burns four times as long as regular Coal and is able to smelt 32 items. Alchemical Coal is used in the production of Mobius Fuel."]
 	quest.5D554AD1078BFB44.quest_desc: ["The crafting table on a stick from Actually Additions can be used in a charm slot!"]
-	quest.5D78B43DAB5756C1.quest_desc: ["Get rid of excess items from your mob drops (think broken armor, bows, etc)."]
+	quest.5D78B43DAB5756C1.quest_desc: ["清除掉落物中的多余物品（破损的盔甲、弓等等）。"]
 	quest.5DD07EE53865E25C.quest_desc: ["One is all and all is one."]
 	quest.5DD07EE53865E25C.quest_subtitle: "Avaritia"
 	quest.5DF4D12AFAF3972E.quest_desc: [
@@ -1963,7 +1963,7 @@
 		""
 		"注：在游戏前期，建筑棒和连锁破坏是你的好帮手。将筛子摆放在一起可以同时筛矿（尝试摆成 3x3 的正方形吧）。"
 	]
-	quest.5F4DAFEDC43C0964.quest_subtitle: "无中生有：神赐"
+	quest.5F4DAFEDC43C0964.quest_subtitle: "Ex Deorum"
 	quest.5F4DAFEDC43C0964.title: "钩子和筛子"
 	quest.5F52D927648C1375.quest_desc: ["The Advanced Magnet picks up Items and Experience within a 11 block range of the player!"]
 	quest.5F5BB0B31B3A1C26.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
@@ -2057,9 +2057,9 @@
 		""
 		"木桶非常实用，可以用来制造泥土、黏土、灵魂沙、粘液块等方块！你也可以制作石桶，详见 JEI。"
 	]
-	quest.62D5202491593442.quest_subtitle: "无中生有：神赐"
+	quest.62D5202491593442.quest_subtitle: "Ex Deorum"
 	quest.62D5202491593442.title: "木桶和木坩埚"
-	quest.633CEC0C789695E7.quest_desc: ["A good start for starting to automate your mob farm! No more standing around and punching the mobs yourself."]
+	quest.633CEC0C789695E7.quest_desc: ["自动化刷怪的好开始！再也不用亲自站在那儿打怪了。"]
 	quest.633CEC0C789695E7.quest_subtitle: "Spiky Spikes"
 	quest.6349016135BBD0AC.quest_desc: [
 		"Advanced upgrade adds: Filters and filter modes."
@@ -2180,13 +2180,13 @@
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
 	quest.6960CFAA0006178F.quest_desc: [
-		"Mob Flow Utilities is a modular automation mod focused on mob farm efficiency through directional flow control, centralized damage systems, and intelligent item collection. Clean design, minimal GUIs, and visual feedback."
+		"Mob Flow Utilities 是一个模块化的自动化模组，着力于通过定向流动控制，集中处死系统，以及智能物品收集来提高刷怪场效率。设计清爽，UI 简洁，视觉反馈良好。"
 		""
-		"Flow Pads:"
-		"- Directional Movement: Push mobs and items in the direction you place them"
-		"- Three Speed Tiers: Fast, Faster, and Fastest for different flow rates"
-		"- Waterloggable: Works seamlessly with water-based farm designs"
-		"- No Configuration: Direction set by placement orientation"
+		"流动板："
+		"- 定向移动：将生物和物品推向指定的方向"
+		"- 三种速度等级：快速、高速、极速，满足各种需要"
+		"- 可含水：无缝兼容各种水流刷怪场"
+		"- 无需配置：流动方向由放置时的方向决定"
 	]
 	quest.6960CFAA0006178F.quest_subtitle: "Mob Flow Utilities"
 	quest.696A38C5D80A2CDC.quest_desc: [
@@ -2194,8 +2194,8 @@
 		""
 		"将鼠标移动至你收集的石子，按下快捷键 “shift” + “k” 可以将它们自动合成圆石！"
 	]
-	quest.696A38C5D80A2CDC.quest_subtitle: "无中生有：神赐"
-	quest.69C8C3F25F60409F.quest_desc: ["Increases the area that the absorbtion hopper can collect items/xp from."]
+	quest.696A38C5D80A2CDC.quest_subtitle: "Ex Deorum"
+	quest.69C8C3F25F60409F.quest_desc: ["增加吸收漏斗对物品及经验的吸收范围。"]
 	quest.69D590FA274E2B41.quest_desc: [
 		"Place the Flux Crafter in-world and right-click to view the GUI. Inside there's a 3x3 crafting grid, similar to a Crafting Table. Place your recipe ingredients into the grid."
 		""
@@ -2286,7 +2286,7 @@
 	]
 	quest.6F96B0AF183634BE.quest_desc: ["Made of 10,000 nickel ingots"]
 	quest.6FA5A509D5C50572.quest_desc: ["These crafting tables are used for more complex crafting recipes. Automated versions are also avaliable. See JEI for more details."]
-	quest.701351A41247EC15.quest_desc: ["Use on a chicken to create a rotten egg. Click the egg on a 5x5 dirt patch to create dreadful dirt (spawns hostile mobs when dark)."]
+	quest.701351A41247EC15.quest_desc: ["在鸡上使用可以制造一个腐烂鸡蛋。在 5x5 的泥土中央使用以创造一片诅咒之土（无光照时生成敌对生物）。"]
 	quest.701D82D7BB8B6812.quest_desc: [
 		"Use the manual to learn how to build each multiblock machine for Immersive Engineering."
 		""
@@ -2420,7 +2420,7 @@
 		"By default, the machine is capable of producing alloys from some other mods as well as Ender IO alloys."
 	]
 	quest.7580866D67B0614F.quest_desc: ["Made of 10,000 platinum ingots"]
-	quest.758C366E1C73F7D3.quest_desc: ["A spider eye is a poisonous food and brewing item. It is also used to tempt and breed armadillos. It is usually dropped by spiders, cave spiders, and witches. "]
+	quest.758C366E1C73F7D3.quest_desc: ["蜘蛛眼是一种有毒食品，可以用来酿药，还可以用来吸引并繁殖犰狳。通常由蜘蛛、洞穴蜘蛛以及女巫掉落。"]
 	quest.75A9DCE3CFFAF413.quest_desc: ["Hold shift key when hovering over the item to see stats."]
 	quest.75AD65B7786D4698.quest_desc: ["Max Blocks: 1024"]
 	quest.75CDC6EFC1F77557.quest_desc: ["Slay a pig and cook its meat to obtain porkchop"]
@@ -2511,7 +2511,7 @@
 	]
 	quest.7B93DDD4D0F141F5.quest_subtitle: "ME Requester"
 	quest.7BB443B4C618BE99.quest_desc: ["Made of 10,000 diamonds"]
-	quest.7BBDF9B27538EBBF.quest_desc: ["Sucks up items and XP orbs. Can pipe items into chests and xp into tanks!"]
+	quest.7BBDF9B27538EBBF.quest_desc: ["能够吸取物品和经验球，还可以将它们分别输送进箱子和储罐里！"]
 	quest.7BBDF9B27538EBBF.quest_subtitle: "Mob Grinding Utils"
 	quest.7BE09731E15491FC.quest_desc: [
 		"Industrial Foregoing is a comprehensive, industrial automation mod designed to streamline and improve your in-game production systems! Inspired by the classic MineFactory Reloaded, it brings modern, tech-driven machinery and tools to Minecraft, allowing players to create intricate automated systems for farming, processing resources, animal care, and more."
@@ -2595,14 +2595,14 @@
 		"Vanilla ores can be found all over, but to find more varied modded ores you need to get below y-level 80."
 	]
 	quest.7FF33FA53596F5F3.quest_subtitle: "Dimension Expansion"
-	reward_table.18391202155E43DC.title: "Loot Crate"
-	reward_table.31D1469D74D2DE9B.title: "Uncommon Reward"
-	reward_table.386F90497293500B.title: "Common Reward"
-	reward_table.3D615535F00424DD.title: "Rare Reward"
-	reward_table.4AC6B1253BF1671D.title: "Legendary Reward"
-	reward_table.5F292F7F7DE2F1B1.title: "Epic Reward"
-	reward_table.67B79C569FD5FB4F.title: "Random Reward"
-	reward_table.6E0B4B9793B92F74.title: "Artifact Reward"
+	reward_table.18391202155E43DC.title: "战利品箱"
+	reward_table.31D1469D74D2DE9B.title: "少见奖励"
+	reward_table.386F90497293500B.title: "普通奖励"
+	reward_table.3D615535F00424DD.title: "稀有奖励"
+	reward_table.4AC6B1253BF1671D.title: "传奇奖励"
+	reward_table.5F292F7F7DE2F1B1.title: "史诗奖励"
+	reward_table.67B79C569FD5FB4F.title: "随机奖励"
+	reward_table.6E0B4B9793B92F74.title: "饰品奖励"
 	task.04C8F88A9A8538C1.title: "Bedrock"
 	task.05027AE7D1DF0A1C.title: "Chaos Dragon Tips"
 	task.0E554619515686AA.title: "Demon"
@@ -2622,7 +2622,7 @@
 	task.3816E63B16EAAEA8.title: "XP"
 	task.387E29E6B6ABCD7D.title: "RF"
 	task.3A05626B55F06E78.title: "Framed Blocks"
-	task.3A9E4227B46248F0.title: "Coin Shop"
+	task.3A9E4227B46248F0.title: "硬币商店"
 	task.4210908E73476E00.title: "Seeds"
 	task.467DC2467D96E377.title: "Growth"
 	task.53F83B3BFAB50781.title: "Reactor"
