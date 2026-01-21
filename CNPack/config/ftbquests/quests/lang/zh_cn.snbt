@@ -2,7 +2,7 @@
 	chapter.0B4D25B1D0EFA14E.title: "应用自动化"
 	chapter.0CA6AD38E75C8A80.title: "疯狂合成"
 	chapter.135ADB72F33F7566.title: "机械手段"
-	chapter.1601303EAAFFE96D.title: "EMC 华彩"
+	chapter.1601303EAAFFE96D.title: "EMC华彩"
 	chapter.17D2072A30FD981D.title: "终局体验"
 	chapter.2658F0CCAA937298.title: "工厂狂热"
 	chapter.27E02EB8F3311112.title: "龙级灾害"
@@ -76,9 +76,9 @@
 	quest.02AA09894A7363BD.quest_desc: [
 		"生成无限多的圆石（以及其他方块）！只需要将其放置在水源方块和熔岩源方块之间。"
 		""
-		"要生成圆石以外的其他方块，请参阅 JEI。"
+		"要生成圆石以外的其他方块，请参阅JEI。"
 		""
-		"存在更高级的版本，详见 JEI。"
+		"存在更高级的版本，详见JEI。"
 	]
 	quest.02AA09894A7363BD.quest_subtitle: "Cobblegen Galore"
 	quest.02B0D8895641DC69.quest_desc: [
@@ -95,7 +95,7 @@
 	quest.03A0FA63A3AFBC5D.quest_desc: [
 		"在普通难度下合成金属块非常简单，但在专家模式则相当难。"
 		""
-		"专家模式：用镐子破坏矿石方块以得到粗矿，将粗矿 3x3 合成为粗矿块，再手持粗矿块右击充满熔岩的石桶。游戏后期会有更好的制作金属块的方式，详见 JEI。"
+		"专家模式：用镐子破坏矿石方块以得到粗矿，将粗矿3x3合成为粗矿块，再手持粗矿块右击充满熔岩的石桶。游戏后期会有更好的制作金属块的方式，详见JEI。"
 	]
 	quest.03AC14A7BE6B4833.quest_desc: ["Take a seat and eat some lunch!"]
 	quest.03B8D5EE6E52994C.quest_desc: ["Applied Energistics 2 adds components and mechanics to provide logistics and storage solutions. You can replace your massive room full of chests with a compact ME Network, but that's just the beginning of things. Applied Energistics is meant to work with and allow automation of other mods in a modpack. You can set up your system to, with a single click, craft all of the prerequisites (and the final result) of a complex crafting chain, or keep certain quantities of items in stock, crafting more as needed, or simply transfer items around your base."]
@@ -231,7 +231,7 @@
 	quest.09616105B2147867.quest_desc: [
 		"铁钉刺能够放置在固体方块的任意面上，伤害接触到它们的生物和玩家，被杀死的生物将会掉落经验和常见掉落物。"
 		""
-		"Mob Grinding Utils 模组鼓励玩家采用新方式进行刷怪，获取掉落物和经验。模组内包括了一个完全模块化的系统供玩家探索并使用，以最大化刷怪场的效率。"
+		"Mob Grinding Utils模组鼓励玩家采用新方式进行刷怪，获取掉落物和经验。模组内包括了一个完全模块化的系统供玩家探索并使用，以最大化刷怪场的效率。"
 	]
 	quest.09616105B2147867.quest_subtitle: "Mob Grinding Utils"
 	quest.096BF1C5A9A0F0B4.quest_desc: ["Just like the stove from Farmer's Delight!"]
@@ -291,7 +291,7 @@
 	quest.0C3DB4A72DC396C5.quest_desc: ["腐肉是一种可以食用的食物，但有很大概率给食用者施加饥饿效果。由僵尸掉落。"]
 	quest.0C3DB4A72DC396C5.quest_subtitle: "Minecraft"
 	quest.0C71AB75B63CC9A4.quest_desc: ["It does not use durability. Right-clicking a Dirt block with the Hoe of the Green Earth will place a 9x9 square of Farmland centered on the clicked block. "]
-	quest.0C80CE674E69189A.quest_desc: ["为受到怪物捣碎器伤害的生物施加各种效果——每种最多放置 10 个。"]
+	quest.0C80CE674E69189A.quest_desc: ["为受到怪物捣碎器伤害的生物施加各种效果——每种最多放置10个。"]
 	quest.0C80CE674E69189A.title: "捣碎器升级"
 	quest.0CA6B94A84718B7D.quest_desc: [
 		"Your starting point for Project E."
@@ -388,7 +388,7 @@
 	quest.125C064F10CFBF60.quest_desc: [
 		"筛子和锤：能够插入升级，快速地处理大量物品。"
 		""
-		"压缩机：使用 RF 压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！"
+		"压缩机：使用RF压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！"
 	]
 	quest.125C064F10CFBF60.quest_subtitle: "Ex Machinis"
 	quest.125C064F10CFBF60.title: "通量升级"
@@ -420,7 +420,7 @@
 	quest.130380166BF98207.title: "Bottling Machine"
 	quest.137F5A524DB75A97.quest_desc: ["Potion ingredient, found in nether fortresses."]
 	quest.1388958122E58F71.quest_desc: ["Potion ingredient, slay a ghast to obtain."]
-	quest.138FFE0F7A3437A7.quest_desc: ["奇异储罐是一种基础的流体储罐，能够容纳 32 桶流体。用它来存储刷怪场的经验吧！你还可以合成一个地漏经验奇异储罐，将你的经验存储为流体经验。"]
+	quest.138FFE0F7A3437A7.quest_desc: ["奇异储罐是一种基础的流体储罐，能够容纳32桶流体。用它来存储刷怪场的经验吧！你还可以合成一个地漏经验奇异储罐，将你的经验存储为流体经验。"]
 	quest.13E86FB30A4078F6.quest_desc: ["Froststeel can be found in the Frostfield biome of the Undergarden. Consider using the Nature's Compass to find the biome."]
 	quest.14582B862A91C1E6.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
 	quest.14ADE52746F0F97D.quest_desc: [
@@ -540,13 +540,13 @@
 	quest.1B20650DA11BD5F6.quest_desc: ["Max Blocks: 128"]
 	quest.1B4A6ACF29C9DD46.quest_desc: ["The Combiner allows the player to create an ore block from 8 dust. Place the ore dust in the top slot, and some cobblestone in the bottom slot, and it will combine to make the ore block. It requires 1000 power per operation. Works with the dust of copper, iron, tin, osmium, obsidian (only needs 4) and gold. Also allows 1 Flint to a gravel block and 16 Redstone/Lapis to their ores."]
 	quest.1B5C8B86CFDBB051.quest_desc: [
-		"完成任务所需的物品需要放在物品栏才能被检测到。一定要将任务物品放进物品栏，等待 FTB Quest 检测 -> 任务未完成 = 没有奖励！"
+		"完成任务所需的物品需要放在物品栏才能被检测到。一定要将任务物品放进物品栏，等待FTB Quest检测 -> 任务未完成 = 没有奖励！"
 		""
 		"任务奖励包含硬币，硬币可以在硬币商店中兑换奖励袋！"
 		""
-		"在任务书中点击物品、在 JEI 中搜索都可以找到物品的配方，也可以将鼠标指针指向物品按 “r” 键来查看配方。同样，按 “u” 键可以查看物品的用途。"
+		"在任务书中点击物品、在JEI中搜索都可以找到物品的配方，也可以将鼠标指针指向物品按\"r\"键来查看配方。同样，按\"u\"键可以查看物品的用途。"
 		""
-		"你可以通过“蹲起”让树和作物生长（多次按下潜行键——记得关闭粘滞键），你还可以连锁破坏方块（用到了 FTB Ultimine 模组，默认按键是反引号键 `）。"
+		"你可以通过\"蹲起\"让树和作物生长（多次按下潜行键——记得关闭粘滞键），你还可以连锁破坏方块（用到了FTB Ultimine模组，默认按键是反引号键\"`\"）。"
 		""
 		"要获取更多生命值，试试吃下各种各样的食物！"
 		""
@@ -616,7 +616,7 @@
 		"- Other Machines (Discharger, Energy Hopper, Player Transmitter)"
 	]
 	quest.1EE7658030431E1A.quest_subtitle: "Powah"
-	quest.1F40FE21EC2AEF22.quest_desc: ["一把能造成 4 点伤害的剑。"]
+	quest.1F40FE21EC2AEF22.quest_desc: ["一把能造成4点伤害的剑。"]
 	quest.1F40FE21EC2AEF22.quest_subtitle: "Minecraft"
 	quest.1F894A409738DBF4.quest_desc: ["This machines is needed to craft more advanced items and machines, such as more complex machine frames."]
 	quest.1F901B2CE53B3F58.quest_desc: [
@@ -684,9 +684,9 @@
 	quest.2201A958694C7F35.quest_desc: ["Cables (and connectors) can have four different colors (and a base version). These are used to be able to distinguish multiple distinct networks adjacent to each others (to prevent the cables from connecting). A controller will adapt its color to the first colored cable it can find around it and then remember that (unless that color is totally removed)."]
 	quest.220E723BF056F6D6.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.2226EAAF3B304A2D.quest_desc: [
-		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
+		"要给你的竹蜻蜓帽充能的话，可以在JEI查找Charging Gadgets模组中的\"充能站\"。"
 		""
-		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
+		"Propeller Hats模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由FE驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.2230558554C39B34.quest_desc: ["Made of 10,000 tin ingots"]
 	quest.22350912A0D709A2.quest_desc: [
@@ -802,7 +802,7 @@
 	]
 	quest.27D559AF2FF8AB16.quest_desc: ["Open one stack of chance cubes (any before this does not count)."]
 	quest.284AD374B7EC81DF.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
-	quest.288D1A8284EA6444.quest_desc: ["在鸡上使用可以制造一个金鸡蛋。在 5x5 的泥土中央使用以创造一片祈福之土（光照充足时生成友好生物）。"]
+	quest.288D1A8284EA6444.quest_desc: ["在鸡上使用可以制造一个金鸡蛋。在5x5的泥土中央使用以创造一片祈福之土（光照充足时生成友好生物）。"]
 	quest.28AADA8236CEE862.quest_desc: [
 		"Used to craft items that need a blueprint."
 		""
@@ -818,14 +818,14 @@
 	quest.29E7B708749B9B42.quest_desc: ["Made of 10,000 copper ingots"]
 	quest.2A3CAFB5D3427FB3.quest_desc: ["Made in an altar. Consumes ambrosium as fuel."]
 	quest.2A6EFE02F0113946.quest_desc: [
-		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
+		"要给你的竹蜻蜓帽充能的话，可以在JEI查找Charging Gadgets模组中的\"充能站\"。"
 		""
-		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
+		"Propeller Hats模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由FE驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.2ABCE226A3B4F4EE.quest_desc: ["All energy piped into here will be voided."]
 	quest.2AD25DE5F43D3B4A.quest_desc: ["Plant on grass to grow a cow Make sure to give it plenty of breathing room to grow."]
 	quest.2AEE4D88A489DA16.quest_desc: ["A teleportation item that allows players to set and instantly travel to saved locations"]
-	quest.2B72356DFAAC12A5.quest_desc: ["一把能造成 5 点伤害的剑。"]
+	quest.2B72356DFAAC12A5.quest_desc: ["一把能造成5点伤害的剑。"]
 	quest.2BBE7E9D9A8772BE.quest_desc: ["This first build converts items into EMC one at a time. When enough EMC amasses, the target item is created and placed in the chest. It seems to hungrily pull EMC from Energy Collectors and Anti Matter Relays around itself to use in the creation of items."]
 	quest.2BF9F779FD75AA4C.quest_desc: ["Craft into various items from the mobs' home dimension."]
 	quest.2BF9F779FD75AA4C.title: "Generalized Predictions"
@@ -838,7 +838,7 @@
 	quest.2C8B647BDD0F481A.quest_desc: [
 		"&2默认情况下，整合包处于普通模式。&r"
 		""
-		"你可以把普通模式当成 Titan 模式，专家模式当成 Kappa 模式。"
+		"你可以把普通模式当成Titan模式，专家模式当成Kappa模式。"
 		""
 		"并没有简单模式，抱歉咯！"
 		""
@@ -848,15 +848,15 @@
 		""
 		"\"&b/packmode current&r\" = 查看整合包当前所处的模式。"
 		""
-		"运行以上指令需要开启作弊或拥有服务器的 OP 权限。在服务器运行指令时，会改变所有人的模式。"
+		"运行以上指令需要开启作弊或拥有服务器的OP权限。在服务器运行指令时，会改变所有人的模式。"
 		""
-		"你也可以先在 kubejs/config/common.json 文件中修改难度，再开始游戏。"
+		"你也可以先在kubejs/config/common.json文件中修改难度，再开始游戏。"
 		""
-		"&4在非普通模式游玩时，每次整合包更新后，都需要重新运行指令或修改 config 文件来调整难度！&r"
+		"&4在非普通模式游玩时，每次整合包更新后，都需要重新运行指令或修改config文件来调整难度！&r"
 		""
 		"请注意，任务书仅适配普通模式，在其他模式下游玩时，要做好在各个章节任务间反复横跳的准备！"
 		""
-		"你也可以执行指令 “&b/packmode help&r\" 来查看关于整合包模式的更多细节。"
+		"你也可以执行指令\"&b/packmode help&r\"来查看关于整合包模式的更多细节。"
 	]
 	quest.2C8B647BDD0F481A.quest_subtitle: "两害相权！"
 	quest.2CD7E699CEEE73F8.quest_desc: [
@@ -917,7 +917,7 @@
 	quest.2F631C8EE15BA50F.quest_desc: ["自动打开怪物掉落的战利品箱！（提示：用漏斗或管道来自动化！）"]
 	quest.2F631C8EE15BA50F.quest_subtitle: "FTB Quests"
 	quest.2F7D243BFA0DE65C.quest_desc: [
-		"桶也可以用来制造黏土、粘液块、下界岩、末地石、黑曜石等方块。查阅 JEI 获取更多信息。"
+		"桶也可以用来制造黏土、粘液块、下界岩、末地石、黑曜石等方块。查阅JEI获取更多信息。"
 		""
 		"将尘土放入装满水的桶中就可以制作出黏土方块。"
 	]
@@ -926,12 +926,12 @@
 	quest.2FF4F03F52C1D8F3.quest_desc: ["This upgrade changes the fuel needed by the rocket to hydrogen."]
 	quest.30016E1C526393CB.quest_desc: ["Mobius Fuel is a fuel added by ProjectE. It burns sixteen times as long as regular coal and is able to smelt 128 items."]
 	quest.305DDEB9CE993D3A.quest_desc: [
-		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
+		"要给你的竹蜻蜓帽充能的话，可以在JEI查找Charging Gadgets模组中的\"充能站\"。"
 		""
-		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
+		"Propeller Hats模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由FE驱动，所以你需要某种充电器来为其充电。"
 	]
-	quest.306E8065443E1FC6.quest_desc: ["在泥土上使用以创造诅咒之土（5x5 区域）——诅咒之土上将生成敌对生物。"]
-	quest.30CC71CAC95122E2.quest_desc: ["游戏前期，合金窑可以在没有电力的情况下制作合金，在 JEI 中可以查看该多方块结构的搭建方式。"]
+	quest.306E8065443E1FC6.quest_desc: ["在泥土上使用以创造诅咒之土（5x5区域）——诅咒之土上将生成敌对生物。"]
+	quest.30CC71CAC95122E2.quest_desc: ["游戏前期，合金窑可以在没有电力的情况下制作合金，在JEI中可以查看该多方块结构的搭建方式。"]
 	quest.30CC71CAC95122E2.quest_subtitle: "Immersive Engineering"
 	quest.30CC71CAC95122E2.title: "合金窑"
 	quest.30EC24CE1E708631.quest_desc: ["Tired of endless crafting? Take a break on your brand new sofa!"]
@@ -1023,7 +1023,7 @@
 	quest.33FBEE929807ECFB.quest_desc: [
 		"由铁筛网升级而来。"
 		""
-		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
 	quest.34172B8D67D6281E.quest_desc: ["Crafting ingredient to create Warden tools and armor."]
 	quest.34612C1E6AEDC97F.quest_desc: ["游戏前期双倍矿方式——非常慢，但是未来会有更好的选择！"]
@@ -1063,9 +1063,9 @@
 	quest.372B5CB656A0373E.quest_desc: [
 		"如果你会飞的话，建造大规模刷怪场可能就会简单许多……"
 		""
-		"要给你的竹蜻蜓帽充能的话，可以在 JEI 查找 Charging Gadgets 模组中的 “充能站”。"
+		"要给你的竹蜻蜓帽充能的话，可以在JEI查找Charging Gadgets模组中的\"充能站\"。"
 		""
-		"Propeller Hats 模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由 FE 驱动，所以你需要某种充电器来为其充电。"
+		"Propeller Hats模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由FE驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.372B5CB656A0373E.quest_subtitle: "Propeller Hats"
 	quest.375349762EEA75A9.quest_desc: ["A simple wooden planter that automatically grows crops and saplings without requiring power at a much slower rate. Can't be automated (except to output into a container directly below it)."]
@@ -1141,7 +1141,7 @@
 	quest.3999198FADFC6A44.quest_desc: [
 		"由金筛网升级而来。"
 		""
-		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
 	quest.39BB1EE4D2B24353.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
 	quest.39BC864BAA5BEF13.quest_desc: ["PackagedAuto is an addon to Applied Energistics 2, and it aims to use \"packages\" of items to allow autocrafting with more than 9 items, and fluid crafting is also supported."]
@@ -1165,7 +1165,7 @@
 		""
 		"Tier 1."
 	]
-	quest.3B39980FD69BE7EE.quest_desc: ["在泥土上使用以创造祈福之土（5x5 区域）——祈福之土上将生成友好生物。"]
+	quest.3B39980FD69BE7EE.quest_desc: ["在泥土上使用以创造祈福之土（5x5区域）——祈福之土上将生成友好生物。"]
 	quest.3B6BA03724FFA136.quest_desc: ["Storage upgrade tier 3. Hover over item for details. Upgradable to the Netherite Upgrade."]
 	quest.3BD7934F9EDAA4A9.quest_desc: [
 		"Of course, based on the world that you are currently in, the type of aura collected will slightly vary. For instance, in the normal world, aura can be gathered in the form of sunlight, while in the Nether realm, aura can be gathered in the form of ghosts, and in the End realm, aura is present in the form of an overabundance of darkness."
@@ -1236,7 +1236,7 @@
 		"To increase crafting speed, place Ender Alternators around the Ender Crafter. Any Alternators placed within a 4 block radius will increase the crafting speed. You can tell they are working if they are emitting particle effects."
 	]
 	quest.3FBC14ADA3E118E2.quest_subtitle: "Extended Crafting"
-	quest.3FE0809FC18DD36F.quest_desc: ["一把能造成 8 点伤害的剑。"]
+	quest.3FE0809FC18DD36F.quest_desc: ["一把能造成8点伤害的剑。"]
 	quest.3FFD5071CAB35FE9.quest_desc: ["经典空岛用品，和普通的桶差不多，但是只能在个别合成配方中使用，用来盛熔岩会缩短其寿命。"]
 	quest.402ABC0A6EA35DD4.quest_desc: ["You use connectors to connect machines to your network. Through that connector various channels (even with different types) can do their thing. Normal connectors only allow access through the side from which you are placing the connector. i.e. for a vanilla furnace that would mean that with a normal connector you can only get the melted result by placing a connector at the bottom of the furnace. "]
 	quest.402C2DF5EB7E3496.quest_desc: [
@@ -1414,7 +1414,7 @@
 		""
 		"在筛子底部放置方向朝上的自动点击器可以自动筛矿！同样还有更好的自动化筛矿方式。"
 		""
-		"将压缩筛子摆放在一起可以同时筛矿（尝试摆成 3x3 的正方形）。 与普通筛子不同的是，你需要一个一个地放入方块才能开始筛矿。"
+		"将压缩筛子摆放在一起可以同时筛矿（尝试摆成3x3的正方形）。与普通筛子不同的是，你需要一个一个地放入方块才能开始筛矿。"
 	]
 	quest.45A5707D025CD692.quest_desc: [
 		"The Diamond Apple grants the following potion effects:"
@@ -1530,7 +1530,7 @@
 	quest.4BD1385340E3C938.quest_desc: [
 		"矿石可以挖掘成粗矿，也可以直接熔炼成锭。"
 		""
-		"除了通常的合成配方外，铁锭还可以用来制作压缩铁锭。将铁锭扔到地面上，并在附近引发爆炸（例如 TNT 或迷你 TNT），你将失去约 20% 的铁锭，其余部分将会转化成压缩铁锭！后期可以解锁更加高效的获取方式。"
+		"除了通常的合成配方外，铁锭还可以用来制作压缩铁锭。将铁锭扔到地面上，并在附近引发爆炸（例如TNT或迷你TNT），你将失去约20%的铁锭，其余部分将会转化成压缩铁锭！后期可以解锁更加高效的获取方式。"
 	]
 	quest.4BDA60A93E629E04.quest_desc: [
 		"Higher tier versions of the tier 1 block gen. Faster yields! "
@@ -1593,12 +1593,12 @@
 	]
 	quest.4CFFA19AA2AA47CD.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.4D15D569E53DE66E.quest_desc: ["The ender gate can wirelessly pull power from the ender cell (Works similar to Flux Networks). Both can be upgraded."]
-	quest.4D1BF4F802916D45.quest_desc: ["一把能造成 7 点伤害的剑。"]
+	quest.4D1BF4F802916D45.quest_desc: ["一把能造成7点伤害的剑。"]
 	quest.4D1FA2C2E6FC7A8C.quest_desc: ["Allows the use of the terminals/crafting device across dimensions."]
 	quest.4D25AC81B93F326E.quest_desc: [
 		"筛泥土可以获取草籽。手持草籽右击泥土可以将其转化为草方块。草籽还可以用来合成苔藓块。"
 		""
-		"友好生物可以在草方块上生成，但前提是与草方块保持好一定距离。在生物生成上遇到了麻烦？在 JEI 中搜索 “Haven Animal Seeds”。"
+		"友好生物可以在草方块上生成，但前提是与草方块保持好一定距离。在生物生成上遇到了麻烦？在JEI中搜索\"Haven Animal Seeds\"。"
 	]
 	quest.4D2DA470DCB74326.quest_desc: ["Place in front of a tree or log to generate latex."]
 	quest.4D462F76B3844D3D.quest_desc: ["The Precision Sawmill is used for reclaiming wood from wooden items and turn logs into planks with a better yield (6 planks per log). Also makes sawdust for use in making Cardboard Boxes."]
@@ -1732,9 +1732,9 @@
 	quest.537E84EDD29F486A.quest_desc: ["Steeleaf is a tool and armor material found in Labyrinth, Hollow Hill, and Dark Tower chests. This material is as powerful as Diamond in a tool or armor, but is less durable than even Iron."]
 	quest.53ADBC3ADF1C83C0.quest_desc: ["Made of 10,000 invar ingots"]
 	quest.53F53BD4220B295B.quest_desc: [
-		"游戏早期发电方式，通过燃煤产生 RF，随着你的进一步发展，更多发电方式将会解锁。"
+		"游戏早期发电方式，通过燃煤产生RF，随着你的进一步发展，更多发电方式将会解锁。"
 		""
-		"注：在前期，可以通过引爆铁锭（TNT 加红石信号）来获取压缩铁锭，平均损失率为 20%。"
+		"注：在前期，可以通过引爆铁锭（TNT加红石信号）来获取压缩铁锭，平均损失率为20%。"
 	]
 	quest.53F53BD4220B295B.quest_subtitle: "Industrial Foregoing"
 	quest.53F5A5A785503096.quest_desc: ["Energy storage item that holds and transfers RF"]
@@ -1814,11 +1814,11 @@
 	quest.5844BCF0147A9BB5.quest_desc: ["This is an excellent place to store food and cooking utensils!"]
 	quest.584678F8D7970634.quest_desc: ["Part of the multiblock. Stores the lava used by the foundry for melting materials."]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
-	quest.5873CD588D98B39D.quest_desc: ["一把能造成 6 点伤害的剑。"]
+	quest.5873CD588D98B39D.quest_desc: ["一把能造成6点伤害的剑。"]
 	quest.595C4352743D4003.quest_desc: ["FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."]
 	quest.595C4352743D4003.quest_subtitle: "Framed Blocks"
 	quest.59804052F93F303D.quest_desc: ["Use a binding card on an enderman or endermite."]
-	quest.5999B9EFE3305FAA.quest_desc: ["一把能造成 5.75 点伤害的剑。"]
+	quest.5999B9EFE3305FAA.quest_desc: ["一把能造成5.75点伤害的剑。"]
 	quest.59B11FC479561B73.quest_desc: [
 		"To get started with the Aether, you must construct a portal with a Glowstone frame and light it with a water bucket in the middle (only an iron water bucket will work), this will activate the portal and allow you to step through and enter the dimension. From here you can begin your survival in the Aether’s hostile paradise!"
 		""
@@ -1912,7 +1912,7 @@
 	quest.5CEF864B6400D5F1.quest_desc: [
 		"手持蚕右击树叶方块以感染树叶。"
 		""
-		"注：用钩子破坏树叶以获取蚕——掉率为 1%。"
+		"注：用钩子破坏树叶以获取蚕——掉率为1%。"
 	]
 	quest.5CFAC0E0451F6ADD.quest_desc: ["The Tesseract allows you to transport Items, Fluid and Energy. Tesseracts work at any distance and even across dimensions! Use multiple channels to have different groups of Tesseracts!"]
 	quest.5CFAC0E0451F6ADD.quest_subtitle: "Tesseract"
@@ -1939,7 +1939,7 @@
 	quest.5E44820EC853BAA9.quest_desc: [
 		"由钻石筛网升级而来，需要一个锻造模板，可以在下界堡垒中取得。"
 		""
-		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
 	quest.5E4C03123DB8AB9C.quest_desc: ["Mining a Wood Block of a tree will instantly mine the whole tree. Mining leaves will mine a sphere of about 5 blocks. It uses no durability. "]
 	quest.5E6CC59391F00CAA.quest_desc: ["This offers multiple saved destinations, faster teleportation, and more configuration options"]
@@ -1955,13 +1955,13 @@
 	quest.5F0F1FFB4160C1C0.quest_desc: ["This machine extracts oil from canola seeds to be used as fuel or in energy systems."]
 	quest.5F20B63527ED0622.quest_desc: ["Tier 2. The only armor pieces in Draconic Evolution for 1.21.1 are the chestplates. Modules are needed to make it function, see JEI."]
 	quest.5F4DAFEDC43C0964.quest_desc: [
-		"用钩子钩树叶可以获取树苗和蚕（注：蚕的掉率为 1%）"
+		"用钩子钩树叶可以获取树苗和蚕（注：蚕的掉率为1%）"
 		""
 		"而筛子可以用来获取资源，你需要给筛子放入筛网。"
 		""
 		"在筛子底部放置方向朝上的自动点击器可以自动筛矿！同样还有更好的自动化筛矿方式。"
 		""
-		"注：在游戏前期，建筑棒和连锁破坏是你的好帮手。将筛子摆放在一起可以同时筛矿（尝试摆成 3x3 的正方形吧）。"
+		"注：在游戏前期，建筑棒和连锁破坏是你的好帮手。将筛子摆放在一起可以同时筛矿（尝试摆成3x3的正方形吧）。"
 	]
 	quest.5F4DAFEDC43C0964.quest_subtitle: "Ex Deorum"
 	quest.5F4DAFEDC43C0964.title: "钩子和筛子"
@@ -2055,7 +2055,7 @@
 	quest.62D5202491593442.quest_desc: [
 		"用木桶收集雨水，或者将树苗或树叶放进木坩埚内，可以生成水。"
 		""
-		"木桶非常实用，可以用来制造泥土、黏土、灵魂沙、粘液块等方块！你也可以制作石桶，详见 JEI。"
+		"木桶非常实用，可以用来制造泥土、黏土、灵魂沙、粘液块等方块！你也可以制作石桶，详见JEI。"
 	]
 	quest.62D5202491593442.quest_subtitle: "Ex Deorum"
 	quest.62D5202491593442.title: "木桶和木坩埚"
@@ -2102,7 +2102,7 @@
 	quest.64D345ED39C8AF6E.quest_desc: [
 		"由燧石筛网升级而来。"
 		""
-		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
 	quest.650B9EB6E578026C.quest_desc: [
 		"Crafting co-processors make the system send out ingredient batches from ME Pattern Providers more often by making the CPU tick faster. This allows them to keep up with machines that process quickly. An example of this is a pattern provider surrounded by Molecular Assemblers being able to push ingredients faster than a single assembler can process, and thus distributing the ingredient batches between the surrounding assemblers."
@@ -2180,7 +2180,7 @@
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
 	quest.6960CFAA0006178F.quest_desc: [
-		"Mob Flow Utilities 是一个模块化的自动化模组，着力于通过定向流动控制，集中处死系统，以及智能物品收集来提高刷怪场效率。设计清爽，UI 简洁，视觉反馈良好。"
+		"Mob Flow Utilities是一个模块化的自动化模组，着力于通过定向流动控制，集中处死系统，以及智能物品收集来提高刷怪场效率。设计清爽，UI简洁，视觉反馈良好。"
 		""
 		"流动板："
 		"- 定向移动：将生物和物品推向指定的方向"
@@ -2192,7 +2192,7 @@
 	quest.696A38C5D80A2CDC.quest_desc: [
 		"筛泥土或潜行右击地面可以得到石子。"
 		""
-		"将鼠标移动至你收集的石子，按下快捷键 “shift” + “k” 可以将它们自动合成圆石！"
+		"将鼠标移动至你收集的石子，按下快捷键\"shift\"+\"k\"可以将它们自动合成圆石！"
 	]
 	quest.696A38C5D80A2CDC.quest_subtitle: "Ex Deorum"
 	quest.69C8C3F25F60409F.quest_desc: ["增加吸收漏斗对物品及经验的吸收范围。"]
@@ -2286,7 +2286,7 @@
 	]
 	quest.6F96B0AF183634BE.quest_desc: ["Made of 10,000 nickel ingots"]
 	quest.6FA5A509D5C50572.quest_desc: ["These crafting tables are used for more complex crafting recipes. Automated versions are also avaliable. See JEI for more details."]
-	quest.701351A41247EC15.quest_desc: ["在鸡上使用可以制造一个腐烂鸡蛋。在 5x5 的泥土中央使用以创造一片诅咒之土（无光照时生成敌对生物）。"]
+	quest.701351A41247EC15.quest_desc: ["在鸡上使用可以制造一个腐烂鸡蛋。在5x5的泥土中央使用以创造一片诅咒之土（无光照时生成敌对生物）。"]
 	quest.701D82D7BB8B6812.quest_desc: [
 		"Use the manual to learn how to build each multiblock machine for Immersive Engineering."
 		""
@@ -2362,15 +2362,15 @@
 	quest.72C6F582DAA81CBF.quest_desc: ["A multiblock machine that uses molds and power to shape metal ingots and other materials into plates, rods, gears, and more."]
 	quest.72C6F582DAA81CBF.title: "Metal Press"
 	quest.731CFBA9CEF27A6A.quest_desc: [
-		"欢迎来到 Ozone Skyblock Reborn 2，一款由 MuggleOrWizard 制作的专家包！本包是 Ozone Skyblock Reborn 系列的续作。如果你在游玩过程中想要提出建议或遇到了某些问题，欢迎在项目页面中留下评论，或是在 Curseforge 给我发送消息，也可以加入 Discord 服务器进行反馈。"
+		"欢迎来到Ozone Skyblock Reborn 2，一款由MuggleOrWizard制作的专家包！本包是Ozone Skyblock Reborn系列的续作。如果你在游玩过程中想要提出建议或遇到了某些问题，欢迎在项目页面中留下评论，或是在Curseforge给我发送消息，也可以加入Discord服务器进行反馈。"
 		""
-		"如果你正在多人世界中游玩，可以执行指令 “&b/skyblock gui&r” 来建立团队并创建岛屿。在物品栏开启时点击屏幕左上角的队伍图标，可以建立或加入队伍，共享认领区块和任务进度。任务也可以从物品栏界面屏幕左上角点击查看。"
+		"如果你正在多人世界中游玩，可以执行指令\"&b/skyblock gui&r\"来建立团队并创建岛屿。在物品栏开启时点击屏幕左上角的队伍图标，可以建立或加入队伍，共享认领区块和任务进度。任务也可以从物品栏界面屏幕左上角点击查看。"
 		""
 		"&4阅读带有红心图标的任务可以了解本整合包的不同模式！&r"
 		""
-		"&2这个整合包系列的灵感源自于 TheCazadorSniper 的 “Project Ozone” 系列。如果你还没玩过，我强烈推荐你看一看——在 Curseforge 上就可以找到。&r"
+		"&2这个整合包系列的灵感源自于TheCazadorSniper的\"Project Ozone\"系列。如果你还没玩过，我强烈推荐你看一看——在Curseforge上就可以找到。&r"
 		""
-		"部分任务描述中可能包含取自或修改自模组项目页面、wiki 或游戏内指引书中的信息。版权归属于对应模组及 wiki 作者。想要了解更多关于某个模组的信息，访问 Ozone Skyblock Reborn 2 项目页面，浏览模组列表，然后点击你想要了解的模组即可。"
+		"部分任务描述中可能包含取自或修改自模组项目页面、wiki或游戏内指引书中的信息。版权归属于对应模组及wiki作者。想要了解更多关于某个模组的信息，访问Ozone Skyblock Reborn 2项目页面，浏览模组列表，然后点击你想要了解的模组即可。"
 	]
 	quest.731CFBA9CEF27A6A.quest_subtitle: "阅读后打钩！"
 	quest.732A662662650FD1.quest_desc: ["The Infusion Altarnator is a single-block automatable version of the Infusion Altar."]
@@ -2396,11 +2396,11 @@
 	quest.74353DACE7BECFB0.quest_desc: ["Desh can be found on the moon."]
 	quest.74795B5D24F8B27F.quest_desc: ["Similar to the Storage Terminal, but with the addition of a crafting interface."]
 	quest.749846E05249E17D.quest_desc: [
-		"这个扳手能够用来调整 pipez 模组的管道，随着进一步发展还将解锁更多类型的管道供你选择。"
+		"这个扳手能够用来调整pipez模组的管道，随着进一步发展还将解锁更多类型的管道供你选择。"
 		""
-		"Pipez 模组添加了一些简便且可任意调整的管道，同时还具有可高度配置的过滤系统和各种升级。同时还使用了 Pretty x Smart Pipez 资源包！"
+		"Pipez模组添加了一些简便且可任意调整的管道，同时还具有可高度配置的过滤系统和各种升级。同时还使用了Pretty x Smart Pipez资源包！"
 		""
-		"注：大量的 pipez 管道可能会使同一世界内部分玩家的 TPS 降低！"
+		"注：大量的pipez管道可能会使同一世界内部分玩家的TPS降低！"
 	]
 	quest.749846E05249E17D.quest_subtitle: "Pipez"
 	quest.749E64CD1E5C5529.quest_desc: ["Made of 10,000 silver ingots"]
@@ -2480,7 +2480,7 @@
 	quest.78FD281689257180.quest_desc: [
 		"由线筛网升级而来。"
 		""
-		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看 JEI。"
+		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
 	quest.79929E7B59774B6F.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for niotic tier Powah items."]
 	quest.79A6A2865FCF6823.quest_desc: ["Uses solar power (sun) to generate RF. Tier 1!"]

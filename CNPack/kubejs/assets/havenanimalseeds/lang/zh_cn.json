@@ -29,6 +29,6 @@
   "block.havenanimalseeds.wolf_seed": "狼种子",
   "config.jade.plugin_havenanimalseeds.mobseed_remaining_time": "剩余时间",
   "itemgroup.havenanimalseeds.havenanimalseeds_tab": "§5Haven §2Animal Seeds",
-  "mobseed.remaining_time": "生长时间：%d 秒",
+  "mobseed.remaining_time": "生长时间：%d秒",
   "mobseed.tooclose": "§c你离得太近了，种子无法生长。"
 }

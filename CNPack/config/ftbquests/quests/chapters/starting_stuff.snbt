@@ -19,7 +19,7 @@
 		{
 			click: "https://discord.gg/GhwnpFeWKH"
 			height: 1.0d
-			hover: ["加入 Discord！"]
+			hover: ["加入Discord！"]
 			image: "moonlight:textures/gui/sprites/media/discord.png"
 			rotation: 0.0d
 			width: 1.0d
