@@ -33,33 +33,63 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 ---
 
 需汉化模组
-- Agritech: Evolved (done)
-- Re: Avaritia IO (done)
-- Useful Foundation
+
+[√] Agritech: Evolved
+
+[√] Re: Avaritia IO
+
+[√] Useful Foundation
+
 - ~~Useful Machinery (partial)~~
-- Condensed Ores (done)
-- Ex Machinis: Divitiae Deorum (partial) (done)
+
+[√] Condensed Ores
+
+[√] Ex Machinis: Divitiae Deorum (partial)
+
 - Creative Tools
+
 - ~~Deeper and Darker (partial)~~
-- Nether Ex
-- Dimension Expansion (done)
-- Dragonite Gear
-- Haven Animal Seeds
-- Hopper Gadgetry
+
+- ~~Nether Ex~~
+
+[√] Dimension Expansion (done)
+
+[√] Dragonite Gear
+
+[√] Haven Animal Seeds
+
+[√] Hopper Gadgetry
+
 - ~~Ytones~~
-- Mob Flow Utilities
+
+[√] Mob Flow Utilities
+
 - RFTools Storage
+
 - KubeJS (Modified Contents)
-- Slab Machines
-- Vertical Slabs (done)
-- Wooden Hopper
-- Golden Hopper
-- Crafting Station
-- Propeller Hat
+
+[√] Slab Machines
+
+[√] Vertical Slabs (done)
+
+[√] Wooden Hopper
+
+[√] Golden Hopper
+
+[√] Crafting Station
+
+[√] Propeller Hat
 
 被划掉的模组由于各种原因（模组内部存在汉化、模组本身汉化意义不大等）不汉化
 
 就是说，已有组织负责汉化的模组和个人认为不汉不影响游玩的模组在这个项目不汉化
+
+---
+
+待汉化文件
+
+- kubejs\client_scripts\jei\jei_info.js   //部分JEI提示信息
+- kubejs\client_scripts\client_tooltips\tooltips.js   //tooltip
 
 ---
 
