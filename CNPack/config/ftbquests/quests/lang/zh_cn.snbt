@@ -19,7 +19,7 @@
 	chapter.6281543A9FF4B497.title: "硬币商店"
 	chapter.63B4DECB51F4BDDD.title: "捣碎怪物"
 	chapter.6DC3573F985B3407.title: "厨艺美食"
-	chapter.7150356FCD9C2633.title: "资源短缺"
+	chapter.7150356FCD9C2633.title: "资源紧缺"
 	chapter.7D3F9E93F7A636B7.title: "有问必答"
 	chapter.7E229907B5BA0260.title: "富丽堂皇"
 	quest.000303D086D2B044.quest_desc: ["Plant on grass to grow a sheep Make sure to give it plenty of breathing room to grow."]
@@ -388,7 +388,7 @@
 	quest.125C064F10CFBF60.quest_desc: [
 		"筛子和锤：能够插入升级，快速地处理大量物品。"
 		""
-		"压缩机：使用RF压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！"
+		"压缩机：使用RF能量压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！"
 	]
 	quest.125C064F10CFBF60.quest_subtitle: "Ex Machinis"
 	quest.125C064F10CFBF60.title: "通量升级"
@@ -1520,7 +1520,7 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.4B62DEDA4F901770.quest_desc: ["以更快的速度、可调节的面、烟熏炉和高炉组件等，来最大化熔炼效率。"]
+	quest.4B62DEDA4F901770.quest_desc: ["用更快的速度、可调节的面、烟熏炉和高炉组件等，最大化熔炼效率。"]
 	quest.4B893A1BDA3CEC33.quest_desc: ["A powerful sword in it's own right by charging it and using activating it (C) the Dark Matter Sword will consume EMC in exchange for a devastating sweep attack. The area of the attack is controlled by charge level (V, shift+V)."]
 	quest.4BCB152BBCEB3B90.quest_desc: [
 		"The Environmental Eye is very useful in theory; however, a lot of magical botanists struggle with its limited range of gauging aura in the environment around them. A simple solution to this problem is the Environmental Ocular. While working similarly to the Environmental Eye, the main difference is its much bigger gauge for aura in the area: It is twice as large."
