@@ -36,13 +36,13 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 
 [√] Agritech: Evolved
 
-[√] Re: Avaritia IO
+[√] Re: Avaritia IO （已提交pr至cfpa）
 
-[√] Useful Foundation
+[√] Useful Foundation （已提交pr至cfpa）
 
 - ~~Useful Machinery (partial)~~
 
-[√] Condensed Ores
+[√] Condensed Ores （已提交pr至cfpa）
 
 [√] Ex Machinis: Divitiae Deorum (partial)
 
@@ -56,7 +56,7 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 
 [√] Dragonite Gear
 
-[√] Haven Animal Seeds
+[√] Haven Animal Seeds （已提交pr至cfpa）
 
 [√] Hopper Gadgetry
 
@@ -72,13 +72,13 @@ Ozone Skyblock Reborn 2 是一款专家级空岛任务整合包，旨在在挑�
 
 [√] Vertical Slabs (done)
 
-[√] Wooden Hopper
+[√] Wooden Hopper （已提交pr至cfpa）
 
-[√] Golden Hopper
+[√] Golden Hopper （已提交pr至cfpa）
 
-[√] Crafting Station
+[√] Crafting Station （已提交pr至cfpa）
 
-[√] Propeller Hat
+[√] Propeller Hat （已提交pr至cfpa）
 
 被划掉的模组由于各种原因（模组内部存在汉化、模组本身汉化意义不大等）不汉化
 
