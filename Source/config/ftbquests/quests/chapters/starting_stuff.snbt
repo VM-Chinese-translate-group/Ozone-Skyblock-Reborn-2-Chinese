@@ -1007,7 +1007,10 @@
 			y: -4.5d
 		}
 		{
-			dependencies: ["4BD1385340E3C938"]
+			dependencies: [
+				"4BD1385340E3C938"
+				"15AF28F4684F51EF"
+			]
 			icon: {
 				id: "immersiveengineering:alloy_smelter"
 			}
@@ -1047,7 +1050,7 @@
 			y: -4.5d
 		}
 		{
-			dependencies: ["4BD1385340E3C938"]
+			dependencies: ["53F53BD4220B295B"]
 			id: "3F171C175D462267"
 			rewards: [
 				{
@@ -1079,8 +1082,8 @@
 					type: "item"
 				}
 			]
-			x: 11.0d
-			y: -6.0d
+			x: 14.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["3F171C175D462267"]
@@ -1120,8 +1123,8 @@
 					type: "item"
 				}
 			]
-			x: 12.5d
-			y: -6.0d
+			x: 15.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["4BD1385340E3C938"]
@@ -1399,7 +1402,7 @@
 				type: "item"
 			}]
 			x: 14.0d
-			y: -4.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["4BD1385340E3C938"]
@@ -1458,6 +1461,64 @@
 			}]
 			x: 7.5d
 			y: -3.0d
+		}
+		{
+			dependencies: ["08BB82725AF1F810"]
+			id: "5F96E888408910ED"
+			rewards: [
+				{
+					id: "3356268DE2BC5932"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "03D83B611E7CC6EE"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0DC0D14B91BBB6AE"
+				item: { components: { "ftbfiltersystem:filter": "or(item(exdeorum:porcelain_lava_bucket)item(minecraft:lava_bucket))", "minecraft:custom_name": "\"Lava Bucket\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["5F96E888408910ED"]
+			id: "15AF28F4684F51EF"
+			rewards: [
+				{
+					id: "5ECD7344948D25D4"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "2F09578E8A36B968"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "057B71CF1592FC3C"
+				item: { count: 1, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -6.0d
 		}
 	]
 }

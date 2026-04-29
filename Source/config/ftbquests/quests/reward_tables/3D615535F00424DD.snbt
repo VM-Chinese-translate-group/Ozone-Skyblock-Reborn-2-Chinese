@@ -70,8 +70,6 @@
 		{ id: "79C2A1AC89025B9E", item: { count: 1, id: "farmersdelight:roast_chicken" } }
 		{ id: "647981F2EAD34D1F", item: { count: 1, id: "farmersdelight:honey_glazed_ham" } }
 		{ id: "0A5590F632C3F183", item: { count: 1, id: "farmersdelight:pasta_with_meatballs" } }
-		{ id: "473925E610676406", item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" } }
-		{ id: "29157832D0C106AE", item: { count: 1, id: "sophisticatedstorage:stack_upgrade_omega_tier" } }
 		{ id: "2A339C34A2DF2573", item: { components: { "enderio:energy": 10000, "enderio:item_fluid_content": { amount: 1000, id: "enderio:fluid_vapor_of_levity_still" } }, count: 1, id: "enderio:staff_of_levity" } }
 		{ id: "3CB282A01567BD3A", item: { components: { "enderio:energy": 100000 }, count: 1, id: "enderio:staff_of_travelling" } }
 		{ id: "2B1BCFD41DC80263", item: { count: 1, id: "farmersdelight:steak_and_potatoes" } }

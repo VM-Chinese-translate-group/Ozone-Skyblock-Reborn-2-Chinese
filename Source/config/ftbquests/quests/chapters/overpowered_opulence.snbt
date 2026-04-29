@@ -464,5 +464,94 @@
 			x: 8.5d
 			y: 1.0d
 		}
+		{
+			dependencies: ["1A1B057049B2AB58"]
+			id: "22B16AE1B2684DCB"
+			rewards: [
+				{
+					id: "13B67A2C4214D65B"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "6ACD8EAB68A82E78"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "35A23CBE2B0D3D85"
+				item: { count: 1, id: "torcherino:torcherino" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["22B16AE1B2684DCB"]
+			id: "54B033D5CF77D965"
+			rewards: [
+				{
+					id: "507C48211266C8A2"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "178292D1A896B3EE"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7A48645BA879847F"
+				item: { count: 1, id: "torcherino:compressed_torcherino" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["54B033D5CF77D965"]
+			id: "0BEC6FB4D100F23E"
+			rewards: [
+				{
+					id: "1B41BC7D477FA260"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "653D9A0747D824E8"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "06BA188B88A1369A"
+				item: { count: 1, id: "torcherino:double_compressed_torcherino" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -0.5d
+		}
 	]
 }

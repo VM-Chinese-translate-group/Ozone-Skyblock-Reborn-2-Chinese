@@ -42,6 +42,12 @@
 			can_repeat: true
 			dependencies: ["445C1394C2925EE2"]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/light_gray"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "7F24945B6C1F2800"
 			optional: true
 			rewards: [{
@@ -68,6 +74,12 @@
 				"097B7BF8B0CBC549"
 			]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/green"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "63B25E731B126624"
 			optional: true
 			rewards: [{
@@ -94,6 +106,12 @@
 				"5F0F1FFB4160C1C0"
 			]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/blue"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "0802317B97D895D4"
 			optional: true
 			rewards: [{
@@ -120,6 +138,12 @@
 				"6EF67A87979A9378"
 			]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/purple"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "38E8EA5AB3A98610"
 			optional: true
 			rewards: [{
@@ -146,6 +170,12 @@
 				"14F9F9F05968992D"
 			]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/orange"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "6B2F0714255943B6"
 			optional: true
 			rewards: [{
@@ -172,6 +202,12 @@
 				"44750CE6BE9DB523"
 			]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/cyan"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "7DB74BAC57F10381"
 			optional: true
 			rewards: [{
@@ -198,6 +234,12 @@
 				"75AD65B7786D4698"
 			]
 			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "projecte:item/alchemy_bags/red"
+				}
+				id: "ftbquests:custom_icon"
+			}
 			id: "483DA3FB8D65ED2F"
 			optional: true
 			rewards: [{
@@ -246,6 +288,37 @@
 				value: 1L
 			}]
 			x: 5.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["445C1394C2925EE2"]
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:chicken"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3E14B10C0D95CDF9"
+			optional: true
+			repeat_cooldown: 1600
+			rewards: [{
+				id: "54FBE2BED9361C45"
+				item: {
+					count: 1
+					id: "kubejs:animal_seed_base"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "75E929E60AB8C6AF"
+				item: { count: 1, id: "kubejs:coin" }
+				type: "item"
+			}]
+			x: -4.0d
 			y: -1.5d
 		}
 	]

@@ -846,6 +846,24 @@
 		{
 			dependencies: ["7BBDF9B27538EBBF"]
 			id: "5D78B43DAB5756C1"
+			rewards: [
+				{
+					id: "21AA3D0D4C6DB576"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "37298CD4AC3C2D27"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6A4525462F2F123C"
 				item: { count: 1, id: "trashcans:item_trash_can" }

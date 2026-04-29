@@ -1806,5 +1806,35 @@
 			x: 0.5d
 			y: 4.5d
 		}
+		{
+			dependencies: ["6E03872B3136B79B"]
+			id: "3473210E7AAB80EE"
+			rewards: [
+				{
+					id: "19D525E66EA49305"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "5E2FB5D768F25E56"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "4A9E90A52B321249"
+				item: { count: 1, id: "immersiveengineering:blastfurnace_preheater" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
 	]
 }

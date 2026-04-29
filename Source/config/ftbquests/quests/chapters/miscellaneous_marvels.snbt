@@ -1987,36 +1987,6 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["665EBED00E67F718"]
-			id: "7F39E6019D06530F"
-			rewards: [
-				{
-					id: "39266BA471651786"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "3F307ECE92828FCC"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			size: 1.25d
-			tasks: [{
-				id: "267CA4ED62B66B61"
-				item: { count: 1, id: "torcherino:torcherino" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: -1.5d
-		}
-		{
 			dependencies: ["731CFBA9CEF27A6A"]
 			id: "5D554AD1078BFB44"
 			rewards: [
@@ -2145,6 +2115,240 @@
 				}
 			]
 			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6F68D029D176C4FC"]
+			id: "172D9D871C55C62F"
+			rewards: [
+				{
+					id: "6BA23125DABC1AF0"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "5BF36F6245689932"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "31211573BB7798E7"
+				item: { count: 1, id: "gag:time_sand_pouch" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4E8A216308DE4F60"]
+			id: "46D8585E55448576"
+			rewards: [
+				{
+					id: "09D024ABFC896C21"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "66DFF41B8B7A4702"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				id: "1DD51B46E148BA93"
+				item: { count: 1, id: "kubejs:infused_capacitor" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["46D8585E55448576"]
+			id: "72744CCF4110F9DD"
+			rewards: [
+				{
+					id: "34F8B9EAE5097F2D"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "087E674AE1B826F8"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "004CAC2BBD1C9C51"
+				item: { count: 1, id: "kubejs:reinforced_capacitor" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["72744CCF4110F9DD"]
+			id: "10CE847A01CF2909"
+			rewards: [
+				{
+					id: "6FBF8CA9781456CF"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "1AEE972AA77AABA5"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7D28D8196646EEF4"
+				item: { count: 1, id: "kubejs:atomic_capacitor" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["10CE847A01CF2909"]
+			id: "13010CE647E918A3"
+			rewards: [
+				{
+					id: "7DB4764B86B2F2C3"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "2284E29EC2F3D69A"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "464F9549E0CB7564"
+				item: { count: 1, id: "kubejs:radiance_capacitor" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["13010CE647E918A3"]
+			id: "06937888BFF8D767"
+			rewards: [
+				{
+					id: "2DADB91890133EAA"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "1EDCE9CACB5AB66F"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "74D060DE0EDFE4DA"
+				item: { count: 1, id: "kubejs:thermonuclear_capacitor" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["06937888BFF8D767"]
+			id: "753C66ACDDE9F171"
+			rewards: [
+				{
+					id: "734D9A99298E1019"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "10245F43444668CF"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7484154370284A72"
+				item: { count: 1, id: "kubejs:shining_capacitor" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["753C66ACDDE9F171"]
+			id: "4DBA4D50A7627DA4"
+			rewards: [
+				{
+					id: "70A7DDB2EC731569"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "15680896D5E6FF63"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C9E60553E3ACB50"
+				item: { count: 1, id: "kubejs:spectrum_capacitor" }
+				type: "item"
+			}]
+			x: 7.5d
 			y: -1.5d
 		}
 	]

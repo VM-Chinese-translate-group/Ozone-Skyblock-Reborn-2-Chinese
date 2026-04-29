@@ -1171,7 +1171,7 @@
 			size: 1.25d
 			tasks: [{
 				id: "277BB22BBF2FD1AB"
-				item: { count: 1, id: "chisel:chisel" }
+				item: { count: 1, id: "chisel:iron_chisel" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -1200,11 +1200,69 @@
 			]
 			tasks: [{
 				id: "0A9CE83AA95D06E3"
-				item: { count: 1, id: "chiseler:chiseler" }
+				item: { count: 1, id: "chisel:auto_chisel" }
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.5d
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["21D2F298B32D5B95"]
+			id: "594A3262325FDCFF"
+			rewards: [
+				{
+					id: "1ED42F21D87903E0"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "711599F17DCF96FE"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "73C38F2685D7230D"
+				item: { count: 1, id: "chisel:diamond_chisel" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["594A3262325FDCFF"]
+			id: "56E02661982102F0"
+			rewards: [
+				{
+					id: "5B6E12A588BFE17E"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "72EFD85BEC652C5C"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1DEA3D9DBD9E44CC"
+				item: { count: 1, id: "chisel:hitech_chisel" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
 		}
 	]
 }
