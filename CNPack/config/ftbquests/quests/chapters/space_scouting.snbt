@@ -490,10 +490,14 @@
 				}
 			]
 			tasks: [{
-				id: "2954BC31D8E58849"
+				id: "17634D12196A67C8"
 				item: {
+					components: {
+						"ftbfiltersystem:filter": "or(item(stellaris:fuel_refinery)item(enderio:vat))"
+						"minecraft:custom_name": "\"Making Fuel\""
+					}
 					count: 1
-					id: "stellaris:fuel_refinery"
+					id: "ftbfiltersystem:smart_filter"
 				}
 				type: "item"
 			}]
@@ -533,71 +537,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["5D378E95DFBB5DCC"]
-			id: "0B50B26CFBF7F6B3"
-			rewards: [
-				{
-					id: "0ECABFE16309B3D0"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "6EF1476C3FFF740A"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					id: "2748E6184B366A51"
-					item: {
-						count: 1
-						id: "stellaris:space_suit_helmet"
-					}
-					type: "item"
-				}
-				{
-					id: "704D59EE782A60FA"
-					item: {
-						components: {
-							"stellaris:fluid": {
-								amounts: [L;0L]
-								fluids: ["minecraft:empty"]
-							}
-						}
-						count: 1
-						id: "stellaris:space_suit_chestplate"
-					}
-					type: "item"
-				}
-				{
-					id: "5EAF3D9303EAECBD"
-					item: {
-						count: 1
-						id: "stellaris:space_suit_leggings"
-					}
-					type: "item"
-				}
-				{
-					id: "5CEF4FE2180E40C2"
-					item: {
-						count: 1
-						id: "stellaris:space_suit_boots"
-					}
-					type: "item"
-				}
-			]
-			x: -4.5d
-			y: 3.5d
-		}
-		{
-			dependencies: ["0B50B26CFBF7F6B3"]
+			dependencies: ["7EF319CB8B4339B6"]
 			id: "1A40E97E9775C979"
 			rewards: [
 				{
@@ -956,6 +896,76 @@
 			}]
 			x: 0.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["5D378E95DFBB5DCC"]
+			id: "7EF319CB8B4339B6"
+			rewards: [
+				{
+					id: "0412DA7FCEA77344"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "53556C3F644F043C"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2666BBA1BB2FAC70"
+					item: {
+						count: 1
+						id: "stellaris:space_suit_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "78367747D739EB97"
+					item: {
+						components: {
+							"stellaris:fluid": {
+								amounts: [L;
+									0L
+									0L
+								]
+								fluids: [
+									"minecraft:empty"
+									"minecraft:empty"
+								]
+							}
+						}
+						count: 1
+						id: "stellaris:space_suit_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "1CC6DA4EBCECFB1B"
+					item: {
+						count: 1
+						id: "stellaris:space_suit_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "746960B42F6F3DDA"
+					item: {
+						count: 1
+						id: "stellaris:space_suit_boots"
+					}
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 3.5d
 		}
 	]
 }

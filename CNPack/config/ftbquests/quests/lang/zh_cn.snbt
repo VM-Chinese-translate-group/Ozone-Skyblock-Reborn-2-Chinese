@@ -22,7 +22,7 @@
 	chapter.7150356FCD9C2633.title: "资源紧缺"
 	chapter.7D3F9E93F7A636B7.title: "有问必答"
 	chapter.7E229907B5BA0260.title: "富丽堂皇"
-	quest.000303D086D2B044.quest_desc: ["Plant on grass to grow a sheep Make sure to give it plenty of breathing room to grow."]
+	quest.000303D086D2B044.quest_desc: ["Plant on grass to grow a sheep. Make sure to give it plenty of breathing room to grow."]
 	quest.0019EFE1E929FEE1.quest_desc: ["Compact your produce into blocks!"]
 	quest.003E76D37F01200A.quest_desc: ["Used to create simulations of mobs."]
 	quest.00A306AED17F4112.quest_desc: ["All the stars in one convenient item"]
@@ -51,12 +51,12 @@
 		"Pneumaticcraft has some great armor for the mid-game, check it out in JEI!"
 	]
 	quest.01A800996EF1127A.quest_subtitle: "Pneumaticcraft"
-	quest.01B8A92F5254E941.quest_desc: ["Stores the same amount of items, but can hold four different types!"]
+	quest.01B8A92F5254E941.quest_desc: ["拥有同样的物品存储总量，但能容纳四种不同物品！"]
 	quest.02316C06703C7D2B.quest_desc: ["A basic crafting material used as a key ingredient in many of Extended Crafting's advanced components."]
 	quest.0231C9D125B29E7E.quest_desc: [
-		"Basic upgrade adds: Redstone modes."
+		"基础升级新增的功能有：红石模式。"
 		""
-		"Upgrades are items that enhance pipes by increasing their transfer speed, efficiency, or functionality such as filtering and stack size."
+		"升级是一种能够对管道进行增强的物品，可以提升管道的传输速度、效率，或是加入新的功能，例如过滤和堆叠。"
 	]
 	quest.0231C9D125B29E7E.quest_subtitle: "Pipez"
 	quest.02518A623FB00BE0.quest_desc: ["A multiblock that burns biodiesel to generate large amounts of RF power"]
@@ -74,7 +74,7 @@
 		"Souls are collected using Soul Jars. Each Soul Jar can hold the souls of a single mob type. The amount of souls required to fill a Soul Jar differs depending on the mob."
 	]
 	quest.02AA09894A7363BD.quest_desc: [
-		"生成无限多的圆石（以及其他方块）！只需要将其放置在水源方块和熔岩源方块之间。"
+		"能够生成无限多的圆石（以及其他方块）！只需要将其放置在水源方块和熔岩源方块之间。"
 		""
 		"要生成圆石以外的其他方块，请参阅JEI。"
 		""
@@ -143,6 +143,7 @@
 	]
 	quest.06397541643EE9E4.quest_desc: [
 		"Endgame blocks restricted, 4 durability."
+		"Will not work on Chaos Block, Ultimate Block, Infinity Block, Infinity Crux, Ultimate Crux, Klein Star Crux, HDPE Block, Plutonium Block, Polonium Block, or Anitmatter Block."
 		""
 		"Right-click a block with a wand → it becomes an Enlivened Block entity."
 		""
@@ -155,9 +156,16 @@
 		""
 		"When Magic Beans are planted in Uberous Soil, they will grow a giant beanstalk, reaching to cloud level. This serves as a convenient way to access the Cloud Cottage over the Highlands.  "
 	]
-	quest.066E2CD8219B369B.quest_desc: ["Storage upgrade tier 1. Hover over item for details. Upgradable to the Gold Upgrade."]
+	quest.066E2CD8219B369B.quest_desc: ["一阶升级，鼠标指针悬停在物品上以查看详细信息，能够合成金升级。"]
 	quest.0678B5715CCEEE6A.quest_desc: ["The Chemical Injection Chamber uses Hydrogen Chloride gas to turn ores into 4 Shards. It is the start of x4 ore processing and requires a steady supply of Hydrogen Chloride, which in turn requires the player to have a Thermal Evaporation Plant running."]
 	quest.067ECCB49F68CBFA.quest_desc: ["可升级的钉刺，击杀时视为玩家击杀，需要红石信号激活。"]
+	quest.06937888BFF8D767.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 8"
+	]
 	quest.06A46A5949A9F3BA.quest_desc: [
 		"Complete this quest by successfully landing on Venus."
 		""
@@ -202,6 +210,8 @@
 		"A portal to another void world."
 		""
 		"Note: The void world that this portal takes you to has been known to sometimes cause performance issues. Take care when putting important machines or bases in here!"
+		""
+		"Do not launch a Stellaris rocket from the void dimension - bad things will happen!"
 	]
 	quest.0845CA46AAFECAA1.quest_subtitle: "JAVD"
 	quest.08740A0C3F39848D.quest_desc: ["Reinforced version of the pressure tube - can handle more pressure!"]
@@ -245,7 +255,7 @@
 	quest.099682D4CF5D3CFF.quest_desc: ["Place over a pipe to cover it with a facade!"]
 	quest.09B16A1A15C81262.quest_desc: ["An upgraded furnace with a base cook time of 40"]
 	quest.0A765530617B2B94.quest_desc: [
-		"Chaos block restricted, 16 durability."
+		"Chaos block and Anitmatter block restricted, 16 durability."
 		""
 		"Right-click a block with a wand → it becomes an Enlivened Block entity."
 		""
@@ -270,23 +280,23 @@
 	]
 	quest.0B49965D7D3DF4F9.quest_subtitle: "The Undergarden"
 	quest.0B49965D7D3DF4F9.title: "Into the Undergarden"
-	quest.0B50B26CFBF7F6B3.quest_desc: [
-		"A space suit is required to survive on other planets and moons."
-		""
-		"Beware of fall damage with the gravity on different planets/moons!"
-	]
-	quest.0B5848C907E7753B.quest_desc: ["Link two or more ender chests to transport and access items! Color code with dyes to pair chests together."]
+	quest.0B5848C907E7753B.quest_desc: ["用染料在末影箱子上染出颜色，相同颜色排列的末影箱子将互相配对。你可以链接两个及以上的末影箱子，无缝存取输送物品！"]
 	quest.0B5848C907E7753B.quest_subtitle: "Ender Storage"
 	quest.0BB68FE5EE0D7D63.quest_desc: [
-		"You can link drawers to it without having direct contact (Range can be extended with upgrades)."
+		"无需接触就能链接附近的所有抽屉（使用升级延伸链接范围）。"
 		""
-		"To link a drawer to a drawer controller you need to use a Linking Tool."
+		"你需要使用链接工具将抽屉链接到存储控制器。"
 	]
 	quest.0BC9DE119AF74A7A.quest_desc: ["Fluix ME Glass Cable is the simplest cable to make, transfers power and up to 8 channels. It comes in 17 different colors, the default being Fluix, and can be dyed any color using any of the 16 dyes."]
 	quest.0BD2E8188BB912CB.quest_desc: [
 		"Crafters are machines added by RFTools that will automatically craft items given a recipe, the necessary components and RF power. Multi-step crafting can be done in a single machine, limited only by the number of recipe slots."
 		""
 		"Crafter Tier 3 can remember 8 recipes."
+	]
+	quest.0BEC6FB4D100F23E.quest_desc: [
+		"Even faster than the previous two tiers!"
+		""
+		"Place the torch on the ground and right-click to access the GUI."
 	]
 	quest.0C3DB4A72DC396C5.quest_desc: ["腐肉是一种可以食用的食物，但有很大概率给食用者施加饥饿效果。由僵尸掉落。"]
 	quest.0C3DB4A72DC396C5.quest_subtitle: "Minecraft"
@@ -309,7 +319,11 @@
 		"See The Hermetica for more details on Theurgy."
 	]
 	quest.0D1BC89C6E1168E2.title: "Alchemical Salts"
-	quest.0D2292A3FEECE0BB.quest_desc: ["Not an easy feat, but results in a substancial reward. Collect trophies as you conquor your way through the Twilight Forest. The advancements page can help you with progression."]
+	quest.0D2292A3FEECE0BB.quest_desc: [
+		"Not an easy feat, but results in a substancial reward if you decide to attempt it. Collect trophies as you conquor your way through the Twilight Forest. The advancements page can help you with progression."
+		""
+		"&2Note: This quest is optional!&r"
+	]
 	quest.0D2292A3FEECE0BB.title: "Twilight Trophies"
 	quest.0D30B2FB51D802FD.quest_desc: ["Power from the sun, but more advanced!"]
 	quest.0D455041F06B11CF.quest_desc: ["Adds energy into the flux network"]
@@ -321,30 +335,37 @@
 	quest.0E012180FF171EA3.quest_desc: ["Max tier for the pressure tube."]
 	quest.0E0DCFDDD225CBE9.quest_desc: ["Surrounding yourself in dark matter seems like such a good idea! It absorbs a large amount of damage taken. You are nearly invincible with the set of armor. At times, you think that you can see movement within the sheen of armor."]
 	quest.0E352A7DB0D0E65D.quest_desc: ["Build a house out of bedrock."]
-	quest.0E7A8DAC2DBAEB4D.quest_desc: ["Extends your reach to the terminal. 16 blocks distance."]
-	quest.0EBFD58D6F06DFE7.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
+	quest.0E7A8DAC2DBAEB4D.quest_desc: ["延长可以与终端进行交互的距离，16格范围。"]
+	quest.0EBFD58D6F06DFE7.quest_desc: ["每次升级都会增加存储空间以及升级槽位。"]
 	quest.0EC5F7CAC60A570B.quest_desc: ["Try not to think about it"]
 	quest.0EC9E0D3EA56886C.quest_desc: [
 		"Using advanced connectors you can overcome the limitation of regular connectors and access the down side of a furnace from any other side. Advanced connectors have other advantages. They allow higher speeds for item and fluid transfer (10 ticks minimum per operation as opposed to 20) and can store more RF (which means they can also transfer more RF)."
 		""
 		"One warning: an advanced energy connector can still not extract energy from another side. The reason for this is that it is actually the generator/producer itself that pushes energy and it will not do that through that other side. Insertion of energy to another side does work however."
 	]
-	quest.0EF2FB5DA629DB4A.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
+	quest.0EF2FB5DA629DB4A.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.0F146A084493D964.quest_desc: ["Right click to turn wood into stripped logs and right click again to harvest instantly."]
-	quest.0F2C31359D60538C.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
+	quest.0F2C31359D60538C.quest_desc: ["每次升级都会增加存储空间以及升级槽位。"]
 	quest.0FCE294048DE59F6.quest_desc: ["Energy cubes can be used to hold large amounts of RF. The higher the tier, the more RF can be stored. Tier 1!"]
 	quest.10233A3DC0B81EA4.quest_desc: ["Put into a drawer to hold an almost unlimited amount of an item"]
 	quest.10233A3DC0B81EA4.quest_subtitle: "Functional Storage"
 	quest.1045FDFE8AF10401.quest_desc: ["Stores power; can be a multiblock as well. Works across long distances and through dimensions"]
 	quest.10540A8680E2AEF8.quest_desc: [
-		"Improved upgrade adds: Distribution modes."
+		"进阶升级新增的功能有：分配规则。"
 		""
-		"Upgrades are items that enhance pipes by increasing their transfer speed, efficiency, or functionality such as filtering and stack size."
+		"升级是一种能够对管道进行增强的物品，可以提升管道的传输速度、效率，或是加入新的功能，例如过滤和堆叠。"
 	]
 	quest.108159E6D64C856A.quest_desc: [
 		"Tainted Gold is a material blessed with the deeper, darker aspects of aura, meaning they take much longer to infuse while using less aura in the process. Note that the same infusion is possible using the materials' block form."
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
+	]
+	quest.10CE847A01CF2909.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 6"
 	]
 	quest.10ED928F001EA290.quest_desc: ["The main block that handles transferring items, fluids, energy, or redstone through the laser network using configurable cards."]
 	quest.10F60275E430ACDE.quest_desc: ["Crafting ingredient for hammers - 5x5x1"]
@@ -357,9 +378,9 @@
 	quest.11E0906BD605061E.quest_desc: ["The covered cable variant offers no gameplay benefits over its Fluix ME Glass Cable counterpart. It can however be used as an alternate aesthetic choice if you prefer the covered look."]
 	quest.11ED9715C659F22E.quest_desc: ["An upgraded furnace with a base cook time of 5"]
 	quest.11F12A03CE38A8C7.quest_desc: [
-		"Iron Chests mod has chests for the various metals in vanilla minecraft with varying sizes! As the tiers increase, so does the amount of items you can store!"
+		"Iron Chests模组为原版金属提供了对应材质的箱子！他们的容量各不相同，随着不断地升级，箱子的容量也会逐渐增加！"
 		""
-		"Copper chest is upgraded from the vanilla chest."
+		"铜箱子由原版箱子升级而来。"
 	]
 	quest.11F12A03CE38A8C7.quest_subtitle: "Iron Chests"
 	quest.11F34F6309A89E31.quest_desc: ["Tier 3 - Can store 300 stacks."]
@@ -386,14 +407,14 @@
 	]
 	quest.1248104A9F7A3F32.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
 	quest.125C064F10CFBF60.quest_desc: [
-		"筛子和锤：能够插入升级，快速地处理大量物品。"
+		"筛子和锤：能够插入升级，快速地处理大量物品。需要能量（RF）。"
 		""
-		"压缩机：使用RF能量压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！"
+		"压缩机：压缩筛出的物品，对所有自动筛矿系统来说都是很好的补充！需要能量（RF）。"
 	]
 	quest.125C064F10CFBF60.quest_subtitle: "Ex Machinis"
 	quest.125C064F10CFBF60.title: "通量升级"
-	quest.125E5D92A7D84955.quest_desc: ["Immersive Engineering multiblock machine. Assemble as a 3x3 and right-click with the engineer's hammer. Uses coal and outputs coal coke and creosote oil. See JEI or the manual for details."]
-	quest.125E5D92A7D84955.title: "Coke Oven"
+	quest.125E5D92A7D84955.quest_desc: ["沉浸工程多方块机器，以3x3x3形式搭建，手持工程师锤右击中心即可形成多方块结构。焦炉消耗煤炭，产生焦煤和杂酚油，详情查阅JEI或工程师手册。"]
+	quest.125E5D92A7D84955.title: "焦炉"
 	quest.1273EAF9DC0A7479.quest_desc: ["Found via mining in the Aether."]
 	quest.12A5561178489FCC.quest_desc: [
 		"The controller is the routing hub of a ME Network. Without it, a network is \"ad-hoc\" and can only have a max of 8 channel-using devices total."
@@ -416,13 +437,20 @@
 	quest.12D23F12FACE2F36.quest_desc: ["An upgraded furnace with a base cook time of 20"]
 	quest.12E388A337027D9F.quest_desc: ["The Destruction Gadget allows you to void a large area."]
 	quest.12F60B0E98F9D419.quest_desc: ["Tier 4, max tier - Can store 500 stacks."]
+	quest.13010CE647E918A3.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 7"
+	]
 	quest.130380166BF98207.quest_desc: ["A multiblock structure that fills items with fluids, such as turning empty bottles into potions or imbuing tools with lubricant and other liquids."]
 	quest.130380166BF98207.title: "Bottling Machine"
 	quest.137F5A524DB75A97.quest_desc: ["Potion ingredient, found in nether fortresses."]
 	quest.1388958122E58F71.quest_desc: ["Potion ingredient, slay a ghast to obtain."]
 	quest.138FFE0F7A3437A7.quest_desc: ["奇异储罐是一种基础的流体储罐，能够容纳32桶流体。用它来存储刷怪场的经验吧！你还可以合成一个地漏经验奇异储罐，将你的经验存储为流体经验。"]
 	quest.13E86FB30A4078F6.quest_desc: ["Froststeel can be found in the Frostfield biome of the Undergarden. Consider using the Nature's Compass to find the biome."]
-	quest.14582B862A91C1E6.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
+	quest.14582B862A91C1E6.quest_desc: ["每次升级都会增加存储空间以及升级槽位。"]
 	quest.14ADE52746F0F97D.quest_desc: [
 		"Once the amount of aura required becomes too much for the Aura Cache to store without having to refill it on too regular of a basis, one can employ the help of an Aura Trove - a higher tier version of the Aura Cache that has three times its storage capacity."
 		""
@@ -435,7 +463,11 @@
 	]
 	quest.151A5E0BF0ED82FC.quest_desc: ["A limitless power source that provides infinite energy output to connected machines and networks without requiring any fuel."]
 	quest.153E5E7C7B50FBE8.quest_desc: ["Crafting ingredient for hammers - 3x3x3"]
-	quest.156FE2D8DEE4B866.quest_desc: ["Used to infuse items; also used to craft Utherium Crystals."]
+	quest.156FE2D8DEE4B866.quest_desc: [
+		"Used to infuse items; also used to craft Utherium Crystals."
+		""
+		"Note: this process can be automated with hoppers, with inputs and outputs similar to a vanilla furnace."
+	]
 	quest.157B60FE82028B25.quest_desc: [
 		"To use framed blocks:"
 		""
@@ -446,6 +478,11 @@
 		"- Right click the block with an empty fluid container to remove a fluid camo."
 	]
 	quest.159B578700BEC915.quest_desc: ["Crafting component. Upgradable to next tier, see JEI."]
+	quest.15AF28F4684F51EF.quest_desc: [
+		"要获得下界岩，首先要取得巫水，将装满水的桶放置在菌丝体方块上（用菌丝孢子右击泥土即可生成）即可获得巫水。接下来在石桶中混合巫水与熔岩，即可获得下界岩。"
+		""
+		"你也可以用熔岩和巫水制作刷下界岩机——就像用熔岩和水制作刷石机一样！"
+	]
 	quest.15B720B7F41B48E7.quest_desc: [
 		"Right click to instantly mines blocks based on the charge level (V, shift+V)."
 		""
@@ -457,10 +494,11 @@
 	]
 	quest.1642C50313F491BA.quest_desc: ["A better version of the Charger - Parallel charging."]
 	quest.1642C50313F491BA.quest_subtitle: "ExtendedAE"
+	quest.165D83DA8A47584E.quest_desc: ["Control circuits are used to craft several Mekanism items and machines. Tier 8."]
 	quest.169D553ED480C513.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.16A0E92787B231F4.quest_desc: ["Long day? Try a nice bath to relieve your stress!"]
 	quest.16BD3B7720BB6FC5.quest_desc: ["Klein Star Vier holds up to 3,200,000 EMC and is also used in the crafting of the Klein Star Sphere."]
-	quest.16F2FE28C9730B3C.quest_desc: ["You can copy a drawer frequency by left clicking it with a Linking Tool and then you can right click another Ender Drawer and then they will have their contents synced."]
+	quest.16F2FE28C9730B3C.quest_desc: ["手持链接工具左击末影抽屉即可复制抽屉频率，接下来右击（译者注：经测试为潜行右击）其他末影抽屉即可将两个抽屉同步。"]
 	quest.16F347B287BA5A57.quest_desc: [
 		"A device to recombine Alchemical Sulfur, Salt, and Mercury into items."
 		""
@@ -468,6 +506,8 @@
 	]
 	quest.1714FDAD185BC9EC.quest_desc: ["Build a base on each planet. You should be able to breathe without a space suit."]
 	quest.172A4BF34F6B369D.quest_desc: ["A full set of infinity armor will grant you creative flight and invincibility - even from a /kill command."]
+	quest.172D9D871C55C62F.quest_desc: ["A way to tick accelerate blocks, Time-in-a-Bottle style. The longer it is kept in your inventory, the more time you can save! Click a block multiple times to speed it up even faster!"]
+	quest.172D9D871C55C62F.quest_subtitle: "Gadgets Against Grind"
 	quest.175ABA1A1E81745D.quest_desc: ["Energy storage item that holds and transfers RF"]
 	quest.177B785A9ECE8F52.quest_desc: ["Allows the alchemist to use the power of the Transmutation Table without having to place it down on a surface."]
 	quest.178C361C75E72C69.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
@@ -512,7 +552,7 @@
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
-	quest.197DA8087ED0110A.quest_desc: ["Storage upgrade tier 2. Hover over item for details. Upgradable to the Diamond Upgrade."]
+	quest.197DA8087ED0110A.quest_desc: ["二阶升级，鼠标指针悬停在物品上以查看详细信息，能够合成钻石升级。"]
 	quest.19F535AFD9F48A8A.quest_desc: [
 		"To create Awakened Supremium, you will need to collect rare material called Cognizant Dust. This is done by killing either a Wither or the Ender Dragon using an Essence Weapon that is enchanted with Mystical Enlightenment."
 		""
@@ -523,6 +563,7 @@
 	quest.1A1B057049B2AB58.quest_subtitle: "Extended Crafting"
 	quest.1A378D0D3AA38021.quest_desc: ["A unique crafting method of Powah, uses items and energy to craft recipes"]
 	quest.1A40E97E9775C979.quest_desc: ["An upgraded space suit with the added power of jet-propelled flight!"]
+	quest.1A40E97E9775C979.title: "Jet Suit"
 	quest.1A518FF85B798517.quest_desc: [
 		"Aura and its presence in the world has been a conundrum to researchers for a long time now. Back in the day, they used to use Bottles to collect aura and to be able to analyze it in greater detail as it becomes visible to the naked eye that way. Soon after, complaints from uninformed civilians started troubling them: \"Other scientists already have a use for bottles, this will cause issues\", they said."
 		""
@@ -533,10 +574,14 @@
 	quest.1AB8244D9A52E7F4.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for hardened tier Powah items."]
 	quest.1AE2DA480EB23947.quest_desc: ["Used to make plastic. Refer to JEI and the manual."]
 	quest.1AE506C74AF7D407.quest_desc: ["The best draconic scientists have figured out a way to duplicate chaos shards. Breaking down a chaos shard into its tiniest fragments will allow you to transform it into something that can be refined to create large chaos fragments."]
-	quest.1B146007CA8A3052.quest_desc: ["There is only one type of rocket in Stellaris; you can improve your rocket using various upgrades."]
+	quest.1B146007CA8A3052.quest_desc: [
+		"There is only one type of rocket in Stellaris; you can improve your rocket using various upgrades."
+		""
+		"Make sure you only take off in your rocket from the overworld (the dimension where you started the pack) or the planets! Otherwise, messy things can happen!"
+	]
 	quest.1B17A64C7D6C88F7.quest_desc: ["Transmit power wirelessly to charge items in your inventory!"]
 	quest.1B1E9AFA7D0B0970.quest_desc: ["Install upgrades into the foundry to make faster and disable alloying!"]
-	quest.1B1E9AFA7D0B0970.title: "Upgrades"
+	quest.1B1E9AFA7D0B0970.title: "升级"
 	quest.1B20650DA11BD5F6.quest_desc: ["Max Blocks: 128"]
 	quest.1B4A6ACF29C9DD46.quest_desc: ["The Combiner allows the player to create an ore block from 8 dust. Place the ore dust in the top slot, and some cobblestone in the bottom slot, and it will combine to make the ore block. It requires 1000 power per operation. Works with the dust of copper, iron, tin, osmium, obsidian (only needs 4) and gold. Also allows 1 Flint to a gravel block and 16 Redstone/Lapis to their ores."]
 	quest.1B5C8B86CFDBB051.quest_desc: [
@@ -548,7 +593,7 @@
 		""
 		"你可以通过\"蹲起\"让树和作物生长（多次按下潜行键——记得关闭粘滞键），你还可以连锁破坏方块（用到了FTB Ultimine模组，默认按键是反引号键\"`\"）。"
 		""
-		"要获取更多生命值，试试吃下各种各样的食物！"
+		"要获取更多生命值，试试吃下各种各样的食物！（吃下十种独特食物后你将获得第一颗额外生命）"
 		""
 		"你没必要在完成一个章节的所有任务后再开始下一章，但有些任务只有在前置任务完成后才能解锁。"
 	]
@@ -589,7 +634,7 @@
 	]
 	quest.1CFE1ABB42819D7E.quest_desc: ["怪物风扇可以将生物推向各个方向（甚至包括垂直方向）。它拥有三种增强效果的升级可供选择——宽度、高度和距离升级。"]
 	quest.1CFE1ABB42819D7E.quest_subtitle: "Mob Grinding Utils"
-	quest.1D0B7AA898DB7CD4.quest_desc: ["Generate infinite lava (slowly)! Place into a fluid drawer"]
+	quest.1D0B7AA898DB7CD4.quest_desc: ["（缓慢）生成无限熔岩！需要放入流体抽屉。"]
 	quest.1D1E009C95C47AC9.quest_desc: ["Crafting material needed to make Packaged Auto machines."]
 	quest.1D33C862778D1437.quest_desc: ["All items, fluids, or energy piped into here will be voided."]
 	quest.1D48817AB6A06772.quest_desc: [
@@ -624,18 +669,19 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
+	quest.1FCBF2B893EEA7D9.quest_desc: ["Control circuits are used to craft several Mekanism items and machines. Tier 6."]
 	quest.1FCF25002DEC80BA.quest_desc: ["Special apples that give different buffs! Hold shift while hovering over the apple to see its effects."]
 	quest.1FD449A4EB2E1A06.quest_desc: ["The reaction chamber is a machine that uses a ton of power to provide very efficient ways of processing materials. It is used in the creation of various items needed to progress in AdvancedAE as well as offering efficient recipes for other mods."]
 	quest.1FD449A4EB2E1A06.quest_subtitle: "Advanced AE"
 	quest.202A8B47E8AE3376.quest_desc: ["LaserIO seeks to replicate the mechanics of EnderIO - allowing you to interact with items, fluids, energy, and redstone -- all from the same block face! Furthermore, 9 separate configurations can be placed per block face, leading to nearly limitless potential for logistics around transportation of resources. "]
 	quest.202A8B47E8AE3376.quest_subtitle: "Laser IO"
-	quest.202C97EC62E3FD47.quest_desc: ["Sneak + Right Click in the air to change modes. Right click a drawer to toggle the option."]
+	quest.202C97EC62E3FD47.quest_desc: ["潜行右击空气即可切换模式，右击抽屉开关对应选项。"]
 	quest.20AA10B19EA9E15F.quest_desc: [
 		"At some point, one realizes that a Furnace is just too slow and consuming of resources to use efficiently. The Extraneous Firestarter speeds up a Furnace tthat it is placed on any side of, along with giving it the necessary heat to smelt any sort of material. Note that, while consuming the required aura for this, the natural levels might drop into the negatives, causing diminishing returns."
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.20E32463368357B4.quest_desc: ["Storage upgrade tier 4. Hover over item for details. Upgradable to the Max Storage Upgrade."]
+	quest.20E32463368357B4.quest_desc: ["四阶升级，鼠标指针悬停在物品上以查看详细信息，能够合成最大存储升级。"]
 	quest.210491F044A5BC31.quest_desc: ["No more torches needed to light up your interiors!"]
 	quest.210F3A7CABB85DC8.quest_desc: ["Right click to instantly harvest leaves, wool, and mushrooms (from mooshrooms). The charge level (V, shift+V) controls the area sheared based on charge."]
 	quest.21460544B92AF9B4.quest_desc: ["Infuses blaze rods to make them provide more power for longer"]
@@ -660,11 +706,13 @@
 	quest.219B7ED265976105.quest_desc: ["Mine nether quartz ore in the nether to obtain."]
 	quest.21C27FA410438560.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.21D2F298B32D5B95.quest_desc: [
-		"Chisel Reborn is a decorative-focused mod that adds a wide variety of block textures for enhanced building options."
+		"Chisel adds a huge variety of decorative blocks to the game. The mod is very useful for people who like the construction aspect of Minecraft. "
 		""
-		"Right-click with the chisel to open its GUI."
+		"Access to new blocks is provided mostly through one tool, the chisel."
+		""
+		"Right clicking opens the chiseling interface."
 	]
-	quest.21D2F298B32D5B95.quest_subtitle: "Chisel Reborn"
+	quest.21D2F298B32D5B95.quest_subtitle: "Chisel Modern"
 	quest.21D5CF2BC04467D4.quest_desc: [
 		"The water separator transforms water into Oxygen and Hydrogen."
 		""
@@ -676,7 +724,7 @@
 		""
 		"Industrial Foregoing: Souls uses souls extracted from Wardens to accelerate your machines. To do it you need to extract souls from a Warden using a Soul Laser Base with a Blue Lens. As always the Stasis Chamber will be your friend."
 		""
-		"Once you have some souls stored now you need to place a Soul Surge pointing at the block you want to accelerate and connect it using Soul Pipes to the Soul Laser Base. You can stop the Soul Surge from working by applying a redstone signal to it."
+		"Once you have some souls stored, now you need to place a Soul Surge pointing at the block you want to accelerate and connect it using Soul Pipes to the Soul Laser Base. You can stop the Soul Surge from working by applying a redstone signal to it."
 		""
 		"Each soul lasts for 15 seconds and makes the machine 4 times faster."
 	]
@@ -701,6 +749,13 @@
 	quest.22576BE5F4FD9868.quest_desc: ["Use the digital miner at least once in every dimension."]
 	quest.2283BAFB726F6AF7.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafter."]
 	quest.228FC9A995457D3C.quest_desc: ["This block generator has a speed of 32"]
+	quest.22B16AE1B2684DCB.quest_desc: [
+		"&2For tick acceleration earlier in the game, look up the temporal pouch in JEI!&r"
+		""
+		"This is a small, simple mod that adds various torches that can be used to increase the tick rates of tile entities. In other words: they make machines run faster, crops grow faster, etc..."
+		""
+		"Place the torch on the ground and right-click to access the GUI."
+	]
 	quest.22CEF75979B60798.quest_desc: [
 		"The Cooking Pot is a workstation where you can both prepare and store a large amount of meals. When placed above any suitable heat source (campfire, open flames, lava, a stove etc.), it will start bubbling, indicating it's ready to cook."
 		""
@@ -740,7 +795,7 @@
 	quest.253B925F5877067D.quest_desc: ["用筛子筛沙砾可以得到矿物碎块。"]
 	quest.25771C0683859846.quest_desc: ["Fully automate a wither farm to mass produce nether stars."]
 	quest.2591C17114EF1CFC.quest_desc: ["An excellent way of duplicating ultimate singularities"]
-	quest.2595D390AED8C101.quest_desc: ["Diamond chest is upgraded from the gold chest."]
+	quest.2595D390AED8C101.quest_desc: ["钻石箱子由金箱子升级而来。"]
 	quest.25B907E3FDFC236C.quest_desc: [
 		"The Tinkering Table is used to add/remove Augments to your essence gear. The types of tool/armor that an Augment can be applied to are listed in the tooltip of the Augment."
 		""
@@ -801,12 +856,12 @@
 		"They are cable subparts."
 	]
 	quest.27D559AF2FF8AB16.quest_desc: ["Open one stack of chance cubes (any before this does not count)."]
-	quest.284AD374B7EC81DF.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
+	quest.284AD374B7EC81DF.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.288D1A8284EA6444.quest_desc: ["在鸡上使用可以制造一个金鸡蛋。在5x5的泥土中央使用以创造一片祈福之土（光照充足时生成友好生物）。"]
 	quest.28AADA8236CEE862.quest_desc: [
-		"Used to craft items that need a blueprint."
+		"用来制作需要蓝图的物品。"
 		""
-		"Items made in the Engineer's workbench are generally used in other crafting recipes. A good example is the powered lantern, which blocks hostile mobs from spawning in a radius! "
+		"工程师装配台制作出来的物品通常用于其他的合成配方。一个典型的例子是电灯笼，其能够阻止敌对生物在一定范围内生成。"
 	]
 	quest.28B2DF42316767BD.quest_desc: ["Sinks can hold water!"]
 	quest.28E3C30852CAB186.quest_desc: ["装在奇异储罐上，右击它就可以享受经验浴了！"]
@@ -823,7 +878,7 @@
 		"Propeller Hats模组添加了多种等级的竹蜻蜓帽，供你四处飞行。竹蜻蜓帽由FE驱动，所以你需要某种充电器来为其充电。"
 	]
 	quest.2ABCE226A3B4F4EE.quest_desc: ["All energy piped into here will be voided."]
-	quest.2AD25DE5F43D3B4A.quest_desc: ["Plant on grass to grow a cow Make sure to give it plenty of breathing room to grow."]
+	quest.2AD25DE5F43D3B4A.quest_desc: ["Plant on grass to grow a cow. Make sure to give it plenty of breathing room to grow."]
 	quest.2AEE4D88A489DA16.quest_desc: ["A teleportation item that allows players to set and instantly travel to saved locations"]
 	quest.2B72356DFAAC12A5.quest_desc: ["一把能造成5点伤害的剑。"]
 	quest.2BBE7E9D9A8772BE.quest_desc: ["This first build converts items into EMC one at a time. When enough EMC amasses, the target item is created and placed in the chest. It seems to hungrily pull EMC from Energy Collectors and Anti Matter Relays around itself to use in the creation of items."]
@@ -831,7 +886,11 @@
 	quest.2BF9F779FD75AA4C.title: "Generalized Predictions"
 	quest.2C08FD536602B1BD.quest_desc: ["Crafting component for Powah items."]
 	quest.2C1A380EBB6AF17C.quest_desc: ["Made of 10,000 glowstone dust"]
-	quest.2C50B9ACE82D517F.quest_desc: ["To gain more permenant hearts, try eating a wide variety of foods! Use this book to keep track."]
+	quest.2C50B9ACE82D517F.quest_desc: [
+		"To gain more permenant hearts, try eating a wide variety of foods! Use this book to keep track. You will gain an extra heart after the following milestones (eating unique foods): 10, 15, 20, 25, 30. "
+		""
+		"You can gain a maximum of 5 additional hearts using this method, other items exist to boost hearts past this point,"
+	]
 	quest.2C50B9ACE82D517F.quest_subtitle: "Spice of Life"
 	quest.2C52AF4EB1C85864.quest_desc: ["Uses solar power (sun) to generate RF. Tier 2!"]
 	quest.2C7CB05FD8889BD4.quest_desc: ["Turns lava and lava+redstone into RF."]
@@ -850,7 +909,7 @@
 		""
 		"运行以上指令需要开启作弊或拥有服务器的OP权限。在服务器运行指令时，会改变所有人的模式。"
 		""
-		"你也可以先在kubejs/config/common.json文件中修改难度，再开始游戏。"
+		"你也可以先在kubejs/config/common.json文件中修改难度，再开始游戏。在json文件中，你的packmode必须为&b\"normal\"&r或&b\"expert\"&r——请确保所有字母均为小写并带有引号。"
 		""
 		"&4在非普通模式游玩时，每次整合包更新后，都需要重新运行指令或修改config文件来调整难度！&r"
 		""
@@ -866,11 +925,11 @@
 	]
 	quest.2CE245F9F36F4E39.quest_desc: ["Cloggrum is one of the most common ores in the Undergarden."]
 	quest.2CEDF16DFC5B7FDC.quest_desc: [
-		"Each Backpack can receive a certain number of addons, or upgrades. These are crafted, and then placed in the left slots of the Backpacks inventory."
+		"每个背包都能安装一定数量的插件，或者说升级。合成相应的升级，并将其放入背包左侧的槽位即可生效。"
 		""
-		"There are many different Upgrades available. A lot of these can also be turned into advanced versions, which further improves their effectiveness."
+		"有许多升级供你选择，大部分升级还能升级成高级版，将效率更进一步。"
 	]
-	quest.2D205E67DE382A31.quest_desc: ["Upgrade that voids excess items. Prevents systems from jamming up due to overflow."]
+	quest.2D205E67DE382A31.quest_desc: ["能够销毁多余物品的升级，用来防止物品溢出引起的系统卡顿。"]
 	quest.2D2B0DB13122E2EA.quest_desc: [
 		"将树苗、树叶、木屑（用锤破坏原木）或其他有机物放进木桶，就可以制造出泥土。"
 		""
@@ -878,7 +937,7 @@
 	]
 	quest.2D2E4CE0DE0E015F.quest_desc: ["Power from biofuel (plant matter in the crusher)."]
 	quest.2D928501975CB165.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
-	quest.2DA429EE9D3EEA9B.quest_desc: ["Gold chest is upgraded from the iron chest."]
+	quest.2DA429EE9D3EEA9B.quest_desc: ["金箱子由铁箱子升级而来。"]
 	quest.2DB858A32BBA002A.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.2DE3DFDBE3595E41.quest_desc: ["Essence Armor pieces are higher tier armor that can be upgraded using Augments."]
 	quest.2DF07E22F5A8CE7C.quest_desc: ["The Copy Paste Gadget allows you to select a large radius to copy and paste in a different location."]
@@ -902,18 +961,12 @@
 	quest.2ECDC7B514932E1C.quest_desc: ["A high-tier crafting component infused with ender energy."]
 	quest.2EDFF6BAB18DCBC8.quest_desc: ["Upgraded essences are crafted using the previous tier of essence and an infusion crystal. Used to create Tier 2 seeds. (Crystals are required in expert mode)"]
 	quest.2F367F6748A0281C.quest_desc: ["A rare, high-tier alloy made from vanilla endgame materials."]
-	quest.2F557E8BDF14E2EF.quest_desc: [
-		"The Stirling Generator is used to generate power by burning Furnace fuels. Its power generation rate and fuel efficiency depend on the installed capacitor."
-		""
-		"Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc."
-		""
-		"&4Ender IO is currently in Alpha and is being rewritten from the ground up for the latest version of Minecraft. As such, some features have not yet been ported. Textures may be missing on some items, and there will be bugs!&r"
-	]
+	quest.2F557E8BDF14E2EF.quest_desc: ["The Stirling Generator is used to generate power by burning Furnace fuels. Its power generation rate and fuel efficiency depend on the installed capacitor."]
 	quest.2F557E8BDF14E2EF.quest_subtitle: "Ender IO"
 	quest.2F5803138627E169.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
 	quest.2F5B723497046BFC.quest_desc: ["Get rid of those pesky phantoms! Can be placed in the charm slot."]
 	quest.2F5DF89B8B8B3967.quest_desc: ["Klein Star Zwei holds up to 200,000 EMC and is also used in the crafting of Klein Star Drei. "]
-	quest.2F60BEB4CAB4424A.quest_desc: ["This terminal can be used to view, insert, and extract items in the Simple Storage Network."]
+	quest.2F60BEB4CAB4424A.quest_desc: ["该终端可以用来查看、放入、取出简易存储网络内的物品。"]
 	quest.2F631C8EE15BA50F.quest_desc: ["自动打开怪物掉落的战利品箱！（提示：用漏斗或管道来自动化！）"]
 	quest.2F631C8EE15BA50F.quest_subtitle: "FTB Quests"
 	quest.2F7D243BFA0DE65C.quest_desc: [
@@ -922,6 +975,13 @@
 		"将尘土放入装满水的桶中就可以制作出黏土方块。"
 	]
 	quest.2F8633A3B969A2E5.quest_desc: ["Used for fusion crafting. One core is needed, and then one injector per item required for crafting. Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
+	quest.2FEBA698BF4F7AF2.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 1"
+	]
 	quest.2FF30E29BD7550D5.quest_desc: ["Makes your rocket look like a tiny rocket!"]
 	quest.2FF4F03F52C1D8F3.quest_desc: ["This upgrade changes the fuel needed by the rocket to hydrogen."]
 	quest.30016E1C526393CB.quest_desc: ["Mobius Fuel is a fuel added by ProjectE. It burns sixteen times as long as regular coal and is able to smelt 128 items."]
@@ -962,10 +1022,15 @@
 		"- Right click the block with an empty fluid container to remove a fluid camo."
 	]
 	quest.31D2D1709EB19D54.quest_desc: ["Place in front of animals to generate pink slime."]
-	quest.31FC1E10FF6B79D5.quest_desc: ["Extends your range even further to 64 blocks. This distance is lengthened with the addition of a beacon (hold shift on item for details)."]
+	quest.31FC1E10FF6B79D5.quest_desc: ["将距离延长到64格，还能通过信标进一步延长距离（指针指向物品按住Shift查看更多信息）。"]
 	quest.326626C6F888B720.quest_desc: ["To use this mod, one needs to make 2 Recipe Pattern Holders and encode them with an Encoder. "]
+	quest.32664FCADE420D48.quest_desc: [
+		"Addons make industrial foregoing machines better! There are addons for efficiency, range, speed, and more!"
+		""
+		"Higher tiers exist, see JEI."
+	]
 	quest.32664FCADE420D48.title: "Addons"
-	quest.3278DE2E493332DC.quest_desc: ["Generate infinite water! Place into a fluid drawer."]
+	quest.3278DE2E493332DC.quest_desc: ["生成无限水！需要放入流体抽屉。"]
 	quest.327E60DEDF8D9876.quest_desc: ["The energized smelter is your basic electric furnace that uses energy instead of fuel to smelt items."]
 	quest.3287EB20CFF4AF31.quest_desc: ["Create, maintain, and generate power from a max size turbine from Mekanism."]
 	quest.329254403D3AE4CC.quest_desc: [
@@ -1026,10 +1091,16 @@
 		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
 	quest.34172B8D67D6281E.quest_desc: ["Crafting ingredient to create Warden tools and armor."]
-	quest.34612C1E6AEDC97F.quest_desc: ["游戏前期双倍矿方式——非常慢，但是未来会有更好的选择！"]
+	quest.34612C1E6AEDC97F.quest_desc: ["游戏前期双倍矿方式——非常慢，但是未来会有更好的选择！需要能量（RF）。"]
 	quest.34612C1E6AEDC97F.quest_subtitle: "Useful Machinery"
 	quest.3465BA65A8FF769E.quest_desc: ["The inscriber is used to inscribe circuits and processors using presses, and to crush various items into dust. It can accept either AE2's power (AE) or Fabric/Forge Energy (E/FE). It can be sided, such that inserting items from different sides inserts them into different slots in its inventory. To facilitate this, it can be rotated with a Certus Quartz Wrench. It can also be set to push the results of crafts to adjacent inventories."]
-	quest.3475FD5AB260705E.quest_desc: ["Just like an item drawer, but holds fluids!"]
+	quest.3473210E7AAB80EE.quest_desc: [
+		"An Improved Blast Furnace can have a maximum of two Blast Furnace Preheaters; one on each side. They need power to function."
+		""
+		"One Blast Furnace Preheater will make the Improved Blast Furnace twice as fast, two Blast Furnace Preheaters will make it three times as fast. "
+	]
+	quest.3473210E7AAB80EE.title: "Blast Furance Preheaters"
+	quest.3475FD5AB260705E.quest_desc: ["类似物品抽屉，但存储的是流体！"]
 	quest.34892B714A83B9BD.quest_desc: [
 		"The Emerald Apple grants the following potion effects:"
 		""
@@ -1052,7 +1123,7 @@
 	quest.356967A5117434E7.quest_desc: ["Restores health, provides underwater breathing, and permanent night vision (shift+X)."]
 	quest.3574297380D51075.quest_desc: ["A full set of infinity armor will grant you creative flight and invincibility - even from a /kill command."]
 	quest.358CAB03A0CA3B8E.quest_desc: ["It will generate a passive maximum of 12 EMC per second up to a maximum of 30,000 EMC at a light level of 15. When placed adjacent to an Energy Condenser, Energy Condenser MK2, Energy Condenser MK3, Anti-Matter Relay MK2 or Anti-Matter Relay MK1, it will transfer the EMC into that machine. "]
-	quest.35A1FA947B38610C.quest_desc: ["Click on an ender chest with pouch to link. Ender chest access from your inventory!"]
+	quest.35A1FA947B38610C.quest_desc: ["手持袋子右击末影箱子即可建立链接，然后你就能在物品栏里访问末影箱子了！"]
 	quest.35F8C7EA2A6A230A.quest_desc: ["Put on slime boots and use your slime sling for fast travel! Be careful to aim correctly..."]
 	quest.3603913FC72967C4.quest_desc: ["Found in Bastions; can be duplicated with a crafting recipe."]
 	quest.36751E0CBED417FA.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
@@ -1086,7 +1157,7 @@
 		"To add Experience to the machine, one can use a Fluid Conduit connected to a tank or other source of Liquid XP; alternatively, one can use the Experience Rod to place Experience inside of the machine directly from the player"
 	]
 	quest.380EF464962F81B3.quest_desc: ["Generate 1 billion RF/tick."]
-	quest.3833EC6F7FBBA74F.quest_desc: ["If you need more than the six sides of the controller to connect to, you can link the Access point for another six sides that can see the whole drawer network. "]
+	quest.3833EC6F7FBBA74F.quest_desc: ["如果控制器的六个面不够你用的话，链接这个扩展器可以再给你六个同样能够访问整个抽屉网络的面。"]
 	quest.38451728CB184D6A.quest_desc: ["A powerful device that controls time and weather"]
 	quest.38451728CB184D6A.quest_subtitle: "Draconic Evolution"
 	quest.384531776969BAA4.quest_desc: ["Upgraded version of the liquid compressor."]
@@ -1107,7 +1178,7 @@
 		"\"How do I make more islands if I am playing multiplayer?\""
 		"- Run the command \"&b/skyblock gui&r\"."
 		""
-		"\"Is there different packmodes?\""
+		"\"Are there different packmodes?\""
 		"- Yes, run the command \"&b/packmode help&r\"."
 		""
 		"\"Why aren't passive mobs spawning?\""
@@ -1136,7 +1207,7 @@
 	]
 	quest.39140A5AC01843D2.quest_subtitle: "Can't find the answer here? Head to Discord and ask!"
 	quest.39327666C21DA6F6.quest_desc: ["By working in large quantities of the powerful red and dark matters, you manage to dramatically speed up the construct. It now pulls items apart into EMC 64 at a time. It also now has a separate chamber to place transmuted items."]
-	quest.39596CAA42FE6D8A.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
+	quest.39596CAA42FE6D8A.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.397356F1B2238867.quest_desc: ["Your basic terminal, allowing you to view and access the contents of your network's storage and request things from your autocrafting setup."]
 	quest.3999198FADFC6A44.quest_desc: [
 		"由金筛网升级而来。"
@@ -1146,7 +1217,7 @@
 	quest.39BB1EE4D2B24353.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
 	quest.39BC864BAA5BEF13.quest_desc: ["PackagedAuto is an addon to Applied Energistics 2, and it aims to use \"packages\" of items to allow autocrafting with more than 9 items, and fluid crafting is also supported."]
 	quest.39BC864BAA5BEF13.quest_subtitle: "Packaged Auto"
-	quest.39D148ACFB96F5F9.quest_desc: ["Stores the same amount of fluid, but can hold four different types!"]
+	quest.39D148ACFB96F5F9.quest_desc: ["拥有同样的流体存储总量，但能容纳四种不同流体！"]
 	quest.39E081184335B6E1.quest_desc: ["The Awakening Altarnator is a single-block automatable version of the Awakening Altar."]
 	quest.39E081184335B6E1.quest_subtitle: "Mystical Automation"
 	quest.39EF5A9782C3678C.quest_desc: ["The waste product from using uranium in a reactor."]
@@ -1155,9 +1226,9 @@
 	quest.3A6A4C98058E48FC.quest_desc: ["Power from the sun."]
 	quest.3A7ACD6C36478B09.quest_desc: ["Max Blocks: 9"]
 	quest.3AD0AA05BFD863C2.quest_desc: [
-		"Functional Storage is an alternative take on the storage solution of Storage Drawers, with an updated look and additional functionalities."
+		"功能性存储是存储抽屉的平替，但外观更新，功能更多。"
 		""
-		"The classic 1x1 drawer holds a lot of one item type per drawer. Other varients avaliable. Upgradable."
+		"经典的1x1抽屉能够容纳大量同种物品，抽屉拥有各种木头的变体版本，还可以升级。"
 	]
 	quest.3AD0AA05BFD863C2.quest_subtitle: "Functional Storage"
 	quest.3B17326FFA1DC8F6.quest_desc: [
@@ -1166,7 +1237,7 @@
 		"Tier 1."
 	]
 	quest.3B39980FD69BE7EE.quest_desc: ["在泥土上使用以创造祈福之土（5x5区域）——祈福之土上将生成友好生物。"]
-	quest.3B6BA03724FFA136.quest_desc: ["Storage upgrade tier 3. Hover over item for details. Upgradable to the Netherite Upgrade."]
+	quest.3B6BA03724FFA136.quest_desc: ["三阶升级，鼠标指针悬停在物品上以查看详细信息，能够合成下界合金升级。"]
 	quest.3BD7934F9EDAA4A9.quest_desc: [
 		"Of course, based on the world that you are currently in, the type of aura collected will slightly vary. For instance, in the normal world, aura can be gathered in the form of sunlight, while in the Nether realm, aura can be gathered in the form of ghosts, and in the End realm, aura is present in the form of an overabundance of darkness."
 		""
@@ -1181,7 +1252,7 @@
 	]
 	quest.3BF7D0F1043813F1.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for nitro tier Powah items."]
 	quest.3C213A6C4914FDFA.quest_desc: ["Made up of 59049 cobblestone!"]
-	quest.3D1786596C9FCC88.quest_desc: ["Upgrades are items that enhance pipes by increasing their transfer speed, efficiency, or functionality such as filtering and stack size."]
+	quest.3D1786596C9FCC88.quest_desc: ["升级是一种能够对管道进行增强的物品，可以提升管道的传输速度、效率，或是加入新的功能，例如过滤和堆叠。"]
 	quest.3D70E1BB2986C4DB.quest_desc: [
 		"The fundamental unit of this mod is the Data Model - an item which holds information about an entity that you can utilize to generate their drops. To get a Data Model, you must first craft a Data Model Framework, and use it on the target entity to build the model. Once you have your model, you will have to train it."
 		""
@@ -1198,6 +1269,13 @@
 		"- Right click the block with a Framed Hammer to remove the camo."
 		"- Right click the block with an empty fluid container to remove a fluid camo."
 	]
+	quest.3E14B10C0D95CDF9.quest_desc: [
+		"If you really need animal seeds before you can craft the base, then you can purchase it here. It doesn't come cheap! "
+		""
+		"Repeatable every 30 minutes."
+	]
+	quest.3E14B10C0D95CDF9.quest_subtitle: "Get a bad spawn biome?"
+	quest.3E14B10C0D95CDF9.title: "Need Animals?"
 	quest.3E4218A3CBD9CB28.quest_desc: ["Crafted from resources you will find in the Otherside."]
 	quest.3E46241002680BCC.quest_desc: [
 		"Interfaces act like a small chest and fluid tank that fills itself from and empties to network storage depending on what you set it to keep a stock of in its slots. It tries to complete this in a single gametick, so it can fill itself with or empty itself from up to 9 stacks per gametick, making it a fast method of import or export if you have fast item pipes."
@@ -1212,9 +1290,9 @@
 	quest.3ED9992DD5070D51.quest_subtitle: "Farmer's Delight"
 	quest.3EDA781E026296F3.quest_desc: ["This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."]
 	quest.3F171C175D462267.quest_desc: [
-		"筛子：自动筛矿！和普通筛子共用筛网。筛网可以附魔时运和效率。需要更多铁吗？试试筛粉碎深板岩。"
+		"筛子：自动筛矿！和普通筛子共用筛网。筛网可以附魔时运和效率。需要更多铁吗？试试筛粉碎深板岩。需要能量（RF）。"
 		""
-		"锤：能够将圆石变沙砾，沙砾变沙子，沙子变尘土等等！需要放入锤子（可以附魔效率）。"
+		"锤：能够将圆石变沙砾，沙砾变沙子，沙子变尘土等等！需要放入锤子（可以附魔效率）。需要能量（RF）。"
 	]
 	quest.3F171C175D462267.title: "机械升级"
 	quest.3F1E49F84A0BA465.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies phantoms."]
@@ -1245,8 +1323,10 @@
 		"Yes, this even works on the Chaos Guardian."
 	]
 	quest.402D82ABE31FC142.quest_desc: ["Used to combine circuit boards with etching acid, creating unassembled Printed Circuit Boards (PCBs)"]
+	quest.409BF70E8D188CD9.quest_desc: ["Control circuits are used to craft several Mekanism items and machines. Tier 5."]
+	quest.409BF70E8D188CD9.quest_subtitle: "Mekanism Extras"
 	quest.40ABBEE4C6F06C62.quest_desc: ["Stores power; can be a multiblock as well. Works across long distances and through dimensions"]
-	quest.40B6870514C5217B.quest_desc: ["Plant on grass to grow a chicken! Make sure to give it plenty of breathing room to grow."]
+	quest.40B6870514C5217B.quest_desc: ["Plant on grass to grow a chicken. Make sure to give it plenty of breathing room to grow."]
 	quest.40BA19D0B80C6F0A.quest_desc: ["Surrounding yourself in dark matter seems like such a good idea! It absorbs a large amount of damage taken. You are nearly invincible with the set of armor. At times, you think that you can see movement within the sheen of armor."]
 	quest.40F3CC129DFC5BCE.quest_desc: ["Hold shift key when hovering over the item to see stats."]
 	quest.41174CEBEE63B6EA.quest_desc: ["Hold shift key when hovering over the items to see stats."]
@@ -1299,7 +1379,7 @@
 	quest.439C528354838250.quest_desc: ["To use this mod, one needs to make 2 Recipe Pattern Holders and encode them with an Encoder. "]
 	quest.440D476CAB19C05E.quest_desc: ["This upgrade changes the fuel needed by the rocket to uranium."]
 	quest.4435C785551464AD.quest_desc: [
-		"The Chaos Guardian can be found on Chaos Islands, which will spawn in every 2500 blocks."
+		"The Chaos Guardian can be found on Chaos Islands in the End, which will spawn in every 2500 blocks."
 		""
 		"The following is taken from the Draconic Evolution project page: "
 		""
@@ -1406,7 +1486,7 @@
 	quest.44D504D72D362C72.quest_subtitle: "ExtendedAE"
 	quest.44EFADD7178AAE20.quest_desc: ["This crafting component is a low-tier coil used in early-game machine and tool recipes."]
 	quest.451E4F4A7AC324BF.quest_desc: ["Hold shift key when hovering over the item to see stats."]
-	quest.454B473F16B73356.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
+	quest.454B473F16B73356.quest_desc: ["每次升级都会增加存储空间以及升级槽位。"]
 	quest.4579E77C572486C8.quest_desc: ["An upgraded furnace with a base cook time of 80"]
 	quest.457F0F8D2AF686E8.quest_desc: ["A creative-tier upgrade that provides unlimited anything to compatible machines without consuming any resources."]
 	quest.45887881B110D056.quest_desc: [
@@ -1426,7 +1506,7 @@
 	]
 	quest.45ACDBE42962793A.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.45D448B5B0D04FDB.quest_desc: ["Receives wireless redstone signals."]
-	quest.45E28C06FE4C7789.quest_desc: ["A two-slotted compacting drawer."]
+	quest.45E28C06FE4C7789.quest_desc: ["两个槽的压缩抽屉。"]
 	quest.45E3F8498766ED51.quest_desc: ["Even faster conduits!"]
 	quest.45E3F8498766ED51.title: "Conduits - Tier 3"
 	quest.45EDE15AF534BBF5.quest_desc: ["Made using an etching tank and etching acid at first, then can be made using the assembly controller."]
@@ -1440,6 +1520,13 @@
 	quest.46914D5CDA4CAFA7.quest_subtitle: "Draconic Evolution"
 	quest.46A87E7A5F454339.quest_desc: ["This mod allows you to cover up pretty much any cable/pipe from any mod!"]
 	quest.46A87E7A5F454339.quest_subtitle: "Cable Facades"
+	quest.46D8585E55448576.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 4"
+	]
 	quest.470BE71BADF07F29.quest_desc: ["36-slot Pattern Provider – craft or export huge recipe sets in one block."]
 	quest.470BE71BADF07F29.quest_subtitle: "ExtendedAE"
 	quest.471E6103F15F0DC3.quest_desc: ["This mystical weapon channels sound-based energy to attack enemies or interact with the environment."]
@@ -1483,12 +1570,13 @@
 		"Harvests the normal shovel blocks extremely quickly."
 	]
 	quest.48CD3B49D43B3D19.quest_desc: ["Turns anything you can use to smelt in a vanilla furnace (ie coal, wood) into RF."]
-	quest.493759F763F02B39.quest_desc: ["Stores the same amount of fluid, but can hold two different types!"]
+	quest.493759F763F02B39.quest_desc: ["拥有同样的流体存储总量，但能容纳两种不同流体！"]
 	quest.493B8A2BD7F69B45.quest_desc: ["Hold shift key when hovering over the items to see stats."]
 	quest.493B8A2BD7F69B45.title: "Mk2"
 	quest.494884093C4BDEB3.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
 	quest.49593BB9B587C493.quest_desc: ["Offers even greater strength, speed, and energy capacity"]
 	quest.49645198C15868C6.quest_desc: ["Uses solar power (sun) to generate RF. Tier 6!"]
+	quest.496F3837D34D9C5A.quest_desc: ["Control circuits are used to craft several Mekanism items and machines. Tier 7."]
 	quest.49794080F37AA6D6.quest_desc: ["Click on a zombie or husk with this."]
 	quest.49B1FF0346B228E2.quest_desc: ["Entangled gives you the materials needed to bind two blocks together, allowing you to interact with either one as if they were the same block! This will allow you to transfer items, energy, fluids or whatever you want instantly, you can have more than six sides to work with or you could just hide your messy cables, the possibilities are endless!"]
 	quest.49C3172907E94051.quest_desc: ["Place a block in midair! Breaks with no tools and goes right back in your inventory."]
@@ -1606,6 +1694,13 @@
 	quest.4D4F4BAEA27DC456.title: "Empowered Crystals"
 	quest.4D530984E49A599C.quest_desc: ["A high-tier crafting component infused with RF energy."]
 	quest.4DB6A9B473DD4107.quest_desc: ["Made of 10,000 gold ingots"]
+	quest.4DBA4D50A7627DA4.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 10"
+	]
 	quest.4DE8575D655E8428.quest_desc: ["An expensive ingot used to get into Project E and craft other endgame items"]
 	quest.4DEFB84692377A2D.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies piglins."]
 	quest.4DFB541B0D2A9FB9.quest_desc: [
@@ -1620,6 +1715,13 @@
 	quest.4DFB541B0D2A9FB9.quest_subtitle: "Nature's Aura"
 	quest.4E113EAB18FAA897.quest_desc: ["Made of 10,000 lead ingots"]
 	quest.4E42850BC99F8844.quest_desc: ["Tier 1 - Can store 100 stacks."]
+	quest.4E8A216308DE4F60.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 3"
+	]
 	quest.4EAD2382EBF87769.quest_desc: ["An upgraded furnace with a base cook time of 160"]
 	quest.4EB47C3E07B444F6.quest_desc: ["Use Animal Seed Base to craft any of the mob seeds from Haven Animal Seeds"]
 	quest.4EB47C3E07B444F6.quest_subtitle: "Haven Animal Seeds"
@@ -1627,17 +1729,18 @@
 	quest.4F67D41CEFA7A8B0.quest_desc: ["The dense heart of a star in convenient ingot form."]
 	quest.4F849729CA0DAF2E.quest_desc: ["在筛子中使用可以获取资源！还可以转化成黏土方块。"]
 	quest.4F9D4A5D5C0B81D0.quest_desc: ["Grow trees and harvest them automatically! Requires an axe to be inserted and a hopper with chest to be below."]
-	quest.4FB596AD930D87D8.quest_desc: ["Connect different inventories to your Simple Storage Network!"]
-	quest.4FB596AD930D87D8.title: "Cables and Connectors"
+	quest.4F9D4A5D5C0B81D0.quest_subtitle: "Bonsai Trees"
+	quest.4FB596AD930D87D8.quest_desc: ["将各种容器连接到你的简易存储网络！"]
+	quest.4FB596AD930D87D8.title: "线缆和连接器"
 	quest.4FB61D44C6A7EB44.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.4FDB39030DEDA50A.quest_desc: ["It deals 20 damage per hit and has or uses no durability but stills needs 1 arrow to be in the inventory. When the arrow hits no entity there will be 10 arrows summonend as an AoE around the first one. These arrows also deal 20 damage each. All arrows will dissappear after a few seconds and they cannot be recollected. "]
 	quest.4FEFD780FA021473.quest_desc: ["A golden apple is a food item that bestows beneficial effects when consumed (Absorption and Regeneration) and is also used to cure a zombie villager under the Weakness effect into a normal villager."]
 	quest.50200EBDECAF2A3B.quest_desc: ["A high-tech planter with energy consumption, module slots, fertilizer support, and enhanced automation capabilities"]
 	quest.50233C3BE23A074A.quest_desc: ["The Angel Ring mod adds an Angel Ring, which allows you to fly, like in a creative mode to help with building/travelling. Inspired by Extra Utilities' Angel Ring."]
-	quest.5073B7267BD701D2.quest_desc: ["Link two or more ender tanks to transport and access fluids! Color code with dyes to pair tanks together."]
+	quest.5073B7267BD701D2.quest_desc: ["用染料在末影蓄水槽上染出颜色，相同颜色排列的末影蓄水槽将互相配对。你可以链接两个及以上的末影蓄水槽，无缝存取输送流体！"]
 	quest.50765C7CF71D6A59.quest_desc: ["末影珍珠可以将投掷者传送至落点处，也可以用来合成末影之眼，以抵达末地。由末影人掉落。"]
 	quest.507C29EFF8CEFCDA.quest_desc: ["Part of the multiblock. Heats metals, allowing for smelting and alloying at the required temperatures."]
-	quest.50852ED19616CDB8.quest_desc: ["Generates obsidian slowly."]
+	quest.50852ED19616CDB8.quest_desc: ["缓慢生成黑曜石。"]
 	quest.50A188092863FFFA.quest_desc: ["Upgrade cards are crafted with either basic or advanced card bases"]
 	quest.50F59454D604E225.quest_desc: ["Hold shift key when hovering over the item to see stats."]
 	quest.5124714086D19424.quest_desc: ["Trade emeralds for seeds and saplings of all kinds!"]
@@ -1708,7 +1811,7 @@
 	]
 	quest.52EE429D7056B815.quest_subtitle: "Theurgy"
 	quest.52F37674EAB17868.quest_desc: ["Aeternalis Fuel is a fuel added by ProjectE. By combining 4 pieces of Mobius Fuel with a Philosopher's Stone, a new fuel is created. Aeternalis Fuel burns four times as long as Mobius Fuel and is able to smelt 512 items."]
-	quest.5309DA86AB2B5596.quest_desc: ["Stores the same amount of items, but can hold two different types!"]
+	quest.5309DA86AB2B5596.quest_desc: ["拥有同样的物品存储总量，但能容纳两种不同物品！"]
 	quest.531B48D28172F5E4.quest_desc: [
 		"Max Blocks: 3"
 		""
@@ -1732,12 +1835,19 @@
 	quest.537E84EDD29F486A.quest_desc: ["Steeleaf is a tool and armor material found in Labyrinth, Hollow Hill, and Dark Tower chests. This material is as powerful as Diamond in a tool or armor, but is less durable than even Iron."]
 	quest.53ADBC3ADF1C83C0.quest_desc: ["Made of 10,000 invar ingots"]
 	quest.53F53BD4220B295B.quest_desc: [
-		"游戏早期发电方式，通过燃煤产生RF，随着你的进一步发展，更多发电方式将会解锁。"
+		"游戏早期发电方式，通过燃煤产生能量（RF），随着你的进一步发展，更多发电方式将会解锁。"
 		""
 		"注：在前期，可以通过引爆铁锭（TNT加红石信号）来获取压缩铁锭，平均损失率为20%。"
 	]
 	quest.53F53BD4220B295B.quest_subtitle: "Industrial Foregoing"
 	quest.53F5A5A785503096.quest_desc: ["Energy storage item that holds and transfers RF"]
+	quest.541A74DE0144E082.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 2"
+	]
 	quest.543FAEFE24110294.quest_desc: [
 		"This device generates energy for your ME network without the need for fuel. Because of the crystal vibrations this device generates, only one can be used in each network. These vibrations even pass through Quartz Fiber."
 		""
@@ -1759,6 +1869,11 @@
 		""
 		"The machine can be upgraded using Machine Upgrades for faster operation and increased internal energy storage."
 	]
+	quest.54B033D5CF77D965.quest_desc: [
+		"Faster than the previous tier!"
+		""
+		"Place the torch on the ground and right-click to access the GUI."
+	]
 	quest.54BBFA6BC53CD1B7.quest_desc: ["Use as a fertilizer in advanced planters! Can also be used to create mulch."]
 	quest.552CCEDED0AE6D5C.quest_desc: ["Uses fuel fluids to create air pressure."]
 	quest.558FE9042159159D.quest_desc: [
@@ -1777,7 +1892,7 @@
 	quest.55A68150572EC898.title: "Refinery"
 	quest.55A816E8EB2D0E2E.quest_desc: ["Made up of 531441 cobblestone!"]
 	quest.55B089A848531E3E.quest_desc: ["Essence Armor pieces are higher tier armor that can be upgraded using Augments."]
-	quest.563EF0C91E88B0D5.quest_desc: ["Plant on grass to grow a pig Make sure to give it plenty of breathing room to grow."]
+	quest.563EF0C91E88B0D5.quest_desc: ["Plant on grass to grow a pig. Make sure to give it plenty of breathing room to grow."]
 	quest.56718D2CB87DF305.quest_desc: [
 		"压缩锤可以粉碎压缩方块！"
 		""
@@ -1785,7 +1900,7 @@
 		""
 		"试试锤击原木来获取木屑——一种极好的堆肥！"
 	]
-	quest.5675512404BF2759.quest_desc: ["A three-slotted compacting drawer."]
+	quest.5675512404BF2759.quest_desc: ["三个槽的压缩抽屉。"]
 	quest.56772ECF0B3C75CE.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI. Requires pink slime, obtained from the mob slaughter factory."]
 	quest.567E3DB67F4F025C.quest_desc: ["Foods give more nutrition after cooking them!"]
 	quest.567E3DB67F4F025C.quest_subtitle: "Cooked Foods, Minecraft"
@@ -1803,6 +1918,7 @@
 	quest.56CA2BD982503BB0.quest_desc: ["Refill cake with eyes of ender. Requires an advanced crafting table to craft."]
 	quest.56CA2BD982503BB0.quest_subtitle: "Ex Deorum"
 	quest.56CA2BD982503BB0.title: "Into the End"
+	quest.56E02661982102F0.quest_desc: ["More features, and even higher durability!"]
 	quest.570BE7D3659C6BB0.quest_desc: ["Set up a Mekanism portal network that connects your main base to every dimension."]
 	quest.5720FF9BB1596CA1.quest_desc: ["Batteries are used to store RF. Can be used in machines and to charge items. Hover over each battery tier to see capacity and I/O speed."]
 	quest.5735F3DABF096132.quest_desc: ["Place liquid plastic in the world for it to harden into plastic sheets."]
@@ -1815,6 +1931,7 @@
 	quest.584678F8D7970634.quest_desc: ["Part of the multiblock. Stores the lava used by the foundry for melting materials."]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
 	quest.5873CD588D98B39D.quest_desc: ["一把能造成6点伤害的剑。"]
+	quest.594A3262325FDCFF.quest_desc: ["More features, and higher durability!"]
 	quest.595C4352743D4003.quest_desc: ["FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."]
 	quest.595C4352743D4003.quest_subtitle: "Framed Blocks"
 	quest.59804052F93F303D.quest_desc: ["Use a binding card on an enderman or endermite."]
@@ -1853,7 +1970,7 @@
 	quest.5A42AA637D80A6B7.quest_subtitle: "Reliquary"
 	quest.5A4CD0D779A8410E.quest_desc: ["Buy and sell items using your new Amadron Tablet!"]
 	quest.5A679F29B344C3DC.quest_desc: ["Magical Seed Base is needed to make Prosperity Seed Base and Soulium Seed Base."]
-	quest.5AC98773FE9B5578.quest_desc: ["Can be used to grow all sorts of crops, including those from Mystical Agriculture! See JEI to determine the correct soil to use."]
+	quest.5AC98773FE9B5578.quest_desc: ["能够用来种植各种作物，包括神秘农业的作物！在JEI中查看作物所需的土壤类型。"]
 	quest.5AD3D5C66E7E50EC.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
 	quest.5AFFEFD46BEA5855.quest_desc: ["36-slot Interface – craft or export huge recipe sets in one block."]
 	quest.5AFFEFD46BEA5855.quest_subtitle: "ExtendedAE"
@@ -1955,7 +2072,7 @@
 	quest.5F0F1FFB4160C1C0.quest_desc: ["This machine extracts oil from canola seeds to be used as fuel or in energy systems."]
 	quest.5F20B63527ED0622.quest_desc: ["Tier 2. The only armor pieces in Draconic Evolution for 1.21.1 are the chestplates. Modules are needed to make it function, see JEI."]
 	quest.5F4DAFEDC43C0964.quest_desc: [
-		"用钩子钩树叶可以获取树苗和蚕（注：蚕的掉率为1%）"
+		"用钩子钩树叶可以获取树苗和蚕（注：蚕的掉率为1%）。存在更高级的镐子，详见JEI！"
 		""
 		"而筛子可以用来获取资源，你需要给筛子放入筛网。"
 		""
@@ -1979,6 +2096,7 @@
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
 	quest.5F90527709383752.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies endermen."]
+	quest.5F96E888408910ED.quest_desc: ["用铁桶或瓷桶盛装熔岩——要小心！瓷桶在倒出熔岩后会直接破碎。"]
 	quest.5F9A5DB4144895CD.quest_desc: ["The Advanced Item Collector has a range of up to 7 blocks! Can also filter items."]
 	quest.5FDDA50A827FAF75.quest_desc: [
 		"Right click to instantly till dirt on the charge level (V, shift+V)."
@@ -2005,15 +2123,15 @@
 		"It is a shapeless multiblock; putting a Vibrant Capacitor Bank next to another Vibrant Capacitor Bank will combine their energy storage."
 	]
 	quest.60F6E5AB8FBA3AD3.quest_desc: [
-		"Simple vanilla style storage mod."
+		"简易的原版风存储模组。"
 		""
-		"Features:"
-		"Storage and Crafting Terminal"
-		"Inventory Connector"
-		"Open Crate"
-		"Wireless terminal"
-		"Filtered connectors"
-		"Inventory Hopper"
+		"特色："
+		"存储和合成终端"
+		"存储连接器"
+		"开放式存储接口"
+		"无线终端"
+		"可筛选的连接器"
+		"存储漏斗"
 	]
 	quest.60F6E5AB8FBA3AD3.quest_subtitle: "Tom's Simple Storage"
 	quest.60F7B6780A2BEBFC.quest_desc: [
@@ -2035,7 +2153,7 @@
 	quest.6168444BBA2517D8.quest_subtitle: "AppliedE"
 	quest.6168444BBA2517D8.title: "ME Transmutation"
 	quest.61777EB299FB94E0.quest_desc: ["Made of 10,000 lapis"]
-	quest.618D53FB7973A7A1.quest_desc: ["To create Fuel, you need to input oil in the first slot. It will then generate fuel that you can get by putting a bucket in the last slot."]
+	quest.618D53FB7973A7A1.quest_desc: ["To create Fuel, you need to input oil in the first slot. It will then generate fuel that you can get by putting a bucket in the last slot. You can also use the EnderIO Vat - it's a lot less buggy."]
 	quest.61CFDD199E014C42.quest_desc: ["Prevents certain passive mobs from spawning, large radius"]
 	quest.61F806630090ECEC.quest_desc: ["Found on End City ships."]
 	quest.6220ED19B826E0CB.quest_desc: ["The Farmer is a machine for automatically growing and harvesting crops."]
@@ -2062,13 +2180,13 @@
 	quest.633CEC0C789695E7.quest_desc: ["自动化刷怪的好开始！再也不用亲自站在那儿打怪了。"]
 	quest.633CEC0C789695E7.quest_subtitle: "Spiky Spikes"
 	quest.6349016135BBD0AC.quest_desc: [
-		"Advanced upgrade adds: Filters and filter modes."
+		"高级升级新增的功能有：过滤模式和过滤器。"
 		""
-		"Upgrades are items that enhance pipes by increasing their transfer speed, efficiency, or functionality such as filtering and stack size."
+		"升级是一种能够对管道进行增强的物品，可以提升管道的传输速度、效率，或是加入新的功能，例如过滤和堆叠。"
 	]
 	quest.634E83DDF2911DFD.quest_desc: ["Casings are both decorative and functional blocks used to craft and build various machines and devices within the mod."]
 	quest.6353A39C04EF7F7D.quest_desc: ["A card used to control which items, fluids, or energies are allowed to pass through a Laser Node connection."]
-	quest.63588316070C73FD.quest_desc: ["Realizing that even with the red matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
+	quest.63588316070C73FD.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.639103C33226046A.quest_desc: ["Knives are also useful for cutting and portioning ingredients when preparing meals"]
 	quest.639219AA32B76CE6.quest_desc: ["Augments are used to add new capabilities to Essence Tools and Essence Armor."]
 	quest.63B25E731B126624.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Ender Inhibitor Active\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"097B7BF8B0CBC549\" } }, \" to unlock.\" ]"]
@@ -2117,7 +2235,7 @@
 	quest.6525B48ED37B4C90.title: "Special Compass"
 	quest.653BE210E0487B58.quest_desc: ["Used to increase the range of the wireless access point."]
 	quest.654DD2C672816436.quest_desc: ["Too lazy to cook on the stove? Try this new invention - the microwave!"]
-	quest.6584CD710EFC59ED.quest_desc: ["Obsidian chest is upgraded from the diamond chest. Same storage amount, just blast-resistant!"]
+	quest.6584CD710EFC59ED.quest_desc: ["黑曜石箱子由钻石箱子升级而来。虽然容量没有变化，但它能够抵御爆炸！"]
 	quest.65B7E98FC7D9ADBE.quest_desc: ["It can mine all blocks a normal shovel can mine instantly. It uses no durability."]
 	quest.664982C92C008BF9.quest_desc: ["Your basic terminal, now portable! View and access the contents of your network's storage and request things from your autocrafting setup from anywhere within the range of a ME Wireless Access Point."]
 	quest.6649913A78D19083.quest_desc: ["游戏后期会有更好的制作板子的方式，但在前期，最好的方式就是用工程师锤。"]
@@ -2155,7 +2273,7 @@
 	quest.68AD773B1A241E01.title: "Crystals"
 	quest.68B8F9FF9F45348B.quest_desc: ["The fury of the universe in the palm of your hand."]
 	quest.68C53139E1D36746.quest_desc: ["Grants infinite souls from all creatures."]
-	quest.68D850868C481078.quest_desc: ["An upgraded electronic component, essential for crafting sophisticated machinery and energy systems beyond the early game."]
+	quest.68D850868C481078.quest_desc: ["An upgraded electronic component, essential for crafting sophisticated machinery and energy systems beyond the early game in expert mode. In normal mode, it is needed only to craft the Dissolution Chamber and some late-game Immersive Engineering components."]
 	quest.68E1372233643800.quest_desc: [
 		"When working with aura, sometimes it can be beneficial to know about its levels in an area without having to be there to check in person. The $Aura Detector gives out a redstone signal based on the amount of in the close vicinity around it, so long as you attach a Comparator to it. For that, its range of display is similar to that of the Environmental Eye."
 		""
@@ -2211,7 +2329,7 @@
 	quest.6A3D025A3018689B.quest_desc: ["Made of 10,000 electrum ingots"]
 	quest.6A7C4E246A8EE29C.quest_desc: ["Generates loot from neural networks data models."]
 	quest.6A82289C0937E69B.quest_desc: ["An upgraded version that processes two items at once for faster resource production."]
-	quest.6AFF4DCE31DDCD21.quest_desc: ["Right Click a controller to configure it, then you can link Normal/Compacting/Ender Drawer to a controller by Right Clicking them if they are in range (8 radius by default)."]
+	quest.6AFF4DCE31DDCD21.quest_desc: ["手持工具右击控制器以开始配置，然后右击范围内（默认8格）的普通/压缩/末影抽屉，即可将其链接到你的控制器上。"]
 	quest.6B205B114E270C9F.quest_desc: [
 		"Creative Essense is the base material for all creative items."
 		""
@@ -2244,13 +2362,13 @@
 		"- Customizable Design: The size and layout of the Foundry can be customized, with foundry blocks in all 16 colors to match your base."
 	]
 	quest.6D16777C65BCA017.quest_desc: [
-		"Sophisticated backpacks is yet another backpack mod this time with backpacks you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades."
+		"精妙背包，又一个背包模组。这个模组的背包可以放置在地上，染上不同颜色，通过升级变得更大，还能插入各种功能各异的升级。"
 		""
-		"Can be accessed using a key press (by default B)."
+		"你可以按快捷键打开背包（默认按B键）。"
 		""
-		"Accessories compatibility makes it possible to wear and render the backpack when put in “Back” slot."
+		"兼容饰品槽，你可以将背包放在“背部”（“Back”）槽，让你的人物背上背包。"
 		""
-		"Each of the tiers adds more storage slots and more upgrade slots."
+		"每次升级都会增加存储空间以及升级槽位。"
 	]
 	quest.6D16777C65BCA017.quest_subtitle: "Sophisticated Backpacks"
 	quest.6D594671ED743839.quest_desc: ["Control circuits are used to craft several Mekanism items and machines. Tier 4."]
@@ -2288,18 +2406,18 @@
 	quest.6FA5A509D5C50572.quest_desc: ["These crafting tables are used for more complex crafting recipes. Automated versions are also avaliable. See JEI for more details."]
 	quest.701351A41247EC15.quest_desc: ["在鸡上使用可以制造一个腐烂鸡蛋。在5x5的泥土中央使用以创造一片诅咒之土（无光照时生成敌对生物）。"]
 	quest.701D82D7BB8B6812.quest_desc: [
-		"Use the manual to learn how to build each multiblock machine for Immersive Engineering."
+		"使用该手册查看沉浸工程模组中多方块结构的搭建方法。"
 		""
-		"Immersive Engineering is about realism-inspired technology:"
-		"Instead of glowing red tubes, it offers actual, hanging powerlines."
-		"Instead of one block that magically spits out dusts when ore is put in, it offers a crusher, a big multiblock (5x3x3) that features rotating wheels and spits out particles as it breaks the ore."
-		"Instead of a Laser that turns power into magical light and ores, it offers an Excavator, another massive, resource intensive, multiblock (3x7x8) which digs ores out of the ground with a big rotating bucketwheel."
+		"沉浸工程是一款受现实启发的科技模组："
+		"该模组不使用那些发光的红色管道，而是使用真实悬挂着的电线。"
+		"该模组不使用能够魔法般地将矿石变成矿粉的单方块机器，而是使用一台大型多方块粉碎机（5x3x3），使用大型粉碎轮粉碎矿石，喷出矿粉。"
+		"该模组不使用将电力转化为魔法光束和矿石的激光，而是使用另一台资源密集型大型多方块结构（3x7x8）——挖掘机，用旋转着的大型斗轮将矿物从地下开采出来。"
 		""
-		"IE is about making tech mods more balanced and more pretty, and adding its own twist by going for retro-futurism (think BioShock, Order 1886, SkyCaptain and the World of Tomorrow) rather than clinical white+grey future cubes."
+		"沉浸工程让科技模组更加平衡，更具美感。没有采用冰冷的未来风白+灰管道，而是融入了独具特色的复古未来主义设计风格（诸如生化奇兵、教团：1886、天空上尉与明日世界等）。"
 		""
-		"It uses the Forge Energy API, known from just about every other tech mod, but it can be played fully standalone. Unlike other mods, IE does not use power transfer via lanes of blocks, but instead via cables spanned between connectors."
+		"和几乎所有科技模组一样，它使用Forge Energy API，但它完全可以独立游玩。和其他模组不同的是，沉浸工程不用一排排方块来传输能量，而是在接线器间连接电缆输电。"
 		""
-		"The mod features Power Generation in forms of waterwheels, windmills, biodiesel and more and many of its machines are multiblocks!"
+		"该模组的特色发电方式有水车、风车、生物柴油等等，许多机器都是多方块结构！"
 	]
 	quest.701D82D7BB8B6812.quest_subtitle: "Immersive Engineering"
 	quest.707FCC07A558D9C6.quest_desc: ["Produces passive power by utilizing the temperature difference between two adjacent blocks, such as ice and lava."]
@@ -2338,9 +2456,9 @@
 	quest.71104655F18FBDB1.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
 	quest.712D46C093C92BA7.quest_desc: ["A highly advanced multiblock structure that generates massive amounts of RF energy but requires careful management to prevent catastrophic explosions."]
 	quest.712D46C093C92BA7.title: "Draconic Reactor"
-	quest.7139AC799DC225FA.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
+	quest.7139AC799DC225FA.quest_desc: ["每次升级都会增加存储空间以及升级槽位。"]
 	quest.714DD2BC87D5A3A8.quest_desc: ["用钩子破坏被感染的树叶就可以得到线！"]
-	quest.71985D320264CC4B.quest_desc: ["How To Change Texture: Inside a crafting window place the block you want to use the texture of for the outside of the drawer in the first slot of the crafting window, on the second slot put the block that will be used for the texture on the inside of the framed drawer, and on the third slot put a framed drawer. You can change the drawer divider texture by adding a block into the 4th slot."]
+	quest.71985D320264CC4B.quest_desc: ["如何更改纹理：在合成网格内，第一个槽位放置用于定义抽屉外部纹理的方块，第二个槽位放置用于定义抽屉内部纹理的方块，第三个槽位放置镶框抽屉。你还可以在第四个槽位放置用于定义抽屉隔板纹理的方块。"]
 	quest.71C5B72891529DDB.quest_desc: ["Special apples that give different buffs! Hold shift while hovering over the apple to see its effects."]
 	quest.71E75FEACF764F83.quest_desc: [
 		"Together with the ritual, knowledge of Tokens can be gained: Wooden figurines, depicting key emotions - created from trees infused with their respective symbols. These figurines contain a combination of the vast power of aura itself and the power of the emotions they represent. Going forward, these Tokens will be a key construction ingredient."
@@ -2353,6 +2471,13 @@
 		"Can be used in an accumulator to rapidly create Sal Ammoniac to be used as a solvent."
 		""
 		"See The Hermetica for more details on Theurgy."
+	]
+	quest.72744CCF4110F9DD.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 5"
 	]
 	quest.727C435CCD8998A1.quest_desc: ["Use the Atomic Reconstructor to turn minerals into powerful crystals that allow the creation of useful machines for processing and sorting items, lasers for wirelessly transporting energy, items and fluids, renewable oil to generate power, and much more."]
 	quest.7284146C05F63CB7.quest_desc: ["The Quantum Entangloporter from Mekanism is a machine that allows liquids/items/energy/gas to be sent from one Quantum Entangloporter to another through a channel."]
@@ -2394,7 +2519,7 @@
 		"Uniquely, the SAG Mill can use Grinding Balls made from various materials to increase energy efficiency (resulting in higher processing speed), increase bonus output chances, and add a chance to double all output. This makes the SAG Mill a popular option for ore processing, especially for ores with desirable bonus outputs. "
 	]
 	quest.74353DACE7BECFB0.quest_desc: ["Desh can be found on the moon."]
-	quest.74795B5D24F8B27F.quest_desc: ["Similar to the Storage Terminal, but with the addition of a crafting interface."]
+	quest.74795B5D24F8B27F.quest_desc: ["和存储终端类似，但多了一个合成界面。"]
 	quest.749846E05249E17D.quest_desc: [
 		"这个扳手能够用来调整pipez模组的管道，随着进一步发展还将解锁更多类型的管道供你选择。"
 		""
@@ -2406,6 +2531,13 @@
 	quest.749E64CD1E5C5529.quest_desc: ["Made of 10,000 silver ingots"]
 	quest.74F53C25C2448D66.quest_desc: ["If you want to go beyond the 8 channel limit or you want to connect multiple distinct networks you can make a 'routing network' using routers. A single router is already sufficient to connect up to six (six sides of the router) channels but using routing cables and routing connectors you can also make a routing network out of routers. Note that on a single routing network you can only have 32 published channels."]
 	quest.75399B382F21F8D9.quest_desc: ["Automate at least 20 different Mystical Agriculture crops with max growth accelerators (planting, harvesting, compressing, storing)."]
+	quest.753C66ACDDE9F171.quest_desc: [
+		"Ender IO machines that have an upgrade slot require capacitors to function."
+		""
+		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
+		""
+		"Level: 9"
+	]
 	quest.75672DB7BA4D3F9C.quest_desc: ["Used to craft player transmitter."]
 	quest.75748983DF84E9AF.quest_desc: ["Uses heat sources and coolant to generate RF."]
 	quest.757EE53215AB84B7.quest_desc: [
@@ -2418,6 +2550,10 @@
 		"- All Smelting: the Alloy Smelter will both smelt Furnace recipes and create alloys."
 		""
 		"By default, the machine is capable of producing alloys from some other mods as well as Ender IO alloys."
+		""
+		"Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc."
+		""
+		"&4Ender IO is currently in Beta and is being rewritten from the ground up for the latest version of Minecraft. As such, some features have not yet been ported, and bugs may be present.&r"
 	]
 	quest.7580866D67B0614F.quest_desc: ["Made of 10,000 platinum ingots"]
 	quest.758C366E1C73F7D3.quest_desc: ["蜘蛛眼是一种有毒食品，可以用来酿药，还可以用来吸引并繁殖犰狳。通常由蜘蛛、洞穴蜘蛛以及女巫掉落。"]
@@ -2487,7 +2623,8 @@
 	quest.79C940682CE162AD.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
 	quest.79E4B4E103F1BCD2.quest_desc: ["Prevent mob spawns like a boss!"]
 	quest.79F4C05D5286D51B.quest_desc: ["Hostile Neural Networks is a mod based on Deep Mob Learning for 1.16.5 and higher. It allows you to train data models and run simulations, producing mob predictions, which can be used to generate mob loot."]
-	quest.7A0CF4B9EC0C721A.quest_desc: ["As a Furnace fuel it is twice as efficient as Coal; it will smelt 16 items, while Coal will only smelt 8. "]
+	quest.79F4C05D5286D51B.quest_subtitle: "Hostile Neural Networks"
+	quest.7A0CF4B9EC0C721A.quest_desc: ["焦煤在熔炉中的熔炼效率是煤炭的两倍：它能一次熔炼16个物品，而煤炭只能熔炼8个。"]
 	quest.7A2458033521612B.quest_desc: ["Essence Tools are higher tier tools that can be upgraded using Augments."]
 	quest.7A4526B9E3692400.quest_desc: [
 		"Some planets are far away and need a larger amount of Fuel."
@@ -2546,7 +2683,7 @@
 	quest.7D7844AD2210361D.quest_desc: ["Burns combustable fuels!"]
 	quest.7D854FA56E399F98.quest_desc: ["A block that extends and links laser networks between Laser Nodes, allowing items, fluids, energy, or redstone to transfer over long distances."]
 	quest.7D8F28A3E8A48CE7.quest_desc: ["Lets you select your desired destination before teleporting. Must have a trasmitter and receiver."]
-	quest.7DB698F871417522.quest_desc: ["Crystal chest is upgraded from the diamond chest. Same storage amount, just see-through!"]
+	quest.7DB698F871417522.quest_desc: ["水晶箱子由钻石箱子升级而来。虽然容量没有变化，但是可以看见容器内的物品！"]
 	quest.7DB74BAC57F10381.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Shepherd's Pie\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44750CE6BE9DB523\" } }, \" to unlock.\" ]"]
 	quest.7DB74BAC57F10381.quest_subtitle: "10 Coins"
 	quest.7DB74BAC57F10381.title: "Artifact Reward Bag"
@@ -2565,6 +2702,12 @@
 	quest.7ED21876B4C1CE24.quest_desc: ["Obtained by reprocessing benitoite with rossinite, which is a waste product from using verderium as fuel in a reactor."]
 	quest.7EE2214DA65D041B.quest_desc: ["Makes your rocket look like a big rocket!"]
 	quest.7EEF3486A0EB8B61.quest_desc: ["Use energy to automate chiseling blocks! "]
+	quest.7EF319CB8B4339B6.quest_desc: [
+		"A space suit is required to survive on other planets and moons."
+		""
+		"Beware of fall damage with the gravity on different planets/moons!"
+	]
+	quest.7EF319CB8B4339B6.title: "Space Suit"
 	quest.7EFFE27D4D7E6668.quest_desc: [
 		"Store RF, like a battery!"
 		""
@@ -2580,10 +2723,9 @@
 	quest.7F24945B6C1F2800.quest_desc: ["This is unlocked from the start of the modpack."]
 	quest.7F24945B6C1F2800.quest_subtitle: "3 Coins"
 	quest.7F24945B6C1F2800.title: "Common Reward Bag"
-	quest.7F39E6019D06530F.quest_desc: ["This is a small, simple mod that adds various torches that can be used to increase the tick rates of tile entities. In other words, they make machines run faster."]
 	quest.7F3DEB9D1E5BC790.quest_desc: ["These are the primary components of AE2 input and output devices. Using the power of Fluix Crystal and a logic processor it allows devices to input and output items, blocks, fluids, etc. (No actual function, just a crafting intermediate)"]
 	quest.7F3DEB9D1E5BC790.title: "Cores"
-	quest.7F6DDDD318E1BFCC.quest_desc: ["Iron chest is upgraded from the copper chest."]
+	quest.7F6DDDD318E1BFCC.quest_desc: ["铁箱子由铜箱子升级而来。"]
 	quest.7FF33FA53596F5F3.quest_desc: [
 		"A single-biome dimension cloaked in darkness."
 		""

@@ -1984,5 +1984,133 @@
 			x: 4.0d
 			y: -1.0d
 		}
+		{
+			dependencies: ["6D594671ED743839"]
+			id: "409BF70E8D188CD9"
+			rewards: [
+				{
+					id: "09ED97689BCE4D68"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "6BB03A018563C962"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7DD58466B0701AC0"
+				item: {
+					count: 1
+					id: "mekanism_extras:absolute_control_circuit"
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["409BF70E8D188CD9"]
+			id: "1FCBF2B893EEA7D9"
+			rewards: [
+				{
+					id: "67162B5E8E5523DF"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "2BD47ACCC788EC3A"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B54CFF699B34AA4"
+				item: {
+					count: 1
+					id: "mekanism_extras:supreme_control_circuit"
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["1FCBF2B893EEA7D9"]
+			id: "496F3837D34D9C5A"
+			rewards: [
+				{
+					id: "22A33AFD2E0D9CAD"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "68F1B6461DD12AC7"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F603273D028A0F1"
+				item: {
+					count: 1
+					id: "mekanism_extras:cosmic_control_circuit"
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["496F3837D34D9C5A"]
+			id: "165D83DA8A47584E"
+			rewards: [
+				{
+					id: "66CDAB52E2F8DFCE"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "428AE28459423702"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E828AAF6B3D0660"
+				item: {
+					count: 1
+					id: "mekanism_extras:infinite_control_circuit"
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
 	]
 }
