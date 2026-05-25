@@ -865,6 +865,8 @@
 		"Used to craft items that need a blueprint."
 		""
 		"Items made in the Engineer's workbench are generally used in other crafting recipes. A good example is the powered lantern, which blocks hostile mobs from spawning in a radius! "
+		""
+		"&4Note: There is a bug that will sometimes result in a game crash when adding or removing blueprints to the workbench. It has been reported to the mod dev.&r"
 	]
 	quest.28B2DF42316767BD.quest_desc: ["Sinks can hold water!"]
 	quest.28E3C30852CAB186.quest_desc: ["Put on a singularity tank and click to shower in xp!"]
@@ -1496,8 +1498,6 @@
 	quest.45887881B110D056.quest_desc: [
 		"The compressed sieve can be used to sift compressed blocks - nine blocks in one!"
 		""
-		"Sieves can be automated if you place a click machine below them, pointing up! Better sieving automation can be achieved as well. "
-		""
 		"You can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square). The difference between regular sieves and compressed sieves is that you need to fill each compressed sieve one-by-one and them you can sift them all at once."
 	]
 	quest.45A5707D025CD692.quest_desc: [
@@ -2054,6 +2054,8 @@
 		"The rocket station will allow you to craft rockets!"
 		""
 		"Note: Stellaris is still on development, so things may change and there may be bugs! Don't leave anything valuable behind when you leave space - it might be destroyed by a meteor :)"
+		""
+		"&4Known bug: Opening any GUI while in a rocket will make it so that you are unable to land on any planet. If this happens, you will need to somehow die or use commands \"/skyblock spawn\" or \"/skyblock home\" to get back to your island. This has been reported to the mod dev.&r"
 	]
 	quest.5DF4D12AFAF3972E.quest_subtitle: "Stellaris"
 	quest.5E2AD42305DE2B60.quest_desc: ["In strong lighting, or if placed in the nether, it will generate a passive 40 EMC per second up to a maximum of 60,000 EMC. When placed adjacent to a Energy Condenser MK1, Energy Condenser MK2, Energy Condenser MK3, Anti-Matter Relay MK1, Anti-Matter Relay MK2, or Anti-Matter Relay MK3, it will transfer the EMC into that machine. "]
