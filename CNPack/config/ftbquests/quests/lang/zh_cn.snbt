@@ -40,15 +40,15 @@
 	quest.018240DF74627D73.quest_desc: ["Made of 10,000 aluminum ingots"]
 	quest.01855C6724B85B3F.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.01855C6724B85B3F.quest_subtitle: "Extended Crafting"
-	quest.018EC033B894DA77.quest_desc: ["Use these on a casting table to make plates, gears, and rods."]
-	quest.018EC033B894DA77.title: "Casts"
+	quest.018EC033B894DA77.quest_desc: ["在铸件台上使用以浇铸板材、齿轮和金属棒。"]
+	quest.018EC033B894DA77.title: "铸模"
 	quest.0190AAD17D5DE20D.quest_desc: ["Uses furnace fuel to generate RF."]
 	quest.01A800996EF1127A.quest_desc: [
-		"Pneumaticcraft is all about air pressure. Use the manual to learn about the mod and guide you through this quest line."
+		"气动工艺全部都是关于气压的内容。查阅手册来学习这个模组，并跟随手册完成这条任务线。"
 		""
-		"To start Pneumaticcraft, blow up iron ingots with TNT (or mini TNT) to create compressed iron. Not 100% efficient, but it is good to start out with. Later, use a pressure chamber for automation and higher efficiency."
+		"开始气动工艺，你需要用TNT（或迷你TNT）炸铁锭来制作压缩铁锭。虽然产率不是100%，但开局还是比较合适的。以后我们可以用压力室达到更高产率，还能进行自动化。"
 		""
-		"Pneumaticcraft has some great armor for the mid-game, check it out in JEI!"
+		"气动工艺在游戏中期提供了一些很棒的盔甲，在JEI里看看吧！"
 	]
 	quest.01A800996EF1127A.quest_subtitle: "Pneumaticcraft"
 	quest.01B8A92F5254E941.quest_desc: ["拥有同样的物品存储总量，但能容纳四种不同物品！"]
@@ -113,7 +113,7 @@
 		"- 3x wide-shot: breaks 3 blocks at once horizontally"
 		"- 3x long-shot: breaks 3 blocks at once in a line in front of you"
 	]
-	quest.046AA10B979CE7CF.quest_desc: ["Crafting ingredient for mid and late game items!"]
+	quest.046AA10B979CE7CF.quest_desc: ["游戏中后期物品的合成材料！"]
 	quest.0479C735A364CBDA.quest_desc: ["Crafted using Zanite Gemstones, the Altar can be used to enchant Gravitite Ore."]
 	quest.04E6EB2D8FFE1EBA.quest_desc: ["Grassy plants (grass, wheat, rice etc) cut with a Knife will occasionally yield Straw, a firm and useful fiber"]
 	quest.04F821C6068063F1.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
@@ -176,7 +176,7 @@
 		""
 		"The Stove is a direct upgrade to the Campfire's cooking features, and a suitable heat source for the Cooking Pot."
 	]
-	quest.06BAFFA40A561DA9.quest_subtitle: "Farmer's Delight"
+	quest.06BAFFA40A561DA9.quest_subtitle: "农夫乐事"
 	quest.072C62252199E65E.quest_desc: [
 		"Liquid in a solid form; allows for easy transportation and alchemical processing."
 		""
@@ -214,7 +214,7 @@
 		"Do not launch a Stellaris rocket from the void dimension - bad things will happen!"
 	]
 	quest.0845CA46AAFECAA1.quest_subtitle: "JAVD"
-	quest.08740A0C3F39848D.quest_desc: ["Reinforced version of the pressure tube - can handle more pressure!"]
+	quest.08740A0C3F39848D.quest_desc: ["压力管道的强化版——可以承受更高压力！"]
 	quest.089EE930957020B6.quest_desc: [
 		"Right click to instantly turn dirt into path or harvest a layer at a time dirt and sand. Right click on gravel, clay, or snow to instantly harvest the vein. Based on the charge level (V, shift+V)."
 		""
@@ -245,7 +245,7 @@
 	]
 	quest.09616105B2147867.quest_subtitle: "Mob Grinding Utils"
 	quest.096BF1C5A9A0F0B4.quest_desc: ["Just like the stove from Farmer's Delight!"]
-	quest.097A73052FFD1BFA.quest_desc: ["Connect to a drain to get molten metal out of the foundry."]
+	quest.097A73052FFD1BFA.quest_desc: ["连接排液孔，将熔融金属从镕铸炉中排出。"]
 	quest.097B7BF8B0CBC549.quest_desc: ["抑制以其为中心半径八格范围内的实体传送行为，可以装在固体方块的任意面，右击开关。（译者注：物品上的描述不够准确，请以此任务描述为准）"]
 	quest.098EE0E9BA10FE16.quest_desc: [
 		"A vat for alchemical digestion, required for exaltation."
@@ -331,8 +331,8 @@
 	quest.0DA6AB6E6D1BF58C.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafter."]
 	quest.0DA822417944D807.quest_desc: ["Slay a chicken and cook its meat to obtain cooked chicken"]
 	quest.0DA822417944D807.quest_subtitle: "Minecraft"
-	quest.0DDA934D37D96D6C.quest_desc: ["Part of the multiblock. The Drain is used to get liquids out of the foundry."]
-	quest.0E012180FF171EA3.quest_desc: ["Max tier for the pressure tube."]
+	quest.0DDA934D37D96D6C.quest_desc: ["多方块结构组件，排液孔用于将液体从熔炼炉排出。"]
+	quest.0E012180FF171EA3.quest_desc: ["最高级的压力管道。"]
 	quest.0E0DCFDDD225CBE9.quest_desc: ["Surrounding yourself in dark matter seems like such a good idea! It absorbs a large amount of damage taken. You are nearly invincible with the set of armor. At times, you think that you can see movement within the sheen of armor."]
 	quest.0E352A7DB0D0E65D.quest_desc: ["Build a house out of bedrock."]
 	quest.0E7A8DAC2DBAEB4D.quest_desc: ["延长可以与终端进行交互的距离，16格范围。"]
@@ -432,7 +432,7 @@
 		"- The size of the controller must be within 7x7x7; else it will turn red."
 		"-A controller can have 2 adjacent blocks in at most 1 axis; if a block violates this rule, it will disable and turn red."
 	]
-	quest.12AE4AE8955D0364.quest_desc: ["Upgraded version of the air compressor."]
+	quest.12AE4AE8955D0364.quest_desc: ["空气压缩机的升级版。"]
 	quest.12B32970DF51871F.quest_desc: ["Hold shift key when hovering over the item to see stats."]
 	quest.12D23F12FACE2F36.quest_desc: ["An upgraded furnace with a base cook time of 20"]
 	quest.12E388A337027D9F.quest_desc: ["The Destruction Gadget allows you to void a large area."]
@@ -558,7 +558,7 @@
 		""
 		"You will also need to build a special Altar. You will need an Awakening Altar, Awakening Pedestals and Essence Vessels. Placing the Altar in the world will show you where to place the Pedestals and Essence Vessels."
 	]
-	quest.1A0DA69E34F2D7E8.quest_desc: ["A machine that exposes empty PCBs to UV light, progressing them toward becoming finished PCBs."]
+	quest.1A0DA69E34F2D7E8.quest_desc: ["用于将空印刷电路版曝露在紫外线下，形成可用成品的机器。"]
 	quest.1A1B057049B2AB58.quest_desc: ["The crafting core is used to craft several end-game items. See all uses in JEI."]
 	quest.1A1B057049B2AB58.quest_subtitle: "Extended Crafting"
 	quest.1A378D0D3AA38021.quest_desc: ["A unique crafting method of Powah, uses items and energy to craft recipes"]
@@ -572,7 +572,7 @@
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
 	quest.1AB8244D9A52E7F4.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for hardened tier Powah items."]
-	quest.1AE2DA480EB23947.quest_desc: ["Used to make plastic. Refer to JEI and the manual."]
+	quest.1AE2DA480EB23947.quest_desc: ["用于制造塑料，详情查阅JEI和手册。"]
 	quest.1AE506C74AF7D407.quest_desc: ["The best draconic scientists have figured out a way to duplicate chaos shards. Breaking down a chaos shard into its tiniest fragments will allow you to transform it into something that can be refined to create large chaos fragments."]
 	quest.1B146007CA8A3052.quest_desc: [
 		"There is only one type of rocket in Stellaris; you can improve your rocket using various upgrades."
@@ -580,7 +580,7 @@
 		"Make sure you only take off in your rocket from the overworld (the dimension where you started the pack) or the planets! Otherwise, messy things can happen!"
 	]
 	quest.1B17A64C7D6C88F7.quest_desc: ["Transmit power wirelessly to charge items in your inventory!"]
-	quest.1B1E9AFA7D0B0970.quest_desc: ["Install upgrades into the foundry to make faster and disable alloying!"]
+	quest.1B1E9AFA7D0B0970.quest_desc: ["将升级安装到镕铸炉中，获得更快的速度，或关闭合金功能！"]
 	quest.1B1E9AFA7D0B0970.title: "升级"
 	quest.1B20650DA11BD5F6.quest_desc: ["Max Blocks: 128"]
 	quest.1B4A6ACF29C9DD46.quest_desc: ["The Combiner allows the player to create an ore block from 8 dust. Place the ore dust in the top slot, and some cobblestone in the bottom slot, and it will combine to make the ore block. It requires 1000 power per operation. Works with the dust of copper, iron, tin, osmium, obsidian (only needs 4) and gold. Also allows 1 Flint to a gravel block and 16 Redstone/Lapis to their ores."]
@@ -609,7 +609,7 @@
 	]
 	quest.1BAB46320F75A91B.title: "Ritual of the Forest"
 	quest.1BDB8EDBC8F52E9E.quest_desc: ["While bearing some similarity to Fluix ME Covered Cable in appearance, they provide diagnostic function by visualizing the channel usage on the cables, the channels appear as lit colored lines that run along the black stripe on the cables giving you an understanding of how your channels are being used on your network. For regular smart cables, the first four channels show as lines matching the color of the cable, the next four show as white lines. For dense smart cable, each stripe represents 4 channels."]
-	quest.1BE5549EE1591D23.quest_desc: ["Part of the multiblock. These are used to line foundries and withstand high temperatures during smelting and casting."]
+	quest.1BE5549EE1591D23.quest_desc: ["多方块结构组件，这些方块作为镕铸炉的主体，将会在熔铸过程中承受高温。"]
 	quest.1C06B9727A06A7D8.quest_desc: [
 		"Crafting CPUs are multiblocks, and must be solid rectangular prisms with no gaps. They are made out of several components."
 		""
@@ -645,8 +645,8 @@
 	quest.1D96A6DC181BE5ED.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
 	quest.1DA6EB3AB3035A0F.quest_desc: ["An endgame material created by infusing Draconium with Energy and other items."]
 	quest.1DC74FAB7A521DB0.quest_desc: ["A drop from defeating the Warden."]
-	quest.1E0F3E9A7AE4D2F5.quest_desc: ["Automate PCB creation."]
-	quest.1E0F3E9A7AE4D2F5.title: "Pneumatic Assembly"
+	quest.1E0F3E9A7AE4D2F5.quest_desc: ["全自动电路板制作。"]
+	quest.1E0F3E9A7AE4D2F5.title: "气动装配"
 	quest.1E6EE65389C1E9D7.quest_desc: ["A powerful material refined from Draconium Dust, used to craft advanced energy systems, tools, and high-tier technology."]
 	quest.1EC14A5DEA09E671.quest_desc: ["Made of 10,000 emeralds"]
 	quest.1EE7658030431E1A.quest_desc: [
@@ -887,9 +887,9 @@
 	quest.2C08FD536602B1BD.quest_desc: ["Crafting component for Powah items."]
 	quest.2C1A380EBB6AF17C.quest_desc: ["Made of 10,000 glowstone dust"]
 	quest.2C50B9ACE82D517F.quest_desc: [
-		"To gain more permenant hearts, try eating a wide variety of foods! Use this book to keep track. You will gain an extra heart after the following milestones (eating unique foods): 10, 15, 20, 25, 30. "
+		"要获得更多永久生命值，可以尝试吃各种不同的食物！用这本书跟踪进度。在达成以下里程碑（食用不同种类的食物）后，每次将额外获得一颗心：10种、15种、20种、25种、30种。"
 		""
-		"You can gain a maximum of 5 additional hearts using this method, other items exist to boost hearts past this point,"
+		"使用此方法最多可获得5颗额外的心，其他物品可以突破此上限获得更多生命值。"
 	]
 	quest.2C50B9ACE82D517F.quest_subtitle: "Spice of Life"
 	quest.2C52AF4EB1C85864.quest_desc: ["Uses solar power (sun) to generate RF. Tier 2!"]
@@ -1160,7 +1160,7 @@
 	quest.3833EC6F7FBBA74F.quest_desc: ["如果控制器的六个面不够你用的话，链接这个扩展器可以再给你六个同样能够访问整个抽屉网络的面。"]
 	quest.38451728CB184D6A.quest_desc: ["A powerful device that controls time and weather"]
 	quest.38451728CB184D6A.quest_subtitle: "Draconic Evolution"
-	quest.384531776969BAA4.quest_desc: ["Upgraded version of the liquid compressor."]
+	quest.384531776969BAA4.quest_desc: ["液体压缩机的升级版。"]
 	quest.38D7180D07D8A349.quest_desc: [
 		"The Slice'N'Splice \"slices\" and \"splices\" heads and other things, adding components into it to create new components. It has six input slots, plus two tool slots, and one output slot. The stack size of each input slot in the Slice'N'Splice is exactly one."
 		""
@@ -1287,7 +1287,7 @@
 	quest.3EB30F879AB9402A.quest_desc: ["Use as a fertilizer in advanced planters!"]
 	quest.3EC6F6C5228BAD28.quest_desc: ["Combines the functions of a pickaxe, shovel, and sword with immense mining speed and attack power"]
 	quest.3ED9992DD5070D51.quest_desc: ["Using a simple cooking system and a few familiar ingredients, Farmer's Delight lets you be able to prepare a wide variety of hearty meals: from sandwiches to salads and stews, from beautiful desserts to mouth-watering feasts, no ingredient will be left behind in your kitchen!"]
-	quest.3ED9992DD5070D51.quest_subtitle: "Farmer's Delight"
+	quest.3ED9992DD5070D51.quest_subtitle: "农夫乐事"
 	quest.3EDA781E026296F3.quest_desc: ["This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."]
 	quest.3F171C175D462267.quest_desc: [
 		"筛子：自动筛矿！和普通筛子共用筛网。筛网可以附魔时运和效率。需要更多铁吗？试试筛粉碎深板岩。需要能量（RF）。"
@@ -1322,7 +1322,7 @@
 		""
 		"Yes, this even works on the Chaos Guardian."
 	]
-	quest.402D82ABE31FC142.quest_desc: ["Used to combine circuit boards with etching acid, creating unassembled Printed Circuit Boards (PCBs)"]
+	quest.402D82ABE31FC142.quest_desc: ["用于将电路板与蚀刻酸结合，制造未组装的印刷电路板（PCB）。"]
 	quest.409BF70E8D188CD9.quest_desc: ["Control circuits are used to craft several Mekanism items and machines. Tier 5."]
 	quest.409BF70E8D188CD9.quest_subtitle: "Mekanism Extras"
 	quest.40ABBEE4C6F06C62.quest_desc: ["Stores power; can be a multiblock as well. Works across long distances and through dimensions"]
@@ -1364,8 +1364,8 @@
 		"- Right click the block with a Framed Hammer to remove the camo."
 		"- Right click the block with an empty fluid container to remove a fluid camo."
 	]
-	quest.431297CE56DC8A83.quest_desc: ["Place under a tap. Click the tap to create blocks of metal from the melted materials in the foundry."]
-	quest.43689166DFBFABE8.quest_desc: ["Place under a tap. Place a cast on top and click the tap to fill the casts."]
+	quest.431297CE56DC8A83.quest_desc: ["放置在浇注口下方，右击浇注口即可将镕铸炉中的熔融材料排出，浇铸成块。"]
+	quest.43689166DFBFABE8.quest_desc: ["放置在浇注口下方，放入铸模，右击浇注口来让液体填满铸模。"]
 	quest.43698862AB55F952.quest_desc: [
 		"To obtain Ether:"
 		""
@@ -1509,7 +1509,7 @@
 	quest.45E28C06FE4C7789.quest_desc: ["两个槽的压缩抽屉。"]
 	quest.45E3F8498766ED51.quest_desc: ["Even faster conduits!"]
 	quest.45E3F8498766ED51.title: "Conduits - Tier 3"
-	quest.45EDE15AF534BBF5.quest_desc: ["Made using an etching tank and etching acid at first, then can be made using the assembly controller."]
+	quest.45EDE15AF534BBF5.quest_desc: ["前期用蚀刻器和蚀刻酸制作，随后可通过装配台制作。"]
 	quest.462375E9E65C799F.quest_desc: [
 		"This flower can be obtained after defeating the Ender Dragon."
 		""
@@ -1636,14 +1636,14 @@
 	quest.4C6B18C8D270A43E.quest_subtitle: "XNet"
 	quest.4C6E023AB7291EE5.quest_desc: ["Bound across the skies of the Aether and \"borrow\" some clouds to take back with you."]
 	quest.4C6E023AB7291EE5.title: "Aerclouds"
-	quest.4C73BD54224F7CC5.quest_desc: ["Uses solid fuel to create air pressure."]
+	quest.4C73BD54224F7CC5.quest_desc: ["消耗固体燃料产生气压。"]
 	quest.4C9ADC82F706B417.quest_desc: [
 		"Alchemically pure gold. Acts as a catalysator, enabling various alchemical processes."
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
-	quest.4CAFFE19D6158181.quest_desc: ["Refer to the manual for Pressure Chamber setup and recipes. These items are enough to create a 3x3x3 pressure chamber - great for starting out!"]
-	quest.4CAFFE19D6158181.title: "Pressure Chamber"
+	quest.4CAFFE19D6158181.quest_desc: ["在手册中查阅压力室的搭建方法和相关配方。任务要求的物品就足够搭建一个3x3x3的压力室了——非常适合开局使用！"]
+	quest.4CAFFE19D6158181.title: "压力室"
 	quest.4CB6ADD18138ACC6.quest_desc: [
 		"The export bus pulls items and fluids (and whatever else, given addons) from network storage and pushes them into the inventory it's touching."
 		""
@@ -1739,11 +1739,11 @@
 	quest.50233C3BE23A074A.quest_desc: ["The Angel Ring mod adds an Angel Ring, which allows you to fly, like in a creative mode to help with building/travelling. Inspired by Extra Utilities' Angel Ring."]
 	quest.5073B7267BD701D2.quest_desc: ["用染料在末影蓄水槽上染出颜色，相同颜色排列的末影蓄水槽将互相配对。你可以链接两个及以上的末影蓄水槽，无缝存取输送流体！"]
 	quest.50765C7CF71D6A59.quest_desc: ["末影珍珠可以将投掷者传送至落点处，也可以用来合成末影之眼，以抵达末地。由末影人掉落。"]
-	quest.507C29EFF8CEFCDA.quest_desc: ["Part of the multiblock. Heats metals, allowing for smelting and alloying at the required temperatures."]
+	quest.507C29EFF8CEFCDA.quest_desc: ["多方块结构组件，加热金属，使其达到熔炼与混合所需的温度。"]
 	quest.50852ED19616CDB8.quest_desc: ["缓慢生成黑曜石。"]
 	quest.50A188092863FFFA.quest_desc: ["Upgrade cards are crafted with either basic or advanced card bases"]
 	quest.50F59454D604E225.quest_desc: ["Hold shift key when hovering over the item to see stats."]
-	quest.5124714086D19424.quest_desc: ["Trade emeralds for seeds and saplings of all kinds!"]
+	quest.5124714086D19424.quest_desc: ["用绿宝石交易各种种子和树苗！"]
 	quest.5124714086D19424.quest_subtitle: "Farming for Blockheads"
 	quest.5133A804F271D046.quest_desc: [
 		"Welcome to Modular Routers! This is a highly flexible mod for moving items around the world in various ways. With a single block - the Item Router - and a selection of plug-in module items, you can:"
@@ -1782,7 +1782,7 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.51F44681C05DA51B.quest_desc: ["Part of the multiblock. The central block of the foundry multiblock, managing smelting operations and alloy production."]
+	quest.51F44681C05DA51B.quest_desc: ["多方块结构组件，镕铸炉的核心方块，负责管理熔炼操作与合金熔铸。"]
 	quest.522B459DA586F112.quest_desc: [
 		"This seed base is used to craft different resource seeds."
 		""
@@ -1875,7 +1875,7 @@
 		"Place the torch on the ground and right-click to access the GUI."
 	]
 	quest.54BBFA6BC53CD1B7.quest_desc: ["Use as a fertilizer in advanced planters! Can also be used to create mulch."]
-	quest.552CCEDED0AE6D5C.quest_desc: ["Uses fuel fluids to create air pressure."]
+	quest.552CCEDED0AE6D5C.quest_desc: ["消耗流体燃料产生气压。"]
 	quest.558FE9042159159D.quest_desc: [
 		"Crafting units simply fill space in a CPU in order to make it a solid rectangular prism, if you don't have enough of the other components. They are also a base ingredient in the other components."
 		""
@@ -1921,14 +1921,14 @@
 	quest.56E02661982102F0.quest_desc: ["More features, and even higher durability!"]
 	quest.570BE7D3659C6BB0.quest_desc: ["Set up a Mekanism portal network that connects your main base to every dimension."]
 	quest.5720FF9BB1596CA1.quest_desc: ["Batteries are used to store RF. Can be used in machines and to charge items. Hover over each battery tier to see capacity and I/O speed."]
-	quest.5735F3DABF096132.quest_desc: ["Place liquid plastic in the world for it to harden into plastic sheets."]
+	quest.5735F3DABF096132.quest_desc: ["将液态塑料倒在世界中，它就会硬化成塑料片。"]
 	quest.573FB7A2379800A5.quest_desc: ["One of the steps needed to make the endgame less painful"]
 	quest.573FB7A2379800A5.quest_subtitle: "Mystical Agriculture"
 	quest.57C920272A14206C.quest_desc: ["Make your life easier by getting Awakened Draconium from seeds!"]
 	quest.57C920272A14206C.quest_subtitle: "Mystical Agriculture"
 	quest.5818B49C16BB6B8F.quest_desc: ["This wearable item accelerates the growth of nearby crops when powered."]
 	quest.5844BCF0147A9BB5.quest_desc: ["This is an excellent place to store food and cooking utensils!"]
-	quest.584678F8D7970634.quest_desc: ["Part of the multiblock. Stores the lava used by the foundry for melting materials."]
+	quest.584678F8D7970634.quest_desc: ["多方块结构组件，用于存储镕铸炉熔炼材料所需的熔岩。"]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
 	quest.5873CD588D98B39D.quest_desc: ["一把能造成6点伤害的剑。"]
 	quest.594A3262325FDCFF.quest_desc: ["More features, and higher durability!"]
@@ -1968,14 +1968,14 @@
 	quest.5A3A3E5940A21D21.quest_desc: ["This is a very expensive block"]
 	quest.5A42AA637D80A6B7.quest_desc: ["Blaze and Magma Cube drop."]
 	quest.5A42AA637D80A6B7.quest_subtitle: "Reliquary"
-	quest.5A4CD0D779A8410E.quest_desc: ["Buy and sell items using your new Amadron Tablet!"]
+	quest.5A4CD0D779A8410E.quest_desc: ["用你的新亚马龙平板电脑买卖物品！"]
 	quest.5A679F29B344C3DC.quest_desc: ["Magical Seed Base is needed to make Prosperity Seed Base and Soulium Seed Base."]
 	quest.5AC98773FE9B5578.quest_desc: ["能够用来种植各种作物，包括神秘农业的作物！在JEI中查看作物所需的土壤类型。"]
 	quest.5AD3D5C66E7E50EC.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
 	quest.5AFFEFD46BEA5855.quest_desc: ["36-slot Interface – craft or export huge recipe sets in one block."]
 	quest.5AFFEFD46BEA5855.quest_subtitle: "ExtendedAE"
 	quest.5B2D05D4C85086DF.quest_desc: ["The most ultimate block of all the blocks"]
-	quest.5B315DE5C4328B81.quest_desc: ["Apples are food items that can be eaten by the player or crafted into golden apples. "]
+	quest.5B315DE5C4328B81.quest_desc: ["苹果是一种食物，玩家可以食用，也可以用来合成金苹果。"]
 	quest.5B315DE5C4328B81.quest_subtitle: "Minecraft"
 	quest.5B9F4455D7D8F7AD.quest_desc: [
 		"To spawn a Warden, use a Sculk Core on a Sculk Shrieker to allow it to spawn a Warden (following vanilla mechanics)."
@@ -2025,7 +2025,7 @@
 		""
 		"Note: the moon contains Desh."
 	]
-	quest.5CAB7799DC531CE6.quest_desc: ["Transports pressure. Upgradable."]
+	quest.5CAB7799DC531CE6.quest_desc: ["传输压力，可升级。"]
 	quest.5CEF864B6400D5F1.quest_desc: [
 		"手持蚕右击树叶方块以感染树叶。"
 		""
@@ -2209,7 +2209,7 @@
 	quest.641393B3F9C6B8FF.title: "Conduits - Filters"
 	quest.6451FD7185BFE271.quest_desc: ["Tier 3. The only armor pieces in Draconic Evolution for 1.21.1 are the chestplates. Modules are needed to make it function, see JEI."]
 	quest.64A4DB89F0523BDF.quest_desc: ["Using a simple cooking system and a few familiar ingredients, Farmer's Delight lets you be able to prepare a wide variety of hearty meals: from sandwiches to salads and stews, from beautiful desserts to mouth-watering feasts, no ingredient will be left behind in your kitchen!"]
-	quest.64A4DB89F0523BDF.quest_subtitle: "Farmer's Delight"
+	quest.64A4DB89F0523BDF.quest_subtitle: "农夫乐事"
 	quest.64C55F0D348097E7.quest_desc: [
 		"A rudimentary, yet effective way of collecting aura early on is the Natural Altar$. After creating the multiblock setup shown in the guidebook, the altar will start slowly draining aura in the vicinity. However, it is not strong enough to cause major damage, making it only drain until there is none left in the area. The collected aura can then be used in recipes, see JEI."
 		""
@@ -2356,10 +2356,10 @@
 	quest.6D1640B0CC4ADAF6.quest_desc: [
 		"特色："
 		""
-		"- Multiblock Construction: Build your own Foundry using various blocks like bricks, tanks, drains and windows to create a fully functional smelting setup."
-		"- Efficient Smelting: The Foundry smelts ores faster than traditional furnaces, allowing you to process multiple types of ores simultaneously and produce more ingots with less fuel."
-		"- Casting: The Foundry features a casting system where you can pour molten metal into casts to create ingots, blocks, or other metal items, adding a new layer of depth to crafting and resource management."
-		"- Customizable Design: The size and layout of the Foundry can be customized, with foundry blocks in all 16 colors to match your base."
+		"- 多方块构建：使用砖块、储罐、排液孔和视窗搭建你自己的镕铸炉，打造功能完备的熔炼体系。"
+		"- 高效熔炼：镕铸炉的熔炼速度比传统熔炉更快，还可以同时处理多种矿石，用更少的燃料产出更多矿锭。"
+		"- 铸造：铸造系统是镕铸炉的特色，你可以将熔融金属灌入铸模，浇筑成锭、块或其他金属物品，为制作和资源管理增添新层次。"
+		"- 客制化设计：镕铸炉的大小和布局可以自由搭配。所有镕铸炉方块都支持16种染料颜色，以更好地点缀你的基地。"
 	]
 	quest.6D16777C65BCA017.quest_desc: [
 		"精妙背包，又一个背包模组。这个模组的背包可以放置在地上，染上不同颜色，通过升级变得更大，还能插入各种功能各异的升级。"
@@ -2511,8 +2511,8 @@
 	quest.737F70A6CF790A64.quest_subtitle: "RF Tools"
 	quest.738F83FF42EC9E08.quest_desc: ["Generates power from coal and other burnable materials."]
 	quest.7398BF7730A7D6FF.quest_desc: ["Crafted using the energizing orb. Used for creating items for wireless power transport, see JEI."]
-	quest.739E1E96A6CE1DE8.quest_desc: ["Click to create air pressure!"]
-	quest.73EFC7030BF6A7DE.quest_desc: ["Created using plastic in the pressure chamber."]
+	quest.739E1E96A6CE1DE8.quest_desc: ["右击加压！"]
+	quest.73EFC7030BF6A7DE.quest_desc: ["在压力室中用塑料片制作。"]
 	quest.740583FBFABFEC87.quest_desc: [
 		"The SAG Mill uses power to grind (or mill) items into their crushed variants, like Ores into Dusts. The SAG Mill has four output slots; recipes can have 1-4 different outputs, with different chances of obtaining those outputs."
 		""
