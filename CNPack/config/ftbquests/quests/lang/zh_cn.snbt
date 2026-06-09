@@ -59,8 +59,8 @@
 		"升级是一种能够对管道进行增强的物品，可以提升管道的传输速度、效率，或是加入新的功能，例如过滤和堆叠。"
 	]
 	quest.0231C9D125B29E7E.quest_subtitle: "Pipez"
-	quest.02518A623FB00BE0.quest_desc: ["A multiblock that burns biodiesel to generate large amounts of RF power"]
-	quest.02518A623FB00BE0.title: "Diesel Generator"
+	quest.02518A623FB00BE0.quest_desc: ["多方块机器，燃烧生物柴油，产生大量RF能源。"]
+	quest.02518A623FB00BE0.title: "柴油发电机"
 	quest.0278D5659AD6BEEB.quest_desc: ["MEGA Cells is an add-on for Applied Energistics 2 providing higher tiers of storage, ranging in capacity from 1M to as high as 256M!"]
 	quest.0278D5659AD6BEEB.quest_subtitle: "MEGA Cells"
 	quest.0278D5659AD6BEEB.title: "MEGA Cell Housing"
@@ -444,8 +444,8 @@
 		""
 		"Level: 7"
 	]
-	quest.130380166BF98207.quest_desc: ["A multiblock structure that fills items with fluids, such as turning empty bottles into potions or imbuing tools with lubricant and other liquids."]
-	quest.130380166BF98207.title: "Bottling Machine"
+	quest.130380166BF98207.quest_desc: ["一个多方块结构，能够将流体灌入物品。例如将药水灌入空瓶或是为工具灌入润滑剂等液体。"]
+	quest.130380166BF98207.title: "灌装机"
 	quest.137F5A524DB75A97.quest_desc: ["Potion ingredient, found in nether fortresses."]
 	quest.1388958122E58F71.quest_desc: ["Potion ingredient, slay a ghast to obtain."]
 	quest.138FFE0F7A3437A7.quest_desc: ["奇异储罐是一种基础的流体储罐，能够容纳32桶流体。用它来存储刷怪场的经验吧！你还可以合成一个地漏经验奇异储罐，将你的经验存储为流体经验。"]
@@ -784,7 +784,7 @@
 	quest.24C4A019D07A1F8B.quest_desc: ["Defeat the dragon! Remember, the dragon can be resummoned with 4 end crystals."]
 	quest.24C4A019D07A1F8B.quest_subtitle: "Minecraft"
 	quest.24C6C85F207E7409.quest_desc: ["The Purification Chamber uses oxygen to refine Ores and shards into clumps. Each ore makes 3 clumps, whereas each shard only gives one clump."]
-	quest.24C964CEB5B34A22.quest_desc: ["Productive Metalworks brings a powerful and immersive smelting and casting system to Minecraft, allowing players to process ores and craft ingots in a more realistic and efficient way. With this mod, you can construct a multi-block structure known as the Foundry, which acts as a large, industrial smelting furnace capable of handling large quantities of ores at once."]
+	quest.24C964CEB5B34A22.quest_desc: ["Productive Metalworks模组为我的世界带来了强大的沉浸式冶炼与铸造系统，玩家能够以更真实高效的方式处理矿石，铸造矿锭。在本模组中，你可以建造名为镕铸炉的多方块结构，在这座大型工业熔炉中一次性处理大量矿石。"]
 	quest.24C964CEB5B34A22.quest_subtitle: "Productive Metalworks"
 	quest.24D65F6FA7D60C0D.quest_desc: ["The Master Infusion Crystal has the added benefit of being able to combine entire blocks of essence, which can be helpful when combining large amounts of essence. Infinite durability!"]
 	quest.250D50E877136CE2.quest_desc: ["Used to store large amounts of energy."]
@@ -1095,11 +1095,11 @@
 	quest.34612C1E6AEDC97F.quest_subtitle: "Useful Machinery"
 	quest.3465BA65A8FF769E.quest_desc: ["The inscriber is used to inscribe circuits and processors using presses, and to crush various items into dust. It can accept either AE2's power (AE) or Fabric/Forge Energy (E/FE). It can be sided, such that inserting items from different sides inserts them into different slots in its inventory. To facilitate this, it can be rotated with a Certus Quartz Wrench. It can also be set to push the results of crafts to adjacent inventories."]
 	quest.3473210E7AAB80EE.quest_desc: [
-		"An Improved Blast Furnace can have a maximum of two Blast Furnace Preheaters; one on each side. They need power to function."
+		"一座改良高炉最多可以安装两个高炉预热器——左右两侧各一个。需要供电才能运行。"
 		""
-		"One Blast Furnace Preheater will make the Improved Blast Furnace twice as fast, two Blast Furnace Preheaters will make it three times as fast. "
+		"一个高炉预热器可以使改良高炉的速度翻倍，两个可以将速度提升至三倍。"
 	]
-	quest.3473210E7AAB80EE.title: "Blast Furance Preheaters"
+	quest.3473210E7AAB80EE.title: "高炉预热器"
 	quest.3475FD5AB260705E.quest_desc: ["类似物品抽屉，但存储的是流体！"]
 	quest.34892B714A83B9BD.quest_desc: [
 		"The Emerald Apple grants the following potion effects:"
@@ -1554,8 +1554,8 @@
 	quest.483DA3FB8D65ED2F.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Netherite Stick\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"75AD65B7786D4698\" } }, \" to unlock.\" ]"]
 	quest.483DA3FB8D65ED2F.quest_subtitle: "15 Coins"
 	quest.483DA3FB8D65ED2F.title: "Random Reward Bag"
-	quest.48675A769F0D3F9D.quest_desc: ["Put these pieces together to make a kinetic generator that converts wind power into rotational energy."]
-	quest.48675A769F0D3F9D.title: "Kinetic Power"
+	quest.48675A769F0D3F9D.quest_desc: ["将这些部件组装起来即可构成一台动能发电机，将风能转化为旋转能。（译者注：原文如此）"]
+	quest.48675A769F0D3F9D.title: "动能发电"
 	quest.488E3B98314C6242.quest_desc: ["Harvests crops in a configurable radius (from 3x3 to 9x9) around the pylon and outputs to an inventory above. Place the pylon inside the water block of the farm. The pylon requires a hoe in the pylon inventory, and will consume 1 durability per crop harvest. Unbreakable hoes, such as Mystical Agriculture's Supremium Hoe, can be used."]
 	quest.488E3B98314C6242.quest_subtitle: "Pylons"
 	quest.488EB6F4DF70142A.quest_desc: ["Special apples that give different buffs! Hold shift while hovering over the apple to see its effects."]
@@ -1888,8 +1888,8 @@
 		"Right-clicking one brings up a crafting status UI where you can check the progress on the crafting job the CPU is handling."
 	]
 	quest.55A12669A448C956.quest_desc: ["The Digital Miner is the scale mining machine of Mekanism. However, this machine is like no other as it \"magically-teleports\" mined blocks to its inventory."]
-	quest.55A68150572EC898.quest_desc: ["A multiblock machine that combines plant oil and ethanol to produce biodiesel (other recipes exist, see JEI)."]
-	quest.55A68150572EC898.title: "Refinery"
+	quest.55A68150572EC898.quest_desc: ["多方块机器，将植物油和乙醇提炼成生物柴油（其他配方详见JEI）。"]
+	quest.55A68150572EC898.title: "精炼厂"
 	quest.55A816E8EB2D0E2E.quest_desc: ["Made up of 531441 cobblestone!"]
 	quest.55B089A848531E3E.quest_desc: ["Essence Armor pieces are higher tier armor that can be upgraded using Augments."]
 	quest.563EF0C91E88B0D5.quest_desc: ["Plant on grass to grow a pig. Make sure to give it plenty of breathing room to grow."]
@@ -2086,9 +2086,9 @@
 	quest.5F5BB0B31B3A1C26.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
 	quest.5F7BB2B66376EC4B.quest_desc: ["It can break every block including Bedrock instantly. It has a Fortune X enchantment when crafted and uses no durability. "]
 	quest.5F83ADFF1BAE5088.quest_desc: [
-		"Steel is a step above iron and is required to progress in this modpack."
+		"钢比铁更好，同样也是推进本包进度的必须之物。"
 		""
-		"Make steel by processing iron ingot (to get steel ingot) or iron dust (to get steel dust) in the Immersive Engineering Blast Furnace."
+		"在沉浸工程的高炉中处理铁锭（可获得钢锭）或铁粉（可获得钢粉）即可炼钢。"
 	]
 	quest.5F8670CA83394E74.quest_desc: [
 		"Of course, based on the world that you are currently in, the type of aura collected will slightly vary. For instance, in the normal world, aura can be gathered in the form of sunlight, while in the Nether realm, aura can be gathered in the form of ghosts, and in the End realm, aura is present in the form of an overabundance of darkness."
@@ -2106,8 +2106,8 @@
 		"- 5x5"
 	]
 	quest.5FDEB6FE1138399C.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
-	quest.5FDED117D1ADCE5A.quest_desc: ["A multiblock machine that processes organic materials like fruits or vegetables into ethanol, used as a fuel or crafting component."]
-	quest.5FDED117D1ADCE5A.title: "Industrial Fermenter"
+	quest.5FDED117D1ADCE5A.quest_desc: ["多方块机器，用于将水果蔬菜等有机物加工成乙醇，作为燃料或合成材料使用。"]
+	quest.5FDED117D1ADCE5A.title: "工业发酵机"
 	quest.601B16ADC17DCC07.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies phantoms, piglins, and endermen."]
 	quest.6039D8A09D00E4D0.quest_desc: [
 		"Gold Leaf, once harvested, can easily be crushed into Gold Powder which can be placed on the ground as an integral part of the Ritual of the Forest."
@@ -2244,7 +2244,7 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.665A140AE9AFDEDD.quest_desc: ["A crafting material used in advanced recipes, including machines, tools, and high-tier technology within the mod."]
+	quest.665A140AE9AFDEDD.quest_desc: ["高级合成材料，常用于机器，工具，以及模组内高阶科技的合成配方。"]
 	quest.665EBED00E67F718.quest_desc: ["Crafting component. Maximum tier (tears?). If you have difficulty with the Chaos Guardian fight, check out the FAQ page of this quest book, there is a section on the Chaos Guardian."]
 	quest.6687B589680663C6.quest_desc: ["Craft a stack of Demon Steel Tier 4 (remember, no EMC at all in the process)."]
 	quest.669CFE3A168C0788.quest_desc: ["The Exchanging Gadget provides basic exchanging abilities using a set of different Exchanging Modes."]
@@ -2273,7 +2273,7 @@
 	quest.68AD773B1A241E01.title: "Crystals"
 	quest.68B8F9FF9F45348B.quest_desc: ["The fury of the universe in the palm of your hand."]
 	quest.68C53139E1D36746.quest_desc: ["Grants infinite souls from all creatures."]
-	quest.68D850868C481078.quest_desc: ["An upgraded electronic component, essential for crafting sophisticated machinery and energy systems beyond the early game in expert mode. In normal mode, it is needed only to craft the Dissolution Chamber and some late-game Immersive Engineering components."]
+	quest.68D850868C481078.quest_desc: ["升级版电子元件。在专家模式中制作复杂机械和搭建电力系统的必要组件。但在普通模式，它只用于合成化学溶解室和一些沉浸工程后期的器件。"]
 	quest.68E1372233643800.quest_desc: [
 		"When working with aura, sometimes it can be beneficial to know about its levels in an area without having to be there to check in person. The $Aura Detector gives out a redstone signal based on the amount of in the close vicinity around it, so long as you attach a Comparator to it. For that, its range of display is similar to that of the Environmental Eye."
 		""
@@ -2354,7 +2354,7 @@
 	quest.6C71752F5F9B7222.quest_desc: ["和木桶差不多，但是这个桶可以盛熔岩等热流体。"]
 	quest.6C931BB4213DC381.quest_desc: ["This block generator has a speed of 16"]
 	quest.6D1640B0CC4ADAF6.quest_desc: [
-		"Features:"
+		"特色："
 		""
 		"- Multiblock Construction: Build your own Foundry using various blocks like bricks, tanks, drains and windows to create a fully functional smelting setup."
 		"- Efficient Smelting: The Foundry smelts ores faster than traditional furnaces, allowing you to process multiple types of ores simultaneously and produce more ingots with less fuel."
@@ -2387,8 +2387,8 @@
 	quest.6D73B59E96D6C032.quest_subtitle: "Minecraft"
 	quest.6DA1F71A6E40CF8B.quest_desc: ["Using a simple cooking system and a few familiar ingredients, Farmer's Delight lets you be able to prepare a wide variety of hearty meals: from sandwiches to salads and stews, from beautiful desserts to mouth-watering feasts, no ingredient will be left behind in your kitchen!"]
 	quest.6DB5CEA763B4C3F6.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI."]
-	quest.6E03872B3136B79B.quest_desc: ["Immersive Engineering multiblock machine. Assemble as a 3x3 with the hopper on top and right-click with the engineer's hammer. Just like the blast furnace, but better! See the manual and JEI for details."]
-	quest.6E03872B3136B79B.title: "Improved Blast Furnace"
+	quest.6E03872B3136B79B.quest_desc: ["沉浸工程多方块机器，以3x3x3形式搭建，并在顶部放置漏斗，手持工程师锤右击中心即可形成多方块结构。用法和高炉一样，但性能更好！详情查阅工程师手册和JEI。"]
+	quest.6E03872B3136B79B.title: "改良高炉"
 	quest.6E0D7B1A597E170E.quest_desc: ["Burns canola oil and turns it into power."]
 	quest.6E485E15CB87CDC2.quest_desc: ["Made up of 6561 cobblestone!"]
 	quest.6EC8C1F16B88307A.quest_desc: ["Klein Star Omega holds up to 51,200,000 EMC and is also used in the crafting of top-tier EMC seeds."]
@@ -2413,14 +2413,14 @@
 		"该模组不使用能够魔法般地将矿石变成矿粉的单方块机器，而是使用一台大型多方块粉碎机（5x3x3），使用大型粉碎轮粉碎矿石，喷出矿粉。"
 		"该模组不使用将电力转化为魔法光束和矿石的激光，而是使用另一台资源密集型大型多方块结构（3x7x8）——挖掘机，用旋转着的大型斗轮将矿物从地下开采出来。"
 		""
-		"沉浸工程让科技模组更加平衡，更具美感。没有采用冰冷的未来风白+灰管道，而是融入了独具特色的复古未来主义设计风格（诸如生化奇兵、教团：1886、天空上尉与明日世界等）。"
+		"沉浸工程让科技模组更加平衡，更具美感。没有采用冰冷的未来风白+灰管道，而是融入了独具特色的复古未来主义设计风格（就像生化奇兵、教团：1886、天空上尉与明日世界那样）。"
 		""
-		"和几乎所有科技模组一样，它使用Forge Energy API，但它完全可以独立游玩。和其他模组不同的是，沉浸工程不用一排排方块来传输能量，而是在接线器间连接电缆输电。"
+		"和几乎所有科技模组一样，它使用Forge Energy API，但它完全可以独立游玩。和其他模组不同的是，沉浸工程不用一排排方块来传输能量，而是在接线器间连接电线输电。"
 		""
 		"该模组的特色发电方式有水车、风车、生物柴油等等，许多机器都是多方块结构！"
 	]
 	quest.701D82D7BB8B6812.quest_subtitle: "Immersive Engineering"
-	quest.707FCC07A558D9C6.quest_desc: ["Produces passive power by utilizing the temperature difference between two adjacent blocks, such as ice and lava."]
+	quest.707FCC07A558D9C6.quest_desc: ["利用相邻方块的温差（例如冰和熔岩）被动发电。"]
 	quest.709AE9E272CD7894.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI.. Requires Ether Gas, harvested from a wither using a fluid laser."]
 	quest.70A8E4AE5CBA60D7.quest_desc: [
 		"To use framed blocks:"
@@ -2484,8 +2484,8 @@
 	quest.7284146C05F63CB7.quest_subtitle: "Mekanism"
 	quest.72A28DEFA6AC4A0F.quest_desc: ["This machine serves two functions. Firstly, any item placed into its inventory will be converted into EMC. Secondly, it transfers energy from Energy Collectors to Energy Condensers. When transferring, it gives a small, 1 EMC per second bonus. It is also used to charge the Klein Star series with EMC. "]
 	quest.72B11DB251170E68.quest_desc: ["Crafting component. Upgradable to next tier, see JEI."]
-	quest.72C6F582DAA81CBF.quest_desc: ["A multiblock machine that uses molds and power to shape metal ingots and other materials into plates, rods, gears, and more."]
-	quest.72C6F582DAA81CBF.title: "Metal Press"
+	quest.72C6F582DAA81CBF.quest_desc: ["多方块机器，使用电力及各种模具加工金属锭和其他材料，将其塑造成板材、金属棒、齿轮等等。"]
+	quest.72C6F582DAA81CBF.title: "金属冲压机"
 	quest.731CFBA9CEF27A6A.quest_desc: [
 		"欢迎来到Ozone Skyblock Reborn 2，一款由MuggleOrWizard制作的专家包！本包是Ozone Skyblock Reborn系列的续作。如果你在游玩过程中想要提出建议或遇到了某些问题，欢迎在项目页面中留下评论，或是在Curseforge给我发送消息，也可以加入Discord服务器进行反馈。"
 		""
@@ -2579,11 +2579,11 @@
 	quest.779090C8D9766F2E.quest_desc: ["It passively generates 4 EMC every 1 second up to a maximum of 10,000 EMC depending on the highest light level. When placed adjacent to an Energy Condenser MK1, Energy Condenser MK2, Anti-Matter Relay MK1, Anti-Matter Relay MK2 or Anti-Matter Relay MK3 it will transfer the EMC into that machine. "]
 	quest.77B98898046B2C62.quest_desc: ["Keep cool with the power of ceiling fans!"]
 	quest.77BC2640080C1E28.quest_desc: [
-		"Immersive Engineering multiblock machine. Assemble as a 3x3 and right-click with the engineer's hammer. Makes steel from iron and coal coke. See the manual and JEI for details."
+		"沉浸工程多方块机器，以3x3x3形式搭建，手持工程师锤右击中心即可形成多方块结构。高炉消耗焦煤和铁来炼钢，详情查阅工程师手册和JEI。"
 		""
-		"Need netherrack? Witch Water forms netherrack when lava flows into it, allowing for a netherrack version of a cobblestone generator."
+		"需要下界岩？熔岩接触到巫水即可形成下界岩，你可以依此建造一个类似刷石机的设备来刷取下界岩。"
 	]
-	quest.77BC2640080C1E28.title: "Crude Blast Furnace"
+	quest.77BC2640080C1E28.title: "粗制高炉"
 	quest.77BFFEA747850123.quest_desc: ["Upgraded essences are crafted using the previous tier of essence and an infusion crystal. Used to create Tier 6 seeds. (Crystals are required in expert mode)"]
 	quest.77E52A098E50BDEB.quest_desc: [
 		"Connect a generator to the workbench with the wrench. Use the worbench to craft furniture!"
