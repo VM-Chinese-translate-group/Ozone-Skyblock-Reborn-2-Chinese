@@ -35,7 +35,7 @@
 	]
 	quest.00D9318B5F7FDE7F.quest_subtitle: "Ytones"
 	quest.00F6C5FCDC744A0D.quest_desc: ["Made out of one of every singularity"]
-	quest.0131425E80E90FDE.quest_desc: ["Casings are both decorative and functional blocks used to craft and build various machines and devices within the mod."]
+	quest.0131425E80E90FDE.quest_desc: ["外壳既可以作为装饰也可以用来制作模组内的各种机器和设备。"]
 	quest.0169FD8AF8F2DDA4.quest_desc: ["使用熔岩来产生RF。"]
 	quest.018240DF74627D73.quest_desc: ["Made of 10,000 aluminum ingots"]
 	quest.01855C6724B85B3F.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
@@ -105,7 +105,7 @@
 	quest.03EB4D6A471B02DF.quest_subtitle: "Coins avaliable!"
 	quest.03EB4D6A471B02DF.title: "Bounty"
 	quest.03F21A20BD91F3CA.quest_desc: ["Defeating a Forgotten Guardian in the Undergarden will earn you between four and sixteen forgotten nuggets. Consider using an Explorer's Compass to find the catacombs structure that they spawn in."]
-	quest.04194DB3DE85D3B4.quest_desc: ["The Emerald Jetpack is the top-tier jetpack in this mod."]
+	quest.04194DB3DE85D3B4.quest_desc: ["绿宝石喷气背包是该模组中最高级的喷气背包。"]
 	quest.04368E0530B208BD.quest_desc: [
 		"Right click to instantly mine vein of ore. Mines (left click) in the following modes (cycle with G):"
 		"- Standard: breaks one block at a time"
@@ -176,7 +176,7 @@
 		""
 		"炉灶是营火烹饪功能的直接升级，也非常适合为厨锅提供热源。"
 	]
-	quest.06BAFFA40A561DA9.quest_subtitle: "农夫乐事"
+	quest.06BAFFA40A561DA9.quest_subtitle: "Farmer's Delight"
 	quest.072C62252199E65E.quest_desc: [
 		"Liquid in a solid form; allows for easy transportation and alchemical processing."
 		""
@@ -405,7 +405,7 @@
 		""
 		"Crafter Tier 1 can remember 2 recipes."
 	]
-	quest.1248104A9F7A3F32.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
+	quest.1248104A9F7A3F32.quest_desc: ["Iron Jetpacks是一个现代化的喷气背包模组，功能丰富且易于使用。随着喷气背包等级的提高，其性能也会随之提升，线圈是喷气背包制作过程中不可或缺的部分，详见JEI。"]
 	quest.125C064F10CFBF60.quest_desc: [
 		"筛子和锤：能够插入升级，快速地处理大量物品。需要能量（RF）。"
 		""
@@ -617,7 +617,7 @@
 		""
 		"Crafting storages are available in all the standard cell sizes (1k, 4k, 16k, 64k, 256k). They store the ingredients and intermediate ingredients involved in a craft, so larger or more storages are required for the CPU to handle crafting jobs with more ingredients."
 	]
-	quest.1C30D7DF9779DD9C.quest_desc: ["A machine that grinds items like ores into dusts, providing basic ore doubling."]
+	quest.1C30D7DF9779DD9C.quest_desc: ["一台能将矿石等物品碾成粉末的机器，能够实现基础的双倍矿物功能。"]
 	quest.1C3512BA7B488C67.quest_desc: [
 		"Note: Most machines in the Mekanism mod can be upgraded into factories."
 		""
@@ -663,7 +663,7 @@
 	quest.1EE7658030431E1A.quest_subtitle: "Powah"
 	quest.1F40FE21EC2AEF22.quest_desc: ["一把能造成4点伤害的剑。"]
 	quest.1F40FE21EC2AEF22.quest_subtitle: "Minecraft"
-	quest.1F894A409738DBF4.quest_desc: ["This machines is needed to craft more advanced items and machines, such as more complex machine frames."]
+	quest.1F894A409738DBF4.quest_desc: ["这台机器用于制作更高级的物品和机器，比如更复杂的机器框架。"]
 	quest.1F901B2CE53B3F58.quest_desc: [
 		"Ingot of the Skies is a powerful metal infused with divine energy. Offer the gods a spirit of calling along with either an infused iron infot or a tainted gold ingot."
 		""
@@ -686,21 +686,21 @@
 	quest.210F3A7CABB85DC8.quest_desc: ["Right click to instantly harvest leaves, wool, and mushrooms (from mooshrooms). The charge level (V, shift+V) controls the area sheared based on charge."]
 	quest.21460544B92AF9B4.quest_desc: ["Infuses blaze rods to make them provide more power for longer"]
 	quest.216A0851EAD69DCF.quest_desc: [
-		"Take to the skies! Used to craft a wooden jetpack."
+		"翱翔天际！用于制作木喷气背包。"
 		""
-		"Jetpacks make use of Forge Energy to allow the player to fly. Higher tier Jetpacks can have greater speed and energy capacity."
+		"喷气背包消耗FE能量飞行，高等级的喷气背包能够提供更快的速度和更大的电容量。"
 		""
-		"Jetpacks require Forge Energy to function. They can be charged using a charging block from any mod that supports Forge Energy."
+		"喷气背包需要FE能量才能使用，所有支持FE能量的充能方块都可以为其充能。"
 		""
-		"The Jetpack engine can be toggled on and off using a keybinding (default V). When the engine is on you can press the Space Bar to fly."
+		"你可以使用按键开关喷气背包引擎（默认按键为V），引擎开启时按住空格即可飞行。"
 		""
-		"Every Jetpack has a Hover Mode, which allows for more precise movements. Enabling this mode (default keybinding H) will cause your Jetpack to hover in place with varying levels of descent. While hovering your Jetpack will consume power."
+		"所有背包都支持悬浮模式，以实现更加精确的移动，启用该模式（默认按键为H）后喷气背包将悬在空中缓慢下降，期间会持续消耗能量。"
 		""
-		"You can change the speed of your Jetpack using Throttle Controls. This is done using the Throttle Control keybindings (default , and .)."
+		"你可以使用油门控制来改变喷气背包的速度，按下油门控制按键（默认为,和.）即可。"
 		""
-		"Jetpacks can be equipped as an Accessory in the Body slot."
+		"喷气背包可以作为饰品装备在身体槽中。（译者注：其实是装备在背部槽）"
 		""
-		"Note: If the player wears a Jetpack in both the Accessory slot and the Chestplate slot, the Jetpack in the Chestplate slot will take priority."
+		"注：如果玩家同时在饰品槽和胸甲槽装备喷气背包，胸甲槽的喷气背包优先生效。"
 	]
 	quest.216A0851EAD69DCF.quest_subtitle: "Iron Jetpacks"
 	quest.219B7ED265976105.quest_desc: ["Mine nether quartz ore in the nether to obtain."]
@@ -893,7 +893,7 @@
 	]
 	quest.2C50B9ACE82D517F.quest_subtitle: "Spice of Life"
 	quest.2C52AF4EB1C85864.quest_desc: ["使用太阳能（太阳）来产生RF。第二级！"]
-	quest.2C7CB05FD8889BD4.quest_desc: ["Turns lava and lava+redstone into RF."]
+	quest.2C7CB05FD8889BD4.quest_desc: ["将熔岩和熔岩+红石转化为RF。"]
 	quest.2C8B647BDD0F481A.quest_desc: [
 		"&2默认情况下，整合包处于普通模式。&r"
 		""
@@ -1021,15 +1021,15 @@
 		"- Right click the block with a Framed Hammer to remove the camo."
 		"- Right click the block with an empty fluid container to remove a fluid camo."
 	]
-	quest.31D2D1709EB19D54.quest_desc: ["Place in front of animals to generate pink slime."]
+	quest.31D2D1709EB19D54.quest_desc: ["正对动物放置以生成粉红黏液。"]
 	quest.31FC1E10FF6B79D5.quest_desc: ["将距离延长到64格，还能通过信标进一步延长距离（指针指向物品按住Shift查看更多信息）。"]
 	quest.326626C6F888B720.quest_desc: ["To use this mod, one needs to make 2 Recipe Pattern Holders and encode them with an Encoder. "]
 	quest.32664FCADE420D48.quest_desc: [
-		"Addons make industrial foregoing machines better! There are addons for efficiency, range, speed, and more!"
+		"插件能够提高工业先锋机器的性能！这里有各种各样的插件：效率、范围、速度等等！"
 		""
-		"Higher tiers exist, see JEI."
+		"存在更高级的插件，详见JEI。"
 	]
-	quest.32664FCADE420D48.title: "Addons"
+	quest.32664FCADE420D48.title: "插件"
 	quest.3278DE2E493332DC.quest_desc: ["生成无限水！需要放入流体抽屉。"]
 	quest.327E60DEDF8D9876.quest_desc: ["The energized smelter is your basic electric furnace that uses energy instead of fuel to smelt items."]
 	quest.3287EB20CFF4AF31.quest_desc: ["Create, maintain, and generate power from a max size turbine from Mekanism."]
@@ -1143,12 +1143,12 @@
 	quest.375349762EEA75A9.quest_subtitle: "Agritech Evolved"
 	quest.3756A02BEECBD1E3.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.3760B6D798A48C9B.quest_desc: [
-		"A long-time fan favorite, Actually Additions is returning to Minecraft 1.20.4+ with brand-new models and textures and lots of overhauls!"
+		"长期受粉丝喜爱的实用拓展模组重新回归我的世界1.20.4以上版本，还带来了全新的模型、纹理以及大量改进！"
 		""
-		"Use the Atomic Reconstructor and the Empowerer to turn minerals into powerful crystals that allow the creation of useful machines for processing and sorting items, lasers for wirelessly transporting energy, items and fluids, renewable oil to generate power, and much more."
+		"使用原子再构机和充能台将矿物转化为强力的水晶，再制作成各种物品，比如用来加工和分类物品的实用机器，无线传输能量、物品和流体的激光，以及用于发电的可再生原油，等等等等。"
 	]
 	quest.3760B6D798A48C9B.quest_subtitle: "Actually Additions"
-	quest.3760B6D798A48C9B.title: "Actually Additions Manual"
+	quest.3760B6D798A48C9B.title: "实用拓展手册"
 	quest.376C6AD36CE3F09E.quest_desc: ["The starting point for crafting Angel Rings! Who doesn't love Creative flight?"]
 	quest.376C6AD36CE3F09E.quest_subtitle: "Angel Ring"
 	quest.37B82D083578AAE3.quest_desc: [
@@ -1258,7 +1258,7 @@
 		""
 		"Training a Data Model can be done in one of two ways, with a Deep Learner or with a Simulation Chamber. The deep learner allows you to store a few data models within, and kills you receive will begin to train the model. All models start out in the Faulty state, and must be trained up to Basic in the deep learner."
 	]
-	quest.3DAA865F15382848.quest_desc: ["Created using the latex processing unit. Smelt to make plastic."]
+	quest.3DAA865F15382848.quest_desc: ["使用胶乳加工机制造，熔炼以获得塑料片。"]
 	quest.3DCC9A603A17DAB3.quest_desc: ["An upgraded furnace with a base cook time of 40"]
 	quest.3E0C3A64AC5CD7AC.quest_desc: [
 		"To use framed blocks:"
@@ -1287,7 +1287,7 @@
 	quest.3EB30F879AB9402A.quest_desc: ["Use as a fertilizer in advanced planters!"]
 	quest.3EC6F6C5228BAD28.quest_desc: ["Combines the functions of a pickaxe, shovel, and sword with immense mining speed and attack power"]
 	quest.3ED9992DD5070D51.quest_desc: ["农夫乐事模组能够让你使用一套便捷的烹饪系统和熟悉的食材烹制各种各样的美味佳肴——从三明治到沙拉炖菜，从精美的甜点到令人垂涎的盛宴，没有什么是做不出来的！"]
-	quest.3ED9992DD5070D51.quest_subtitle: "农夫乐事"
+	quest.3ED9992DD5070D51.quest_subtitle: "Farmer's Delight"
 	quest.3EDA781E026296F3.quest_desc: ["This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."]
 	quest.3F171C175D462267.quest_desc: [
 		"筛子：自动筛矿！和普通筛子共用筛网。筛网可以附魔时运和效率。需要更多铁吗？试试筛粉碎深板岩。需要能量（RF）。"
@@ -1304,7 +1304,7 @@
 		"- Completely free of hostile mobs."
 		"- Always daytime."
 	]
-	quest.3F8BD6F64BECC35C.quest_desc: ["Pump in latex to start making rubber."]
+	quest.3F8BD6F64BECC35C.quest_desc: ["输入胶乳，制造橡胶。"]
 	quest.3F8D587A704CE81C.quest_desc: ["Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."]
 	quest.3F8D587A704CE81C.title: "Magical Medallions"
 	quest.3F9634C76705A187.quest_desc: ["Faster movement, slow falling, and immunity to fall damage. Fly without spending EMC like [Ring of Arcana] (double space). Short flight boosts (hold space). Step assist to scale elevation without jumping (X)."]
@@ -1480,11 +1480,11 @@
 		""
 		"It can be automated using a ME Formation Plane and ME Annihilation Plane."
 	]
-	quest.44B1489E34B8C8BB.quest_desc: ["This higher-tier coil is required for more advanced machines and energy devices."]
+	quest.44B1489E34B8C8BB.quest_desc: ["这种更高级的线圈用于制作更高级的机器和储能设备。"]
 	quest.44CC1D3469523E4A.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.44D504D72D362C72.quest_desc: ["Holds double the cells than the standard drive."]
 	quest.44D504D72D362C72.quest_subtitle: "ExtendedAE"
-	quest.44EFADD7178AAE20.quest_desc: ["This crafting component is a low-tier coil used in early-game machine and tool recipes."]
+	quest.44EFADD7178AAE20.quest_desc: ["这是一种低级线圈，前期机器和工具配方的合成组件。"]
 	quest.451E4F4A7AC324BF.quest_desc: ["Hold shift key when hovering over the item to see stats."]
 	quest.454B473F16B73356.quest_desc: ["每次升级都会增加存储空间以及升级槽位。"]
 	quest.4579E77C572486C8.quest_desc: ["An upgraded furnace with a base cook time of 80"]
@@ -1569,7 +1569,7 @@
 		""
 		"Harvests the normal shovel blocks extremely quickly."
 	]
-	quest.48CD3B49D43B3D19.quest_desc: ["Turns anything you can use to smelt in a vanilla furnace (ie coal, wood) into RF."]
+	quest.48CD3B49D43B3D19.quest_desc: ["将所有能在原版熔炉中燃烧的燃料（如煤炭，木材等）转化为RF。"]
 	quest.493759F763F02B39.quest_desc: ["拥有同样的流体存储总量，但能容纳两种不同流体！"]
 	quest.493B8A2BD7F69B45.quest_desc: ["Hold shift key when hovering over the items to see stats."]
 	quest.493B8A2BD7F69B45.title: "Mk2"
@@ -1626,8 +1626,8 @@
 		"This block generator has a speed of 2"
 	]
 	quest.4C034DCEC02656A2.quest_desc: ["A Fiery Ingot is an item crafted from one Iron Ingot and one vial of either Fiery Blood or Fiery Tears. Fiery Ingots contain a magical property that causes items crafted using the ingots to acquire fiery properties."]
-	quest.4C0BCC84EA19B14A.quest_desc: ["Click on a mob to capture it. Gotta catch them all!"]
-	quest.4C1AA8D6EF212081.quest_desc: ["Smelt dry rubber to make plastic."]
+	quest.4C0BCC84EA19B14A.quest_desc: ["右击生物即可捕捉，把他们全都抓起来！"]
+	quest.4C1AA8D6EF212081.quest_desc: ["熔炼干橡胶以制成塑料片。"]
 	quest.4C6B18C8D270A43E.quest_desc: [
 		"XNet is an item, fluid, energy, and information transportation mod that is all about efficiency. The cable system is designed in such way that you should be able to make huge cable systems without any overhead. Cables (for example) are not tile entities and have very simply models. This makes transporting items accross a cable of 12000 blocks long just as efficient as doing it on a 5 block long cable."
 		""
@@ -1688,10 +1688,10 @@
 		""
 		"友好生物可以在草方块上生成，但前提是与草方块保持好一定距离。在生物生成上遇到了麻烦？在JEI中搜索\"Haven Animal Seeds\"。"
 	]
-	quest.4D2DA470DCB74326.quest_desc: ["Place in front of a tree or log to generate latex."]
+	quest.4D2DA470DCB74326.quest_desc: ["正对树或原木放置以生成胶乳。"]
 	quest.4D462F76B3844D3D.quest_desc: ["The Precision Sawmill is used for reclaiming wood from wooden items and turn logs into planks with a better yield (6 planks per log). Also makes sawdust for use in making Cardboard Boxes."]
-	quest.4D4F4BAEA27DC456.quest_desc: ["Crafted using the Empowerer. See JEI."]
-	quest.4D4F4BAEA27DC456.title: "Empowered Crystals"
+	quest.4D4F4BAEA27DC456.quest_desc: ["使用充能台制作，详见JEI。"]
+	quest.4D4F4BAEA27DC456.title: "充能水晶"
 	quest.4D530984E49A599C.quest_desc: ["A high-tier crafting component infused with RF energy."]
 	quest.4DB6A9B473DD4107.quest_desc: ["Made of 10,000 gold ingots"]
 	quest.4DBA4D50A7627DA4.quest_desc: [
@@ -1796,7 +1796,7 @@
 		""
 		"They can be grown in the ground, as well as in the Garden Cloche, Planter, or Farmer with the correct soil."
 	]
-	quest.5267E7C6F511B44B.quest_desc: ["Casings are both decorative and functional blocks used to craft and build various machines and devices within the mod."]
+	quest.5267E7C6F511B44B.quest_desc: ["外壳既可以作为装饰也可以用来制作模组内的各种机器和设备。"]
 	quest.526E95BD71FA713C.quest_desc: ["About 35.6 million metric tons"]
 	quest.52914F9E85778478.quest_desc: ["用于混合多种液体和固体。"]
 	quest.52914F9E85778478.title: "再处理器组件"
@@ -1853,7 +1853,7 @@
 		""
 		"Generation Rate: 20.0 AE/t"
 	]
-	quest.5476B23B4B60A670.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
+	quest.5476B23B4B60A670.quest_desc: ["Iron Jetpacks是一个现代化的喷气背包模组，功能丰富且易于使用。随着喷气背包等级的提高，其性能也会随之提升，线圈是喷气背包制作过程中不可或缺的部分，详见JEI。"]
 	quest.5478FE88578437EC.quest_desc: ["使用太阳能（太阳）来产生RF。第三级！"]
 	quest.5485AE6A649AC6BC.quest_desc: [
 		"A vat for alchemical fermentation, required for transmutation."
@@ -1901,7 +1901,7 @@
 		"试试锤击原木来获取木屑——一种极好的堆肥！"
 	]
 	quest.5675512404BF2759.quest_desc: ["三个槽的压缩抽屉。"]
-	quest.56772ECF0B3C75CE.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI. Requires pink slime, obtained from the mob slaughter factory."]
+	quest.56772ECF0B3C75CE.quest_desc: ["这个升级版的机器框架由化学溶解室制作而来，详见JEI。制作所需的粉红黏液可以从生物屠宰厂获取。"]
 	quest.567E3DB67F4F025C.quest_desc: ["煮熟的食物营养价值更高！"]
 	quest.567E3DB67F4F025C.quest_subtitle: "Cooked Foods, Minecraft"
 	quest.567E3DB67F4F025C.title: "熟食"
@@ -1926,7 +1926,7 @@
 	quest.573FB7A2379800A5.quest_subtitle: "Mystical Agriculture"
 	quest.57C920272A14206C.quest_desc: ["Make your life easier by getting Awakened Draconium from seeds!"]
 	quest.57C920272A14206C.quest_subtitle: "Mystical Agriculture"
-	quest.5818B49C16BB6B8F.quest_desc: ["This wearable item accelerates the growth of nearby crops when powered."]
+	quest.5818B49C16BB6B8F.quest_desc: ["这个可穿戴物品会消耗能量，加速附近农作物生长。"]
 	quest.5844BCF0147A9BB5.quest_desc: ["存储食物和烹饪用具的好地方！"]
 	quest.584678F8D7970634.quest_desc: ["多方块结构组件，用于存储镕铸炉熔炼材料所需的熔岩。"]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
@@ -2069,7 +2069,7 @@
 		""
 		"Also used to bind wireless terminals."
 	]
-	quest.5F0F1FFB4160C1C0.quest_desc: ["This machine extracts oil from canola seeds to be used as fuel or in energy systems."]
+	quest.5F0F1FFB4160C1C0.quest_desc: ["这台机器可以从油菜中榨油，用作燃料或用于能量系统。"]
 	quest.5F20B63527ED0622.quest_desc: ["Tier 2. The only armor pieces in Draconic Evolution for 1.21.1 are the chestplates. Modules are needed to make it function, see JEI."]
 	quest.5F4DAFEDC43C0964.quest_desc: [
 		"用钩子钩树叶可以获取树苗和蚕（注：蚕的掉率为1%）。存在更高级的镐子，详见JEI！"
@@ -2105,7 +2105,7 @@
 		"- 3x3"
 		"- 5x5"
 	]
-	quest.5FDEB6FE1138399C.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
+	quest.5FDEB6FE1138399C.quest_desc: ["Iron Jetpacks是一个现代化的喷气背包模组，功能丰富且易于使用。随着喷气背包等级的提高，其性能也会随之提升，线圈是喷气背包制作过程中不可或缺的部分，详见JEI。"]
 	quest.5FDED117D1ADCE5A.quest_desc: ["多方块机器，用于将水果蔬菜等有机物加工成乙醇，作为燃料或合成材料使用。"]
 	quest.5FDED117D1ADCE5A.title: "工业发酵机"
 	quest.601B16ADC17DCC07.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies phantoms, piglins, and endermen."]
@@ -2168,7 +2168,7 @@
 	quest.6276DB533F7033DB.quest_desc: ["合成材料和能量存储物品，用于建造和升级发电机、能量单元以及其他能量相关的设备。"]
 	quest.62896E7E2DBD777F.quest_desc: ["A powerful crafting ingredient used for high tier and endgame items"]
 	quest.6289D3973C5F61B3.quest_desc: ["Connect a drawer with the max storage upgrade to your applied energistics system and fill it up with cobblestone."]
-	quest.6299CB158A777246.quest_desc: ["Consumes nearby leaves and turns them into power."]
+	quest.6299CB158A777246.quest_desc: ["破坏附近的树叶，并将其转化为能量。"]
 	quest.62C53D877A059585.quest_desc: ["All fluids piped into here will be voided."]
 	quest.62D5202491593442.quest_desc: [
 		"用木桶收集雨水，或者将树苗或树叶放进木坩埚内，可以生成水。"
@@ -2184,7 +2184,7 @@
 		""
 		"升级是一种能够对管道进行增强的物品，可以提升管道的传输速度、效率，或是加入新的功能，例如过滤和堆叠。"
 	]
-	quest.634E83DDF2911DFD.quest_desc: ["Casings are both decorative and functional blocks used to craft and build various machines and devices within the mod."]
+	quest.634E83DDF2911DFD.quest_desc: ["外壳既可以作为装饰也可以用来制作模组内的各种机器和设备。"]
 	quest.6353A39C04EF7F7D.quest_desc: ["A card used to control which items, fluids, or energies are allowed to pass through a Laser Node connection."]
 	quest.63588316070C73FD.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.639103C33226046A.quest_desc: ["刀也经常用来在备菜时切割并分份食材。"]
@@ -2209,7 +2209,7 @@
 	quest.641393B3F9C6B8FF.title: "Conduits - Filters"
 	quest.6451FD7185BFE271.quest_desc: ["Tier 3. The only armor pieces in Draconic Evolution for 1.21.1 are the chestplates. Modules are needed to make it function, see JEI."]
 	quest.64A4DB89F0523BDF.quest_desc: ["农夫乐事模组能够让你使用一套便捷的烹饪系统和熟悉的食材烹制各种各样的美味佳肴——从三明治到沙拉炖菜，从精美的甜点到令人垂涎的盛宴，没有什么是做不出来的！"]
-	quest.64A4DB89F0523BDF.quest_subtitle: "农夫乐事"
+	quest.64A4DB89F0523BDF.quest_subtitle: "Farmer's Delight"
 	quest.64C55F0D348097E7.quest_desc: [
 		"A rudimentary, yet effective way of collecting aura early on is the Natural Altar$. After creating the multiblock setup shown in the guidebook, the altar will start slowly draining aura in the vicinity. However, it is not strong enough to cause major damage, making it only drain until there is none left in the area. The collected aura can then be used in recipes, see JEI."
 		""
@@ -2269,8 +2269,8 @@
 	]
 	quest.6857B9C8DAC7D126.title: "More Tokens"
 	quest.68A17A4E8C8EA5D9.quest_desc: ["A lilypad that makes nearby crops grow faster and that can be put side by side with other lilypads for even greated effect"]
-	quest.68AD773B1A241E01.quest_desc: ["Crafted using the Atomic Reconstructor. See JEI."]
-	quest.68AD773B1A241E01.title: "Crystals"
+	quest.68AD773B1A241E01.quest_desc: ["使用原子再构机制作，详见JEI。"]
+	quest.68AD773B1A241E01.title: "水晶"
 	quest.68B8F9FF9F45348B.quest_desc: ["The fury of the universe in the palm of your hand."]
 	quest.68C53139E1D36746.quest_desc: ["Grants infinite souls from all creatures."]
 	quest.68D850868C481078.quest_desc: ["升级版电子元件。在专家模式中制作复杂机械和搭建电力系统的必要组件。但在普通模式，它只用于合成化学溶解室和一些沉浸工程后期的器件。"]
@@ -2328,7 +2328,7 @@
 	quest.6A3BC809F00251A2.quest_desc: ["A powerful sword in it's own right by charging it and using activating it (C) the Red Matter Sword will consume EMC in exchange for a devastating sweep attack. The area of the attack is controlled by charge level (V, shift+V)."]
 	quest.6A3D025A3018689B.quest_desc: ["Made of 10,000 electrum ingots"]
 	quest.6A7C4E246A8EE29C.quest_desc: ["Generates loot from neural networks data models."]
-	quest.6A82289C0937E69B.quest_desc: ["An upgraded version that processes two items at once for faster resource production."]
+	quest.6A82289C0937E69B.quest_desc: ["升级版的磨粉机，可以同时处理两个物品，以获得更快的生产速度。"]
 	quest.6AFF4DCE31DDCD21.quest_desc: ["手持工具右击控制器以开始配置，然后右击范围内（默认8格）的普通/压缩/末影抽屉，即可将其链接到你的控制器上。"]
 	quest.6B205B114E270C9F.quest_desc: [
 		"Creative Essense is the base material for all creative items."
@@ -2347,7 +2347,7 @@
 	]
 	quest.6BC5D6D133C3F0A0.quest_desc: ["Upgrades for Ex Machinis machines. Hold shift while hovering over the upgrade to see its effects."]
 	quest.6BCDDE81CC8A2A67.quest_desc: ["Made up of 729 cobblestone!"]
-	quest.6C1BC64337960BA4.quest_desc: ["Machine frames are needed to make all Industrial Foregoing (and some other) machines."]
+	quest.6C1BC64337960BA4.quest_desc: ["所有工业先锋模组（和某些其他模组）的机器都需要机器框架来制作。"]
 	quest.6C1D7C9A68FBB65D.quest_desc: ["A creative-tier upgrade that provides infinite access to the stored item in a drawer without consuming the original stack."]
 	quest.6C647123A99A46DD.quest_desc: ["This block generator has a speed of 8"]
 	quest.6C682E372AB94474.quest_desc: ["Max Blocks: 27"]
@@ -2386,10 +2386,10 @@
 	quest.6D73B59E96D6C032.quest_desc: ["杀一头猪并烹饪其肉即可获得牛排。"]
 	quest.6D73B59E96D6C032.quest_subtitle: "Minecraft"
 	quest.6DA1F71A6E40CF8B.quest_desc: ["农夫乐事模组能够让你使用一套便捷的烹饪系统和熟悉的食材烹制各种各样的美味佳肴——从三明治到沙拉炖菜，从精美的甜点到令人垂涎的盛宴，没有什么是做不出来的！"]
-	quest.6DB5CEA763B4C3F6.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI."]
+	quest.6DB5CEA763B4C3F6.quest_desc: ["这个升级版的机器框架由化学溶解室制作而来，详见JEI。"]
 	quest.6E03872B3136B79B.quest_desc: ["沉浸工程多方块机器，以3x3x3形式搭建，并在顶部放置漏斗，手持工程师锤右击中心即可形成多方块结构。用法和高炉一样，但性能更好！详情查阅工程师手册和JEI。"]
 	quest.6E03872B3136B79B.title: "改良高炉"
-	quest.6E0D7B1A597E170E.quest_desc: ["Burns canola oil and turns it into power."]
+	quest.6E0D7B1A597E170E.quest_desc: ["燃烧菜籽油并将其转化为能量。"]
 	quest.6E485E15CB87CDC2.quest_desc: ["Made up of 6561 cobblestone!"]
 	quest.6EC8C1F16B88307A.quest_desc: ["Klein Star Omega holds up to 51,200,000 EMC and is also used in the crafting of top-tier EMC seeds."]
 	quest.6EC90676B0EEB012.quest_desc: ["A rare gem, found only via mining in the sky islands of the Aether."]
@@ -2421,7 +2421,7 @@
 	]
 	quest.701D82D7BB8B6812.quest_subtitle: "Immersive Engineering"
 	quest.707FCC07A558D9C6.quest_desc: ["利用相邻方块的温差（例如冰和熔岩）被动发电。"]
-	quest.709AE9E272CD7894.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI.. Requires Ether Gas, harvested from a wither using a fluid laser."]
+	quest.709AE9E272CD7894.quest_desc: ["这个升级版的机器框架由化学溶解室制作而来，详见JEI。制作所需的以太气体可以通过流体镭射钻从凋灵身上采集。"]
 	quest.70A8E4AE5CBA60D7.quest_desc: [
 		"To use framed blocks:"
 		""
@@ -2479,7 +2479,7 @@
 		""
 		"Level: 5"
 	]
-	quest.727C435CCD8998A1.quest_desc: ["Use the Atomic Reconstructor to turn minerals into powerful crystals that allow the creation of useful machines for processing and sorting items, lasers for wirelessly transporting energy, items and fluids, renewable oil to generate power, and much more."]
+	quest.727C435CCD8998A1.quest_desc: ["使用原子再构机将矿物转化为强力的水晶，再制作成各种物品，比如用来加工和分类物品的实用机器，无线传输能量、物品和流体的激光，以及用于发电的可再生原油，等等等等。"]
 	quest.7284146C05F63CB7.quest_desc: ["The Quantum Entangloporter from Mekanism is a machine that allows liquids/items/energy/gas to be sent from one Quantum Entangloporter to another through a channel."]
 	quest.7284146C05F63CB7.quest_subtitle: "Mekanism"
 	quest.72A28DEFA6AC4A0F.quest_desc: ["This machine serves two functions. Firstly, any item placed into its inventory will be converted into EMC. Secondly, it transfers energy from Energy Collectors to Energy Condensers. When transferring, it gives a small, 1 EMC per second bonus. It is also used to charge the Klein Star series with EMC. "]
@@ -2509,7 +2509,7 @@
 	quest.737DDA1BE324E0ED.quest_desc: ["This block generator has a speed of 4"]
 	quest.737F70A6CF790A64.quest_desc: ["A simple generator from coal or charcoal"]
 	quest.737F70A6CF790A64.quest_subtitle: "RF Tools"
-	quest.738F83FF42EC9E08.quest_desc: ["Generates power from coal and other burnable materials."]
+	quest.738F83FF42EC9E08.quest_desc: ["通过燃烧煤炭或其他可燃材料产生能量。"]
 	quest.7398BF7730A7D6FF.quest_desc: ["使用充能台制作，用于制作无线能源传输相关物品，详见JEI。"]
 	quest.739E1E96A6CE1DE8.quest_desc: ["右击加压！"]
 	quest.73EFC7030BF6A7DE.quest_desc: ["在压力室中用塑料片制作。"]
@@ -2565,7 +2565,7 @@
 	quest.75EAFCA3CA9A12BB.title: "Torcherino"
 	quest.76110B292750ABFA.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
 	quest.7613DCA157D6F599.quest_desc: ["Functions like a regular Laser Connector but supports faster transfer speeds and longer connection ranges."]
-	quest.761C779A9A7EB48B.quest_desc: ["Turns nether stars into RF."]
+	quest.761C779A9A7EB48B.quest_desc: ["将下界之星转化为RF。"]
 	quest.76685F7238F1FDAA.quest_desc: ["Fill an experience obelisk with 2000 levels worth of experience."]
 	quest.7669D1D2ADABBC61.quest_desc: ["Energy cubes can be used to hold large amounts of RF. The higher the tier, the more RF can be stored. Tier 2!"]
 	quest.7690DEBD9A96EAF3.quest_desc: ["Found via mining in the Aether."]
@@ -2598,7 +2598,7 @@
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
-	quest.783995D4473F8F16.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
+	quest.783995D4473F8F16.quest_desc: ["Iron Jetpacks是一个现代化的喷气背包模组，功能丰富且易于使用。随着喷气背包等级的提高，其性能也会随之提升，线圈是喷气背包制作过程中不可或缺的部分，详见JEI。"]
 	quest.78551C2B291A2FF4.quest_desc: [
 		"Right click to instantly mines blocks based on the charge level (V, shift+V)."
 		""
@@ -2610,7 +2610,7 @@
 		"Does not mine dirt or gravel. It's also a powerful weapon and can be used as a tool to mine a single block at a time."
 	]
 	quest.7865E729501709AB.quest_desc: ["This is the most expensive ingot in the game. Please don't drop it into the void."]
-	quest.7876E8455AEF262E.quest_desc: ["Use the Empowerer to turn minerals into powerful crystals that allow the creation of useful machines for processing and sorting items, lasers for wirelessly transporting energy, items and fluids, renewable oil to generate power, and much more."]
+	quest.7876E8455AEF262E.quest_desc: ["使用充能台将矿物转化为强力的水晶，再制作成各种物品，比如用来加工和分类物品的实用机器，无线传输能量、物品和流体的激光，以及用于发电的可再生原油，等等等等。"]
 	quest.78894BE946EAEC1A.quest_desc: ["使用晶质铀矿、红石、煤炭、水和干冰来产生RF。"]
 	quest.78A26490832112B9.quest_desc: ["Generate a timed redstone pulse unless a pulse is received in the meantime"]
 	quest.78FD281689257180.quest_desc: [
@@ -2651,9 +2651,9 @@
 	quest.7BBDF9B27538EBBF.quest_desc: ["能够吸取物品和经验球，还可以将它们分别输送进箱子和储罐里！"]
 	quest.7BBDF9B27538EBBF.quest_subtitle: "Mob Grinding Utils"
 	quest.7BE09731E15491FC.quest_desc: [
-		"Industrial Foregoing is a comprehensive, industrial automation mod designed to streamline and improve your in-game production systems! Inspired by the classic MineFactory Reloaded, it brings modern, tech-driven machinery and tools to Minecraft, allowing players to create intricate automated systems for farming, processing resources, animal care, and more."
+		"工业先锋是一个全面的自动化工业模组，专门用于精简你的产线！该模组受到经典模组“我的工厂重置版”启发，为我的世界带来了现代化的，科技驱动的机器与工具，让玩家能够建设精密的自动化系统，种植作物，加工资源，养育动物等。"
 		""
-		"With a wide array of industrial machines and utilities, you can automate almost every task in Minecraft. From resource gathering and processing to farming and mob management, Industrial Foregoing offers machines for efficiency and innovation."
+		"有了该模组提供的各种各样的工业机器和实用设备，你几乎可以自动化完成我的世界中的所有任务。从资源采集加工到农业种植和畜牧管理，工业先锋都提供了高效而创新的机器。"
 	]
 	quest.7BE09731E15491FC.quest_subtitle: "Industrial Foregoing"
 	quest.7BF4DBAFDA24E9D8.quest_desc: ["使用充能台制作，用于富生等级的Powah物品合成配方。"]
