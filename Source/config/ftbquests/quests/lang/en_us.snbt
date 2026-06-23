@@ -28,12 +28,8 @@
 	quest.00A306AED17F4112.quest_desc: ["All the stars in one convenient item"]
 	quest.00C0AA4EA85737DA.quest_desc: ["Special apples that give different buffs! Hold shift while hovering over the apple to see its effects."]
 	quest.00C42B07AAD68884.quest_desc: ["Essence Armor pieces are higher tier armor that can be upgraded using Augments."]
-	quest.00D9318B5F7FDE7F.quest_desc: [
-		"Ytones is the ultimate toolkit for builders who like their blocks sleek, futuristic, and endlessly versatile. With dozens of stone-like block sets — each featuring 16 stylish variations — you'll never run out of ways to spice up your builds. Whether you're designing a sci-fi lab, a modern metropolis, or just want something cooler than cobblestone, this mod has you covered."
-		""
-		"Craft the base blocks using a key ingredient, then use the stonecutter to access all variations — or even better, cycle them on the fly right in your hotbar! Just use two keys (G and H by default) to cycle through styles, hold Alt and scroll (fully configurable), or tap the hotbar key again (1–9) to swap instantly. No menus, no mess — just building flow."
-	]
-	quest.00D9318B5F7FDE7F.quest_subtitle: "Ytones"
+	quest.00D9318B5F7FDE7F.quest_desc: ["A decorative mod that adds modern, industrial, fantasy, and futuristic block sets, with expanded variants and refined designs for creative building. Built on the foundation of Ztones, it introduces new blocks, reworked textures, and fresh design sets, along with tools and new features to enhance building experience."]
+	quest.00D9318B5F7FDE7F.quest_subtitle: "BetterBlockZ"
 	quest.00F6C5FCDC744A0D.quest_desc: ["Made out of one of every singularity"]
 	quest.0131425E80E90FDE.quest_desc: ["Casings are both decorative and functional blocks used to craft and build various machines and devices within the mod."]
 	quest.0169FD8AF8F2DDA4.quest_desc: ["Uses lava to generate RF."]
