@@ -4,7 +4,7 @@
 
 | CurseForge     | 加载器     | 整合包版本         | 汉化维护状态 |
 | :------------- | :--------- | :----------------- | :----------- |
-| [链接](https://www.curseforge.com/minecraft/modpacks/ozone-skyblock-reborn-2) | NeoForge | 1.21.1 1.5.4 | 翻译中       |
+| [链接](https://www.curseforge.com/minecraft/modpacks/ozone-skyblock-reborn-2) | NeoForge | 1.21.1 1.5.5 | 翻译中       |
 
 ### 📌 汉化相关
 
