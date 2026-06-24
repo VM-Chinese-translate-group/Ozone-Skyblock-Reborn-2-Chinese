@@ -1140,8 +1140,8 @@
 			]
 			size: 1.25d
 			tasks: [{
-				id: "1FAA8B31BAF83AC9"
-				item: { count: 1, id: "ytones:ytone" }
+				id: "2532A6B1C86D7429"
+				item: { count: 1, id: "betterblockz:blockz_core" }
 				type: "item"
 			}]
 			x: -0.5d
