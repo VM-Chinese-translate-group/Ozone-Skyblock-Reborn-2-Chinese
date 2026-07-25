@@ -1494,7 +1494,7 @@
 	quest.45887881B110D056.quest_desc: [
 		"The compressed sieve can be used to sift compressed blocks - nine blocks in one!"
 		""
-		"You can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square). The difference between regular sieves and compressed sieves is that you need to fill each compressed sieve one-by-one and them you can sift them all at once."
+		"Just like the regular sieve, you can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square)."
 	]
 	quest.45A5707D025CD692.quest_desc: [
 		"The Diamond Apple grants the following potion effects:"
@@ -1549,7 +1549,13 @@
 		""
 		"You should have one of these in addition to a crafting terminal."
 	]
-	quest.47DAE272EE988E65.quest_desc: ["Knightmetal Ingot is an item obtained from smelting Armor Shard Clusters."]
+	quest.47DAE272EE988E65.quest_desc: [
+		"Knightmetal Ingot is an item obtained from smelting Armor Shard Clusters."
+		""
+		"Armor shard clusters can be obtained from Helmet Crabs and Goblins."
+		""
+		"Or, use an Arc Furnace to break apart armor from the Knight Phantoms."
+	]
 	quest.480E83DD55448590.quest_desc: ["Energy storage item that holds and transfers RF"]
 	quest.483DA3FB8D65ED2F.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Netherite Stick\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"75AD65B7786D4698\" } }, \" to unlock.\" ]"]
 	quest.483DA3FB8D65ED2F.quest_subtitle: "15 Coins"
@@ -2052,6 +2058,8 @@
 		"Note: Stellaris is still on development, so things may change and there may be bugs! Don't leave anything valuable behind when you leave space - it might be destroyed by a meteor :)"
 		""
 		"&4Known bug: Opening any GUI while in a rocket will make it so that you are unable to land on any planet. If this happens, you will need to somehow die or use commands \"/skyblock spawn\" or \"/skyblock home\" to get back to your island. This has been reported to the mod dev.&r"
+		""
+		"Stellaris has many issues - the plan for the future is to replace it with Ad Astra once that mod is released for 1.21.1"
 	]
 	quest.5DF4D12AFAF3972E.quest_subtitle: "Stellaris"
 	quest.5E2AD42305DE2B60.quest_desc: ["In strong lighting, or if placed in the nether, it will generate a passive 40 EMC per second up to a maximum of 60,000 EMC. When placed adjacent to a Energy Condenser MK1, Energy Condenser MK2, Energy Condenser MK3, Anti-Matter Relay MK1, Anti-Matter Relay MK2, or Anti-Matter Relay MK3, it will transfer the EMC into that machine. "]
@@ -2258,7 +2266,7 @@
 	quest.672B673A2F199A90.quest_desc: ["All Rotspawn drop utheric shards when killed."]
 	quest.67684E03885EB857.quest_desc: ["These blocks can all be processed through the compressed sieve to generate resources."]
 	quest.67684E03885EB857.title: "Compressed Sieving"
-	quest.678ACA1FAD9052E4.quest_desc: ["Generates power from radioactive materials."]
+	quest.678ACA1FAD9052E4.quest_desc: ["Generates power from radioactive materials - Plutonium, Neptunium, or Corronium Ingots."]
 	quest.67A73C10038C9156.quest_desc: ["Uses solar power (sun) to generate RF. Tier 7!"]
 	quest.67E4375F1DD59AA0.quest_desc: ["Faster conduits!"]
 	quest.67E4375F1DD59AA0.title: "Conduits - Tier 2"
@@ -2508,7 +2516,13 @@
 		""
 		"Tier 6 seeds require insanium essence to craft and a corresponding crux in order to grow."
 	]
-	quest.736D8DE746E2BC8D.quest_desc: ["Use in an infuser to craft or infuse various items."]
+	quest.736D8DE746E2BC8D.quest_desc: [
+		"Use inside of an infuser to craft or infuse various items. Can also be eaten to cure you from the sickness."
+		""
+		"Found beneath the dreadrock at the bottom of the Undergarden. A Forgotten Pickaxe is required to break dreadrock."
+		""
+		"Be careful, the longer you stay under the dreadrock, the sicker you will get."
+	]
 	quest.737DDA1BE324E0ED.quest_desc: ["This block generator has a speed of 4"]
 	quest.737F70A6CF790A64.quest_desc: ["A simple generator from coal or charcoal"]
 	quest.737F70A6CF790A64.quest_subtitle: "RF Tools"
@@ -2716,7 +2730,7 @@
 		""
 		"It is a shapeless multiblock; putting a Basic Capacitor Bank next to another Basic Capacitor Bank will combine their energy storage."
 	]
-	quest.7F1466B397B51F04.quest_desc: ["Combine Rogdorium and Utheric Shards in an Infuser to obtain Utherium Crystals."]
+	quest.7F1466B397B51F04.quest_desc: ["Combine Rogdorium (or colorful gems) and Utheric Shards in an Infuser to obtain Utherium Crystals."]
 	quest.7F147A591795B284.quest_desc: [
 		"The finity of aura in the world can be troubling to think about, because once it is drained, it seems like it is not restorable. That, however, is not the case: there are many ways to regenerate aura. See the guidebook for instructions."
 		""
