@@ -50,6 +50,24 @@
 		{
 			dependencies: ["6EC90676B0EEB012"]
 			id: "4452E64D7145CFE3"
+			rewards: [
+				{
+					id: "0ABDD3A52FBC8227"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "3E339CEF4C749984"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				id: "3A46454024125DA8"
