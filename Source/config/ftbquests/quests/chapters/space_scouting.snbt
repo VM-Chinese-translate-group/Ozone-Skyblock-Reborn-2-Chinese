@@ -4,29 +4,18 @@
 	filename: "space_scouting"
 	group: ""
 	icon: {
-		id: "stellaris:rocket_station"
+		id: "ad_astra:nasa_workbench"
 	}
 	id: "5852C8EAABD22796"
-	images: [
-		{
-			click: "https://st0x0ef.github.io/stellaris/wiki/resources.html"
-			height: 1.0d
-			hover: ["Click for Wiki"]
-			image: "jei:textures/jei/atlas/gui/icons/info.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.5d
-			y: -3.5d
-		}
-		{
-			height: 1.5d
-			image: "kubejs:textures/ftblogo.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: 2.5d
-			y: -2.5d
-		}
-	]
+	images: [{
+		height: 1.5d
+		id: "648ABD80B8FD9E6C"
+		image: "kubejs:textures/ftblogo.png"
+		rotation: 0.0d
+		width: 3.0d
+		x: 1.5d
+		y: -3.5d
+	}]
 	order_index: 14
 	quest_links: [ ]
 	quests: [
@@ -52,11 +41,18 @@
 				}
 			]
 			size: 1.25d
-			tasks: [{
-				id: "79BA5F44CEA104F6"
-				item: { count: 1, id: "stellaris:rocket_station" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "79BA5F44CEA104F6"
+					item: { count: 1, id: "ad_astra:nasa_workbench" }
+					type: "item"
+				}
+				{
+					id: "7F56CD9191E01845"
+					item: { components: { "patchouli:book": "ad_astra:astrodux" }, count: 1, id: "patchouli:guide_book" }
+					type: "item"
+				}
+			]
 			x: -8.0d
 			y: -1.5d
 		}
@@ -83,14 +79,14 @@
 			]
 			tasks: [{
 				id: "650FF932A8F19F2A"
-				item: { count: 1, id: "stellaris:rocket" }
+				item: { count: 1, id: "ad_astra:tier_1_rocket" }
 				type: "item"
 			}]
 			x: -6.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["1B146007CA8A3052"]
+			dependencies: ["5C968DA6DEDB805A"]
 			id: "74353DACE7BECFB0"
 			rewards: [
 				{
@@ -112,11 +108,11 @@
 			]
 			tasks: [{
 				id: "04345E2C5F5DBE43"
-				item: { count: 1, id: "stellaris:desh_ingot" }
+				item: { count: 1, id: "ad_astra:desh_ingot" }
 				type: "item"
 			}]
 			x: -4.5d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1B146007CA8A3052"]
@@ -140,16 +136,15 @@
 				}
 			]
 			tasks: [{
-				count: 9L
 				id: "5F1EB74D128229B6"
-				item: { count: 1, id: "stellaris:rocket_launch_pad" }
+				item: { count: 1, id: "ad_astra:launch_pad" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -4.5d
 			y: 2.0d
 		}
 		{
-			dependencies: ["74353DACE7BECFB0"]
+			dependencies: ["1B146007CA8A3052"]
 			id: "2FF30E29BD7550D5"
 			rewards: [
 				{
@@ -171,11 +166,11 @@
 			]
 			tasks: [{
 				id: "6F34C7863715867C"
-				item: { count: 1, id: "stellaris:tiny_rocket_upgrade" }
+				item: { count: 1, id: "ad_astra:tier_2_rocket" }
 				type: "item"
 			}]
 			x: -3.0d
-			y: 0.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2FF30E29BD7550D5"]
@@ -200,11 +195,11 @@
 			]
 			tasks: [{
 				id: "5DEB16FB309B4126"
-				item: { count: 1, id: "stellaris:small_rocket_upgrade" }
+				item: { count: 1, id: "ad_astra:tier_3_rocket" }
 				type: "item"
 			}]
 			x: -1.5d
-			y: 0.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["416CD34D9E0E1A74"]
@@ -229,123 +224,7 @@
 			]
 			tasks: [{
 				id: "1BAAAC42E8D961C0"
-				item: { count: 1, id: "stellaris:normal_rocket_upgrade" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["6B2C7902C393895B"]
-			id: "7EE2214DA65D041B"
-			rewards: [
-				{
-					id: "7ACB05F5DDD4B5BC"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "04DF6771EA2140A3"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "630EC4292D929B86"
-				item: { count: 1, id: "stellaris:big_rocket_upgrade" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["74353DACE7BECFB0"]
-			id: "672951246DF850D1"
-			rewards: [
-				{
-					id: "4D5C2CF665247A96"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "2E5BCC48B0A759A6"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "3E908A16A78241E0"
-				item: { count: 1, id: "stellaris:ice_shard" }
-				type: "item"
-			}]
-			x: -3.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["672951246DF850D1"]
-			id: "2FF4F03F52C1D8F3"
-			rewards: [
-				{
-					id: "7442A4B41C29352E"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "10DF3FA7547E1B20"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "11AE67DC97F9F7F8"
-				item: { count: 1, id: "stellaris:hydrogen_motor" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["2FF4F03F52C1D8F3"]
-			id: "440D476CAB19C05E"
-			rewards: [
-				{
-					id: "150A5752E89A5A7C"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "70F2E44DA098E4B6"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "55C4B18C05592CED"
-				item: { count: 1, id: "stellaris:radioactive_motor" }
+				item: { count: 1, id: "ad_astra:tier_4_rocket" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -353,42 +232,6 @@
 		}
 		{
 			dependencies: ["5DF4D12AFAF3972E"]
-			id: "05C818675A4A2782"
-			rewards: [
-				{
-					id: "0E0688DDC6309AF8"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "448BB67683B992DE"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					id: "227077550228DC97"
-					item: { count: 1, id: "stellaris:coal_generator" }
-					type: "item"
-				}
-				{
-					id: "7461EE4014B9B140"
-					item: { count: 1, id: "stellaris:solar_panel" }
-					type: "item"
-				}
-			]
-			x: -6.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["05C818675A4A2782"]
 			id: "21D5CF2BC04467D4"
 			rewards: [
 				{
@@ -408,19 +251,12 @@
 					type: "item"
 				}
 			]
-			tasks: [
-				{
-					id: "4888CCB7811F4B44"
-					item: { count: 1, id: "stellaris:water_separator" }
-					type: "item"
-				}
-				{
-					id: "23353182BAFCF403"
-					item: { count: 1, id: "stellaris:water_pump" }
-					type: "item"
-				}
-			]
-			x: -4.5d
+			tasks: [{
+				id: "4888CCB7811F4B44"
+				item: { count: 1, id: "ad_astra:oxygen_loader" }
+				type: "item"
+			}]
+			x: -6.0d
 			y: -3.0d
 		}
 		{
@@ -445,40 +281,11 @@
 				}
 			]
 			tasks: [{
-				id: "17634D12196A67C8"
-				item: { components: { "ftbfiltersystem:filter": "or(item(stellaris:fuel_refinery)item(enderio:vat))", "minecraft:custom_name": "\"Making Fuel\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "695A8CCD7237BD7A"
+				item: { count: 1, id: "ad_astra:fuel_refinery" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["618D53FB7973A7A1"]
-			id: "26466151D40A9B4A"
-			rewards: [
-				{
-					id: "5BD5EDA02E11F4FA"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "4660ABA5EAE05082"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "1D26B0D7DD88D4AD"
-				item: { count: 1, id: "stellaris:vacuumator" }
-				type: "item"
-			}]
-			x: -1.5d
+			x: -4.5d
 			y: -3.0d
 		}
 		{
@@ -504,60 +311,31 @@
 			]
 			tasks: [
 				{
-					id: "05D0938AAF8EFE96"
-					item: { count: 1, id: "stellaris:jet_suit_helmet" }
+					id: "38CE16B1CE43745A"
+					item: { count: 1, id: "ad_astra:netherite_space_helmet" }
 					type: "item"
 				}
 				{
-					id: "1EA21EBEFC015AD2"
-					item: { components: { "stellaris:fluid": { amounts: [L; 0L, 0L ], fluids: [ "minecraft:empty", "minecraft:empty" ] } }, count: 1, id: "stellaris:jet_suit_chestplate" }
+					id: "19D114490DABB82B"
+					item: { count: 1, id: "ad_astra:netherite_space_suit" }
 					type: "item"
 				}
 				{
-					id: "0F8273230C8AE972"
-					item: { count: 1, id: "stellaris:jet_suit_leggings" }
+					id: "03925DBF98380738"
+					item: { count: 1, id: "ad_astra:netherite_space_pants" }
 					type: "item"
 				}
 				{
-					id: "33AE8122F76BAA51"
-					item: { count: 1, id: "stellaris:jet_suit_boots" }
+					id: "531209DF55BB95ED"
+					item: { count: 1, id: "ad_astra:netherite_space_boots" }
 					type: "item"
 				}
 			]
-			x: -2.5d
-			y: 3.5d
+			x: -1.5d
+			y: 4.5d
 		}
 		{
-			dependencies: ["440D476CAB19C05E"]
-			id: "678ACA1FAD9052E4"
-			rewards: [
-				{
-					id: "59BED5577FE470C9"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "13560B9FA9CA5549"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "004493BFC9E502D9"
-				item: { count: 1, id: "stellaris:radioactive_generator" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["26466151D40A9B4A"]
+			dependencies: ["618D53FB7973A7A1"]
 			id: "36D115CED80477E1"
 			rewards: [
 				{
@@ -579,40 +357,11 @@
 			]
 			tasks: [{
 				id: "257AC4ECC58CEC9D"
-				item: { count: 1, id: "stellaris:oxygen_distributor" }
+				item: { count: 1, id: "ad_astra:oxygen_distributor" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -3.0d
 			y: -3.0d
-		}
-		{
-			dependencies: ["74353DACE7BECFB0"]
-			id: "7A4526B9E3692400"
-			rewards: [
-				{
-					id: "4FE1208200428D44"
-					item: {
-						count: 1
-						id: "chancecubes:chance_cube"
-					}
-					type: "item"
-				}
-				{
-					id: "2B67B04A55ED91D6"
-					item: {
-						count: 1
-						id: "kubejs:coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "27F4A1BCDE8C276D"
-				item: { count: 1, id: "stellaris:big_fuel_tank_upgrade" }
-				type: "item"
-			}]
-			x: -4.5d
-			y: 2.0d
 		}
 		{
 			dependencies: ["55A68150572EC898"]
@@ -637,10 +386,10 @@
 			]
 			tasks: [{
 				id: "7C37ECEAA96E0BD6"
-				item: { count: 1, id: "stellaris:oil_bucket" }
+				item: { count: 1, id: "ad_astra:oil_bucket" }
 				type: "item"
 			}]
-			x: -3.0d
+			x: -6.0d
 			y: -4.5d
 		}
 		{
@@ -669,16 +418,16 @@
 			]
 			tasks: [{
 				id: "27C16ABCFBF3AE3E"
-				item: { count: 1, id: "stellaris:fuel_bucket" }
+				item: { count: 1, id: "ad_astra:fuel_bucket" }
 				type: "item"
 			}]
-			x: -1.5d
+			x: -4.5d
 			y: -4.5d
 		}
 		{
 			dependencies: ["1B146007CA8A3052"]
 			icon: {
-				id: "stellaris:moon_globe"
+				id: "ad_astra:moon_globe"
 			}
 			id: "5C968DA6DEDB805A"
 			rewards: [
@@ -698,9 +447,15 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "6966E3B4DE6E05A0"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
-				dimension: "stellaris:moon"
+				dimension: "ad_astra:moon"
 				id: "11F820607AE8A3F1"
 				type: "dimension"
 			}]
@@ -710,7 +465,7 @@
 		{
 			dependencies: ["5C968DA6DEDB805A"]
 			icon: {
-				id: "stellaris:mars_globe"
+				id: "ad_astra:mars_globe"
 			}
 			id: "02B0D8895641DC69"
 			rewards: [
@@ -730,9 +485,15 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "6CAF43F51690F55D"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
-				dimension: "stellaris:mars"
+				dimension: "ad_astra:mars"
 				id: "4B8E294966DE3230"
 				type: "dimension"
 			}]
@@ -742,7 +503,7 @@
 		{
 			dependencies: ["02B0D8895641DC69"]
 			icon: {
-				id: "stellaris:venus_globe"
+				id: "ad_astra:venus_globe"
 			}
 			id: "06A46A5949A9F3BA"
 			rewards: [
@@ -762,9 +523,15 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "606C5EEA1D891324"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
-				dimension: "stellaris:venus"
+				dimension: "ad_astra:venus"
 				id: "27F14A23AD4562DD"
 				type: "dimension"
 			}]
@@ -774,7 +541,7 @@
 		{
 			dependencies: ["06A46A5949A9F3BA"]
 			icon: {
-				id: "stellaris:mercury_globe"
+				id: "ad_astra:mercury_globe"
 			}
 			id: "14F9F9F05968992D"
 			rewards: [
@@ -794,9 +561,15 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "357418C69E4E6CC5"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
-				dimension: "stellaris:mercury"
+				dimension: "ad_astra:mercury"
 				id: "21B67CF9F2D37D1F"
 				type: "dimension"
 			}]
@@ -826,28 +599,304 @@
 			]
 			tasks: [
 				{
-					id: "2666BBA1BB2FAC70"
-					item: { count: 1, id: "stellaris:space_suit_helmet" }
+					id: "464E8771DFC1C3A7"
+					item: { count: 1, id: "ad_astra:space_helmet" }
 					type: "item"
 				}
 				{
-					id: "78367747D739EB97"
-					item: { components: { "stellaris:fluid": { amounts: [L; 0L, 0L ], fluids: [ "minecraft:empty", "minecraft:empty" ] } }, count: 1, id: "stellaris:space_suit_chestplate" }
+					id: "2287A9063B96F550"
+					item: { count: 1, id: "ad_astra:space_suit" }
 					type: "item"
 				}
 				{
-					id: "1CC6DA4EBCECFB1B"
-					item: { count: 1, id: "stellaris:space_suit_leggings" }
+					id: "53CC9C19627E6619"
+					item: { count: 1, id: "ad_astra:space_pants" }
 					type: "item"
 				}
 				{
-					id: "746960B42F6F3DDA"
-					item: { count: 1, id: "stellaris:space_suit_boots" }
+					id: "1434908C936A4FF8"
+					item: { count: 1, id: "ad_astra:space_boots" }
 					type: "item"
 				}
 			]
-			x: -4.5d
-			y: 3.5d
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["14F9F9F05968992D"]
+			icon: {
+				id: "ad_astra:glacio_globe"
+			}
+			id: "2813AAA22203C6C3"
+			rewards: [
+				{
+					id: "001BB58E13A4ABD0"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "3344020DBE45A470"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A2F4015C33080D5"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				dimension: "ad_astra:glacio"
+				id: "7AB8E48D8104790E"
+				type: "dimension"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["02B0D8895641DC69"]
+			id: "0ACD4EB32D1616F4"
+			rewards: [
+				{
+					id: "1A8F2273089E0691"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "1868725C11D28F63"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "49FC74146E9C0802"
+				item: { count: 1, id: "ad_astra:ostrum_ingot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["06A46A5949A9F3BA"]
+			id: "1DD12302EB92FF24"
+			rewards: [
+				{
+					id: "0D11C9C0C2208C79"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "19F3F635997C7B22"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E23434AA4ACB714"
+				item: { count: 1, id: "ad_astra:calorite_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7EF319CB8B4339B6"]
+			id: "1B7E82C08A1FF1B6"
+			rewards: [
+				{
+					id: "47F68C4D3B3D6AA9"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "4760E977B8DE50CE"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "145B3E69B547652F"
+				item: { count: 1, id: "ad_astra_giselle_addon:oxygen_can" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1A40E97E9775C979"]
+			id: "709A48BFDF90C78D"
+			rewards: [
+				{
+					id: "6DE3CD16F9F3416E"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "7F227F8517C96EF0"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "02A173A00BE39929"
+				item: { count: 1, id: "ad_astra_giselle_addon:netherite_oxygen_can" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["36D115CED80477E1"]
+			id: "579B163E3C261DBD"
+			rewards: [
+				{
+					id: "5D7630DA3EE53FFB"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "53B7B9B07AB741AF"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "18CB4AF801703794"
+				item: { count: 1, id: "ad_astra:cryo_freezer" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["579B163E3C261DBD"]
+			id: "1B071BEFDEC69615"
+			rewards: [
+				{
+					id: "4E5D56673AA00692"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "5DEBBDEBE1F89960"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "129D376AC544ED22"
+				item: { count: 1, id: "ad_astra:cryo_fuel_bucket" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1DD12302EB92FF24"]
+			id: "792487DB89DE3B99"
+			rewards: [
+				{
+					id: "28A2056F5BABAC74"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "1F97A11BC32B6F3A"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0671F1576E513BD7"
+				item: { count: 1, id: "ad_astra:etrionic_blast_furnace" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["792487DB89DE3B99"]
+			id: "591D0AF49970A691"
+			rewards: [
+				{
+					id: "0DBCCB0EB932E0B6"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "160AE4BE3B7F9B73"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "428CC69C4EE6E4D3"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "6B639D47B58B42A7"
+				item: { count: 1, id: "ad_astra:etrium_ingot" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
 		}
 	]
 }

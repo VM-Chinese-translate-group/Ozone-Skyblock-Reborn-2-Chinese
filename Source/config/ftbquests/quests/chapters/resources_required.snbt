@@ -9,6 +9,7 @@
 	id: "7150356FCD9C2633"
 	images: [{
 		height: 1.5d
+		id: "08D5B99702E4C284"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d
@@ -50,6 +51,24 @@
 		{
 			dependencies: ["6EC90676B0EEB012"]
 			id: "4452E64D7145CFE3"
+			rewards: [
+				{
+					id: "0ABDD3A52FBC8227"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "3E339CEF4C749984"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				id: "3A46454024125DA8"
@@ -1212,6 +1231,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "2DA367E28721ED96"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "772A7825D6C940CE"
@@ -1357,6 +1382,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "6CD7F302AE2D3DFF"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [
 				{
@@ -1393,6 +1424,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "13A046551CB5455E"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [
 				{
@@ -1428,6 +1465,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "07B098D25D6E910B"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [
@@ -1654,6 +1697,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5033A0227AEB3254"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{

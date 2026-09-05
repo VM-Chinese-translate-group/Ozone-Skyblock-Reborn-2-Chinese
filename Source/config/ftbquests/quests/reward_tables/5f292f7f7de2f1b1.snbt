@@ -194,6 +194,7 @@
 		{ id: "31E71BF49B1C14A8", item: { count: 1, id: "hangglider:reinforced_hang_glider" } }
 		{ id: "3A0BC5F189A3A720", item: { count: 1, id: "reliquary:rending_gale" } }
 		{ id: "2C5BCD96DFC2D8CA", item: { count: 1, id: "immersiveengineering:revolver" } }
+		{ id: "4BD71CBD62A0DEBD", item: { count: 1, id: "mekanism_extras:alloy_shining" } }
 	]
 	use_title: true
 }

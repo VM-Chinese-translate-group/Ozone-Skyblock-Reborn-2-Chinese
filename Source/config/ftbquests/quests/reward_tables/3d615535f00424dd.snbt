@@ -77,6 +77,7 @@
 		{ id: "68531DD6839BC473", item: { count: 1, id: "sophisticatedbackpacks:tank_upgrade" } }
 		{ id: "617CD5493532483C", item: { count: 1, id: "minecraft:totem_of_undying" } }
 		{ id: "2FCA20367325DC57", item: { count: 1, id: "constructionstick:template_unbreakable" } }
+		{ id: "556F42A5F5CDDED6", item: { count: 1, id: "mekanism_extras:alloy_thermonuclear" } }
 	]
 	use_title: true
 }

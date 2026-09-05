@@ -9,6 +9,7 @@
 	id: "27E02EB8F3311112"
 	images: [{
 		height: 1.5d
+		id: "0B476B86390FC5E9"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d
@@ -55,7 +56,7 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["5E44820EC853BAA9"]
+			dependencies: ["56CA2BD982503BB0"]
 			id: "5BE6A18FB99F6C38"
 			rewards: [
 				{
@@ -307,6 +308,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "08AE2C77913A2F66"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "4358FC175754AE28"
@@ -335,6 +342,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64D40A73AB825510"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -365,6 +378,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "4DCBBCA50F7498CA"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "41A28B18B4B4EA83"
@@ -394,6 +413,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "21355D979B8DD916"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "034C9FF702E42F39"
@@ -422,6 +447,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1432572BCD16C5D3"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -655,6 +686,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "4B8C27382B1A5A29"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "2BE772CCEB1DA399"
@@ -742,6 +779,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "0F89A444E216370C"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [
 				{
@@ -782,6 +825,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "76080043142A2FDC"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{

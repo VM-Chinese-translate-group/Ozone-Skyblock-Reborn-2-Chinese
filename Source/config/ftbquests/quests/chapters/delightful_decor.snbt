@@ -9,6 +9,7 @@
 	id: "7E229907B5BA0260"
 	images: [{
 		height: 1.5d
+		id: "1C306452A0256D89"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d
@@ -154,6 +155,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64B5D44DD5F2D6FD"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1254,6 +1261,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5EFBA9B2957CA613"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{

@@ -193,7 +193,7 @@
 			id: "5B02AB4C1A975EDF"
 			item: {
 				count: 1
-				id: "stellaris:plutonium_ingot"
+				id: "ad_astra:calorite_ingot"
 			}
 		}
 		{
@@ -218,12 +218,13 @@
 			id: "7C3DA634C8A2BFF6"
 			item: {
 				count: 1
-				id: "stellaris:neptunium_ingot"
+				id: "ad_astra:etrium_ingot"
 			}
 		}
 		{ id: "2FA7E5FFD886C477", item: { count: 1, id: "minecraft:spawner" } }
 		{ id: "2DC3DD4BDE6520F1", item: { components: { "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_hammer_beheading": 0, "industrialforegoing:infinity_item_power": 9223372036854775807L, "industrialforegoing:infinity_item_selected_tier": "artifact", "industrialforegoing:infinity_item_special": 1b }, count: 1, id: "industrialforegoing:infinity_hammer" } }
 		{ id: "64F633C0B3EA73C3", item: { components: { "industrialforegoing:configuration_action": "RELEASE", "industrialforegoing:infinity_can_charge": 1b, "industrialforegoing:infinity_item_power": 9223372036854775807L, "industrialforegoing:infinity_item_selected_tier": "artifact", "industrialforegoing:infinity_item_special": 1b }, count: 1, id: "industrialforegoing:infinity_launcher" } }
+		{ id: "1C7E138BEB7DB80B", item: { count: 1, id: "mekanism_extras:alloy_spectrum" } }
 	]
 	use_title: true
 }
