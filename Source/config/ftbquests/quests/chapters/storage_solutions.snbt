@@ -9,6 +9,7 @@
 	id: "53C0840E4343A861"
 	images: [{
 		height: 1.5d
+		id: "770D2B5CE2A25CA0"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d
@@ -271,6 +272,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "1FE0CDB48E63FCAA"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "772B3AC450000028"
@@ -386,6 +393,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3CFDDE49E9BB8ECB"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -677,6 +690,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "7834ED4B5E59695A"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			size: 1.25d
 			tasks: [{
@@ -823,6 +842,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "670C9E21F4E90B99"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "53F6BF199C722CDE"
@@ -880,6 +905,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C39BC720319BCD0"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1033,6 +1064,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "16D0A2FB916C3AB7"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "12CF15B793DB2D8A"
@@ -1061,6 +1098,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C2801396ACF14C1"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			size: 1.25d
@@ -1237,6 +1280,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7FC06DD76F7737FD"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{

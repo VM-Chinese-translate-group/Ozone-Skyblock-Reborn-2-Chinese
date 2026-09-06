@@ -22,6 +22,7 @@
 	chapter.7150356FCD9C2633.title: "Resources Required"
 	chapter.7D3F9E93F7A636B7.title: "FAQ"
 	chapter.7E229907B5BA0260.title: "Delightful Decor"
+	image.24C02D3BC9156628.title: "Join the Discord!"
 	quest.000303D086D2B044.quest_desc: ["Plant on grass to grow a sheep. Make sure to give it plenty of breathing room to grow."]
 	quest.0019EFE1E929FEE1.quest_desc: ["Compact your produce into blocks!"]
 	quest.003E76D37F01200A.quest_desc: ["Used to create simulations of mobs."]
@@ -74,20 +75,20 @@
 		""
 		"To generate block other than cobblestone, see JEI for details."
 		""
-		"Higher tiers exist, see JEI."
+		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4BDA60A93E629E04\" } } ]"
 	]
 	quest.02AA09894A7363BD.quest_subtitle: "Cobblegen Galore"
 	quest.02B0D8895641DC69.quest_desc: [
-		"Complete this quest by successfully landing on Mars."
+		"Complete this quest by successfully landing on Mars. Tier 2 rocket required."
 		""
-		"Note: Mars contains Plutonium (radioactive)."
+		"Note: Mars contains Ostrum."
 	]
 	quest.02CC10C8AD373D9B.quest_desc: ["A good starting point for carrying water between crucibles and barrels. Has limited durability. Lava transporting is not a smart idea."]
 	quest.02E01BE2547A5F38.quest_desc: ["Klein Stars are great sources of EMC - even better when you can get them from seeds!"]
 	quest.02E01BE2547A5F38.quest_subtitle: "Mystical Agriculture"
 	quest.03122E9277646415.quest_desc: ["Prevents hostile mobs from spawning, large radius"]
 	quest.032193BAE8D6E08E.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
-	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in a refinery will create Stellaris oil."]
+	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in a refinery will create Ad Astra oil."]
 	quest.03A0FA63A3AFBC5D.quest_desc: [
 		"Metal blocks are easy to craft in normal, much harder in expert."
 		""
@@ -120,8 +121,6 @@
 	]
 	quest.050E9ECB6D658C96.quest_desc: ["The Entity Conveyer moves mobs and items along a horizontal vector."]
 	quest.0565492F3A30C232.quest_desc: ["Obtained by reprocessing ludicrite with magnetite, which is a waste product from using bluetonium as fuel in a reactor."]
-	quest.05C818675A4A2782.quest_desc: ["Generates power from coal and the sun."]
-	quest.05C818675A4A2782.title: "Generators"
 	quest.05CACCE1488AB6C8.quest_desc: ["A safe place for messages from friends. And bills, and spam, and other junk..."]
 	quest.05E67DC4DEA264A6.quest_desc: ["Create a mining laser setup for each Industrial Foregoing lens (see JEI for a list)."]
 	quest.05EC1D616C2A9AD8.quest_desc: ["Sends wireless redstone signals."]
@@ -163,9 +162,9 @@
 		"Level: 8"
 	]
 	quest.06A46A5949A9F3BA.quest_desc: [
-		"Complete this quest by successfully landing on Venus."
+		"Complete this quest by successfully landing on Venus. Tier 3 rocket required. It is very hot on this planet!"
 		""
-		"Note: Venus contains Neptunium (radioactive)."
+		"Note: Venus contains Calorite."
 	]
 	quest.06BAFFA40A561DA9.quest_desc: [
 		"Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft."
@@ -265,6 +264,7 @@
 		"Note: EnderIO cables are known to sometimes cause lag. If you experience this, consider switching to a different cable type."
 	]
 	quest.0AA83FF3BDF54213.title: "Conduits - Tier 1"
+	quest.0ACD4EB32D1616F4.quest_desc: ["Ostrum can be found on Mars."]
 	quest.0AE2BFC6D900AD0F.quest_desc: ["Increases the area of effect for the fan - height, width, and distance."]
 	quest.0AE2BFC6D900AD0F.title: "Fan Upgrades"
 	quest.0AFC1C633F5E6D38.quest_desc: ["Tier 2 - Can store 200 stacks."]
@@ -352,6 +352,12 @@
 		""
 		"Upgrades are items that enhance pipes by increasing their transfer speed, efficiency, or functionality such as filtering and stack size."
 	]
+	quest.107E79EE3E89F382.quest_desc: [
+		"Duplicates Alchemical Sulfur using Alchemical Niter of the appropriate type - see JEI for recipes. Click on the pedestals with the flux emmitter to bind them together. Place on a Mercury Catalyst to provide power to the pedestals."
+		""
+		"See The Hermetica for more details on Theurgy."
+	]
+	quest.107E79EE3E89F382.title: "Reformation"
 	quest.108159E6D64C856A.quest_desc: [
 		"Tainted Gold is a material blessed with the deeper, darker aspects of aura, meaning they take much longer to infuse while using less aura in the process. Note that the same infusion is possible using the materials' block form."
 		""
@@ -453,11 +459,7 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.14F9F9F05968992D.quest_desc: [
-		"Complete this quest by successfully landing on Mercury."
-		""
-		"Note: Mercury contains Uranium (radioactive)."
-	]
+	quest.14F9F9F05968992D.quest_desc: ["Complete this quest by successfully landing on Mercury. Tier 3 rocket required. It is very hot on this planet!"]
 	quest.151A5E0BF0ED82FC.quest_desc: ["A limitless power source that provides infinite energy output to connected machines and networks without requiring any fuel."]
 	quest.153E5E7C7B50FBE8.quest_desc: ["Crafting ingredient for hammers - 3x3x3"]
 	quest.156FE2D8DEE4B866.quest_desc: [
@@ -497,13 +499,18 @@
 	quest.16BD3B7720BB6FC5.quest_desc: ["Klein Star Vier holds up to 3,200,000 EMC and is also used in the crafting of the Klein Star Sphere."]
 	quest.16F2FE28C9730B3C.quest_desc: ["You can copy a drawer frequency by left clicking it with a Linking Tool and then you can right click another Ender Drawer and then they will have their contents synced."]
 	quest.16F347B287BA5A57.quest_desc: [
-		"A device to recombine Alchemical Sulfur, Salt, and Mercury into items."
+		"A device to recombine Alchemical Sulfur, Salt, and Mercury into items - see JEI for recipes."
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
+	quest.16F347B287BA5A57.title: "Incubation"
 	quest.1714FDAD185BC9EC.quest_desc: ["Build a base on each planet. You should be able to breathe without a space suit."]
 	quest.172A4BF34F6B369D.quest_desc: ["A full set of infinity armor will grant you creative flight and invincibility - even from a /kill command."]
-	quest.172D9D871C55C62F.quest_desc: ["A way to tick accelerate blocks, Time-in-a-Bottle style. The longer it is kept in your inventory, the more time you can save! Click a block multiple times to speed it up even faster!"]
+	quest.172D9D871C55C62F.quest_desc: [
+		"A way to tick accelerate blocks, Time-in-a-Bottle style. The longer it is kept in your inventory, the more time you can save! Click a block multiple times to speed it up even faster!"
+		""
+		"[ \"For automated tick acceleration, check out this quest \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"21FD5B61FBBCA913\" } } ]"
+	]
 	quest.172D9D871C55C62F.quest_subtitle: "Gadgets Against Grind"
 	quest.175ABA1A1E81745D.quest_desc: ["Energy storage item that holds and transfers RF"]
 	quest.177B785A9ECE8F52.quest_desc: ["Allows the alchemist to use the power of the Transmutation Table without having to place it down on a surface."]
@@ -514,9 +521,9 @@
 	quest.17D11E1D85B0544A.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
 	quest.17E258709C662348.quest_desc: ["Red Matter is a component added by ProjectE. As an item with a high EMC value, it is suitable to be used as a template in an Energy Condenser to store EMC. As a crafting component, Red Matter is used in the crafting of high-end machines, tools, armor and accessories."]
 	quest.18172E2A9B99A66D.quest_desc: [
-		"A device to extract Alchemical Sulfur from items using a Solvent."
+		"A device to extract Alchemical Sulfur from items using a Solvent - Sal Ammoniac."
 		""
-		"Place the cauldron on top of the braizer. Fill the braizer with blaze rods to heat the cauldron!"
+		"Place the cauldron on top of the braizer. Fill the braizer with blaze rods to heat the cauldron! Fill the cauldron with Sal Ammoniac. Place items inside to start the process - see JEI for recipes."
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
@@ -537,7 +544,7 @@
 		"Crafter Tier 2 can remember 4 recipes."
 	]
 	quest.1953C0F0AE829809.quest_desc: [
-		"Converts mercery from its crystal form into its flux form."
+		"Converts mercery from its crystal form into its flux form. You can now use Theurgy machines without the use of braizers! Click a machine with the flux emitter to bind it, you can select multiple machines."
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
@@ -560,8 +567,8 @@
 	quest.1A1B057049B2AB58.quest_desc: ["The crafting core is used to craft several end-game items. See all uses in JEI."]
 	quest.1A1B057049B2AB58.quest_subtitle: "Extended Crafting"
 	quest.1A378D0D3AA38021.quest_desc: ["A unique crafting method of Powah, uses items and energy to craft recipes"]
-	quest.1A40E97E9775C979.quest_desc: ["An upgraded space suit with the added power of jet-propelled flight!"]
-	quest.1A40E97E9775C979.title: "Jet Suit"
+	quest.1A40E97E9775C979.quest_desc: ["This space suit will protect you on celestial bodies with hot enviornments (Venus, Mercury) in addition to the cold enviornments."]
+	quest.1A40E97E9775C979.title: "Netherite Space Suit"
 	quest.1A518FF85B798517.quest_desc: [
 		"Aura and its presence in the world has been a conundrum to researchers for a long time now. Back in the day, they used to use Bottles to collect aura and to be able to analyze it in greater detail as it becomes visible to the naked eye that way. Soon after, complaints from uninformed civilians started troubling them: \"Other scientists already have a use for bottles, this will cause issues\", they said."
 		""
@@ -572,10 +579,11 @@
 	quest.1AB8244D9A52E7F4.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for hardened tier Powah items."]
 	quest.1AE2DA480EB23947.quest_desc: ["Used to make plastic. Refer to JEI and the manual."]
 	quest.1AE506C74AF7D407.quest_desc: ["The best draconic scientists have figured out a way to duplicate chaos shards. Breaking down a chaos shard into its tiniest fragments will allow you to transform it into something that can be refined to create large chaos fragments."]
+	quest.1B071BEFDEC69615.quest_desc: ["The cryo freezer can turn ice shards into a more efficient fuel source for your rockets. 1 bucket of cryo fuel is equivalent to 3 buckets of fuel. Ice shards can be found on cold celestial bodies, such as the moon, Mars, and Glacio."]
 	quest.1B146007CA8A3052.quest_desc: [
-		"There is only one type of rocket in Stellaris; you can improve your rocket using various upgrades."
+		"The Tier 1 Rocket will allow you to travel to the moon."
 		""
-		"Make sure you only take off in your rocket from the overworld (the dimension where you started the pack) or the planets! Otherwise, messy things can happen!"
+		"Don't forget your space suit and oxygen!"
 	]
 	quest.1B17A64C7D6C88F7.quest_desc: ["Transmit power wirelessly to charge items in your inventory!"]
 	quest.1B1E9AFA7D0B0970.quest_desc: ["Install upgrades into the foundry to make faster and disable alloying!"]
@@ -585,7 +593,7 @@
 	quest.1B5C8B86CFDBB051.quest_desc: [
 		"For quest completions, items are automatically detected when they are in your inventory. Make sure to hold completed items in your inventory until FTB Quests detects it -> no quest complete = no rewards!"
 		""
-		"Quest rewards include coins. Coins can be redeemed at the coin shop for reward bags!"
+		"Quest rewards include coins. Coins can be redeemed at the coin shop for reward bags! Some quests will also have a random reward."
 		""
 		"Click on an item in your quest book or search in JEI to find how to craft items. You can also press \"r\" while hovering over an item. Press \"u\" to see an item's uses."
 		""
@@ -597,6 +605,7 @@
 	]
 	quest.1B5C8B86CFDBB051.quest_subtitle: "Important Info Here!"
 	quest.1B6FEBB8D9440617.quest_desc: ["Can be hammered into dust. Use in a sieve to obtain resources!"]
+	quest.1B7E82C08A1FF1B6.quest_desc: ["Enables you to breath oxygen in space while wearing armor besides the space suit (make sure your armor has the proper enchants/modules/updrades to survive in space). This oxygen can only works on cold celestial bodies."]
 	quest.1B940854A058386C.quest_desc: ["Converts organic materials into biomass fuel"]
 	quest.1BAB46320F75A91B.quest_desc: [
 		"When starting out as a magical botanist, it proves beneficial to use the powers of nature on a more direct level before delving directly into aura itself. The Ritual of the Forest uses properties of Gold Powder to incorporate the power of natural ingredients directly into a fresh, growing tree, devouring it in the process, but at the same time, transforming it into useful tools and items."
@@ -643,6 +652,7 @@
 	quest.1D96A6DC181BE5ED.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
 	quest.1DA6EB3AB3035A0F.quest_desc: ["An endgame material created by infusing Draconium with Energy and other items."]
 	quest.1DC74FAB7A521DB0.quest_desc: ["A drop from defeating the Warden."]
+	quest.1DD12302EB92FF24.quest_desc: ["Calorite can be found on Venus."]
 	quest.1E0F3E9A7AE4D2F5.quest_desc: ["Automate PCB creation."]
 	quest.1E0F3E9A7AE4D2F5.title: "Pneumatic Assembly"
 	quest.1E6EE65389C1E9D7.quest_desc: ["A powerful material refined from Draconium Dust, used to craft advanced energy systems, tools, and high-tier technology."]
@@ -711,11 +721,7 @@
 		"Right clicking opens the chiseling interface."
 	]
 	quest.21D2F298B32D5B95.quest_subtitle: "Chisel Modern"
-	quest.21D5CF2BC04467D4.quest_desc: [
-		"The water separator transforms water into Oxygen and Hydrogen."
-		""
-		"The machine works by putting water in the second slot. It will then generate Hydrogen and Oxygen that you can gather by placing buckets under the tanks."
-	]
+	quest.21D5CF2BC04467D4.quest_desc: ["Converts water into oxygen. Can also be used to fill the space suit chestplates and oxygen tanks with oxygen."]
 	quest.21ECEC8F3D1691F1.quest_desc: ["The Infusion Crystal is an item used for crafting higher tier essences. There is a regular Infusion Crystal as well as an upgraded Master Infusion Crystal. The main difference between them is the amount of uses each crystal has."]
 	quest.21FD5B61FBBCA913.quest_desc: [
 		"&2Tick acceleration in the midgame! Other options later in progression include the temporal pouch and torcherino.&r"
@@ -727,6 +733,7 @@
 		"Each soul lasts for 15 seconds and makes the machine 4 times faster."
 	]
 	quest.21FD5B61FBBCA913.quest_subtitle: "Industrial Foregoing Souls"
+	quest.21FD5B61FBBCA913.title: "Tick Acceleration"
 	quest.2201A958694C7F35.quest_desc: ["Cables (and connectors) can have four different colors (and a base version). These are used to be able to distinguish multiple distinct networks adjacent to each others (to prevent the cables from connecting). A controller will adapt its color to the first colored cable it can find around it and then remember that (unless that color is totally removed)."]
 	quest.220E723BF056F6D6.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.2226EAAF3B304A2D.quest_desc: [
@@ -769,6 +776,9 @@
 	quest.23839A415A10A611.quest_desc: [
 		"The Reinforced variant lets you build Reactors bigger and better than ever, to generate and store extreme amounts of energy!"
 		""
+		"The max size reactor is 48 tall, 32 wide."
+		"The max size turbine is 32 tall, 32 wide."
+		""
 		"See the book for details and how to set up."
 	]
 	quest.23839A415A10A611.title: "Reinforced Reactor Components"
@@ -785,7 +795,11 @@
 	quest.24C964CEB5B34A22.quest_desc: ["Productive Metalworks brings a powerful and immersive smelting and casting system to Minecraft, allowing players to process ores and craft ingots in a more realistic and efficient way. With this mod, you can construct a multi-block structure known as the Foundry, which acts as a large, industrial smelting furnace capable of handling large quantities of ores at once."]
 	quest.24C964CEB5B34A22.quest_subtitle: "Productive Metalworks"
 	quest.24D65F6FA7D60C0D.quest_desc: ["The Master Infusion Crystal has the added benefit of being able to combine entire blocks of essence, which can be helpful when combining large amounts of essence. Infinite durability!"]
-	quest.250D50E877136CE2.quest_desc: ["Used to store large amounts of energy."]
+	quest.250D50E877136CE2.quest_desc: [
+		"Used to store large amounts of energy."
+		""
+		"The max size energizer is 32 tall, 32 wide."
+	]
 	quest.250D50E877136CE2.title: "Energizer Components"
 	quest.2516E592916EFBEB.quest_desc: ["Upgraded essences are crafted using the previous tier of essence and an infusion crystal. Used to create Tier 5 seeds. (Crystals are required in expert mode)"]
 	quest.251E78ED5A7DF9BF.quest_desc: ["Energy cubes can be used to hold large amounts of RF. The higher the tier, the more RF can be stored. Tier 4!"]
@@ -806,7 +820,11 @@
 		""
 		"Anything known to the alchemist in this way can be pulled from any Transmutation Table or Transmutation Tablet by them as long as they have sufficient EMC. The Transmutation Table or Transmutation Tablet reveals to the alchemist the amount of EMC bound to them."
 	]
-	quest.25DC4BBF99C776D8.quest_desc: ["Used to turn solids into liquids."]
+	quest.25DC4BBF99C776D8.quest_desc: [
+		"Used to turn solids into liquids."
+		""
+		"The max size fluidizer is 16 tall, 16 wide."
+	]
 	quest.25DC4BBF99C776D8.title: "Fluidizer Components"
 	quest.2613272C3850463D.quest_desc: ["Uses solar power (sun) to generate RF. Tier 4!"]
 	quest.262DAA98C18CE427.quest_desc: [
@@ -817,19 +835,17 @@
 		"Fluid storage cells can hold up to 5 distinct types of fluids, and are available in all the standard capacities."
 	]
 	quest.262DAA98C18CE427.title: "Cell Housing"
-	quest.26466151D40A9B4A.quest_desc: [
-		"Players can't eat if they are in planets/moons without oxygen. To solve this problem, you need to use the vacumator to put food into a can."
-		""
-		"The Vacuumator allow you to put food inside Cans that you can eat in space."
-		""
-		"For this machine to work you need to put a can in the first slot, food in the second, and an empty glass bottle in the third. The machine will give you a can with food inside and a water bottle."
-		""
-		"You get hungrier in space - so bring lots of food!"
-	]
 	quest.26587BB45FC82006.quest_desc: ["Uses solar power (sun) to generate RF. Tier 5!"]
 	quest.267A446CB02207F1.quest_desc: ["Max speed for pipes in the Pipez mod!"]
 	quest.267A446CB02207F1.quest_subtitle: "Pipez"
 	quest.269CB18DF9B7D5E3.quest_desc: ["A generator from blaze rods"]
+	quest.26AE724D46A9430B.quest_desc: [
+		"Cosmetic collectable plushies of vanilla Minecraft mobs. For an optional goal, try and collect them all!"
+		""
+		"Note: This is the only quest reward where you can choose your item!"
+	]
+	quest.26AE724D46A9430B.quest_subtitle: "1 Coin"
+	quest.26AE724D46A9430B.title: "Collectables"
 	quest.271164995133F430.quest_desc: ["Made of 10,000 coal"]
 	quest.2736FF4556236824.quest_desc: [
 		"Using the power of Red Matter to combine the functions of the Red Matter Shears, Red Matter Axe, Red Matter Sword, and Red Matter Hoe into a single tool."
@@ -855,6 +871,7 @@
 		"They are cable subparts."
 	]
 	quest.27D559AF2FF8AB16.quest_desc: ["Open one stack of chance cubes (any before this does not count)."]
+	quest.2813AAA22203C6C3.quest_desc: ["Complete this quest by successfully landing on Glacio. Tier 4 rocket required."]
 	quest.284AD374B7EC81DF.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.288D1A8284EA6444.quest_desc: ["Use on a chicken to create a golden egg. Click the egg on a 5x5 dirt patch to create delightful dirt (spawns passive mobs when lit)"]
 	quest.28AADA8236CEE862.quest_desc: [
@@ -967,7 +984,11 @@
 	quest.2F5803138627E169.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
 	quest.2F5B723497046BFC.quest_desc: ["Get rid of those pesky phantoms! Can be placed in the charm slot."]
 	quest.2F5DF89B8B8B3967.quest_desc: ["Klein Star Zwei holds up to 200,000 EMC and is also used in the crafting of Klein Star Drei. "]
-	quest.2F60BEB4CAB4424A.quest_desc: ["This terminal can be used to view, insert, and extract items in the Simple Storage Network."]
+	quest.2F60BEB4CAB4424A.quest_desc: [
+		"This terminal can be used to view, insert, and extract items in the Simple Storage Network."
+		""
+		"&4Note: To help with performance, consider placing the terminal directly on the inventory connector block.&r"
+	]
 	quest.2F631C8EE15BA50F.quest_desc: ["Automatically open those loot crates that keep dropping from your mob farm! (Hint: use hoppers or pipes for automation!)"]
 	quest.2F631C8EE15BA50F.quest_subtitle: "FTB Quests"
 	quest.2F7D243BFA0DE65C.quest_desc: [
@@ -983,8 +1004,7 @@
 		""
 		"Level: 1"
 	]
-	quest.2FF30E29BD7550D5.quest_desc: ["Makes your rocket look like a tiny rocket!"]
-	quest.2FF4F03F52C1D8F3.quest_desc: ["This upgrade changes the fuel needed by the rocket to hydrogen."]
+	quest.2FF30E29BD7550D5.quest_desc: ["The Tier 2 Rocket will allow you to travel to Mars, in addition to the capabilities of the previous tier(s)."]
 	quest.30016E1C526393CB.quest_desc: ["Mobius Fuel is a fuel added by ProjectE. It burns sixteen times as long as regular coal and is able to smelt 128 items."]
 	quest.305DDEB9CE993D3A.quest_desc: [
 		"To charge your propeller hat, look up the \"Charging Station\" from Charging Gadgets in JEI."
@@ -1130,7 +1150,7 @@
 	quest.3603913FC72967C4.quest_desc: ["Found in Bastions; can be duplicated with a crafting recipe."]
 	quest.36751E0CBED417FA.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.36B761E82E6EFE91.quest_desc: ["An upgraded furnace with a base cook time of 120"]
-	quest.36D115CED80477E1.quest_desc: ["Place this in a sealed room with nothing on top of the machine, and then place a filled oxygen tank in the middle slot."]
+	quest.36D115CED80477E1.quest_desc: ["Distributes oxygen and regulates temperature inside of a sealed structure."]
 	quest.36F5C86A7D54D95E.quest_desc: ["Storage Components are the core of all AE2 cells, determining the capacity of the cells. Each tier increases the capacity by 4x and costs 3 of the previous tier."]
 	quest.3700FAC908C2A72E.quest_desc: ["A full set of infinity armor will grant you creative flight and invincibility - even from a /kill command."]
 	quest.372B5CB656A0373E.quest_desc: [
@@ -1224,7 +1244,7 @@
 	quest.39E081184335B6E1.quest_subtitle: "Mystical Automation"
 	quest.39EF5A9782C3678C.quest_desc: ["The waste product from using uranium in a reactor."]
 	quest.3A1D456E94BB9A46.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
-	quest.3A43D6B2F5FBA5E6.quest_desc: ["Fuel can be used in rockets without an upgraded motor."]
+	quest.3A43D6B2F5FBA5E6.quest_desc: ["Fuel is needed to power rockets."]
 	quest.3A6A4C98058E48FC.quest_desc: ["Power from the sun."]
 	quest.3A7ACD6C36478B09.quest_desc: ["Max Blocks: 9"]
 	quest.3AD0AA05BFD863C2.quest_desc: [
@@ -1298,7 +1318,10 @@
 	]
 	quest.3F171C175D462267.title: "Mechanical Upgrades"
 	quest.3F1E49F84A0BA465.quest_desc: ["Crafting Ingredient. Armor made from this material pacifies phantoms."]
-	quest.3F3DC4BF5C52FE28.quest_desc: ["Build a max sized big reactor with reinforced materials."]
+	quest.3F3DC4BF5C52FE28.quest_desc: [
+		"Build a max sized big reactor with reinforced materials."
+		"The max size reactor is 48 tall, 32 wide."
+	]
 	quest.3F74784097718DB8.quest_desc: [
 		"A peaceful alternative for resource gathering."
 		""
@@ -1341,7 +1364,7 @@
 		"The Quantum Compressor requires power to function. It will only use power when creating the resulting item."
 	]
 	quest.415AB951288AB22C.quest_subtitle: "Extended Crafting"
-	quest.416CD34D9E0E1A74.quest_desc: ["Makes your rocket look like a small rocket!"]
+	quest.416CD34D9E0E1A74.quest_desc: ["The Tier 3 Rocket will allow you to travel to Venus and Mercury, in addition to the capabilities of the previous tier(s)."]
 	quest.4178CE375A63CDC6.quest_desc: [
 		"When working with aura, by nature, it will be hard to grasp just how much there is in any given area or storage device. The Environmental Eye has the powers to display this information to botanists though: Once created, merely holding it anywhere in one's hotbar will display several pieces of information."
 		""
@@ -1379,7 +1402,6 @@
 	]
 	quest.43698862AB55F952.title: "Ether Gas"
 	quest.439C528354838250.quest_desc: ["To use this mod, one needs to make 2 Recipe Pattern Holders and encode them with an Encoder. "]
-	quest.440D476CAB19C05E.quest_desc: ["This upgrade changes the fuel needed by the rocket to uranium."]
 	quest.4435C785551464AD.quest_desc: [
 		"The Chaos Guardian can be found on Chaos Islands in the End, which will spawn in every 2500 blocks."
 		""
@@ -1490,11 +1512,19 @@
 	quest.451E4F4A7AC324BF.quest_desc: ["Hold shift key when hovering over the item to see stats."]
 	quest.454B473F16B73356.quest_desc: ["Each of the tiers adds more storage slots and more upgrade slots."]
 	quest.4579E77C572486C8.quest_desc: ["An upgraded furnace with a base cook time of 80"]
-	quest.457F0F8D2AF686E8.quest_desc: ["A creative-tier upgrade that provides unlimited anything to compatible machines without consuming any resources."]
+	quest.457F0F8D2AF686E8.quest_desc: [
+		"A creative-tier upgrade that provides unlimited anything to compatible machines without consuming any resources."
+		""
+		"Can duplicate any item, including those that are normally not able to be duplicated (i.e. Creative Items)."
+		""
+		"To duplicate: Place an onmidirectional hopper facing a chest. Put this upgrade into the upgrade slot of the hopper. Insert any item into the hopper. Profit."
+	]
 	quest.45887881B110D056.quest_desc: [
 		"The compressed sieve can be used to sift compressed blocks - nine blocks in one!"
 		""
-		"You can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square). The difference between regular sieves and compressed sieves is that you need to fill each compressed sieve one-by-one and them you can sift them all at once."
+		"Just like the regular sieve, you can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square)."
+		""
+		"Sieves can be automated if you place a click machine below them, pointing up! Better sieving automation can be achieved as well. "
 	]
 	quest.45A5707D025CD692.quest_desc: [
 		"The Diamond Apple grants the following potion effects:"
@@ -1549,7 +1579,13 @@
 		""
 		"You should have one of these in addition to a crafting terminal."
 	]
-	quest.47DAE272EE988E65.quest_desc: ["Knightmetal Ingot is an item obtained from smelting Armor Shard Clusters."]
+	quest.47DAE272EE988E65.quest_desc: [
+		"Knightmetal Ingot is an item obtained from smelting Armor Shard Clusters."
+		""
+		"Armor shard clusters can be obtained from Helmet Crabs and Goblins."
+		""
+		"Or, use an Arc Furnace to break apart armor from the Knight Phantoms."
+	]
 	quest.480E83DD55448590.quest_desc: ["Energy storage item that holds and transfers RF"]
 	quest.483DA3FB8D65ED2F.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Netherite Stick\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"75AD65B7786D4698\" } }, \" to unlock.\" ]"]
 	quest.483DA3FB8D65ED2F.quest_subtitle: "15 Coins"
@@ -1608,7 +1644,11 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.4B62DEDA4F901770.quest_desc: ["Maximize smelting efficiency with unparalleled speed, reconfigurable sides, augments for smoking and blasting, and much more."]
+	quest.4B62DEDA4F901770.quest_desc: [
+		"Maximize smelting efficiency with unparalleled speed, reconfigurable sides, augments for smoking and blasting, and much more."
+		""
+		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4EAD2382EBF87769\" } } ]"
+	]
 	quest.4B893A1BDA3CEC33.quest_desc: ["A powerful sword in it's own right by charging it and using activating it (C) the Dark Matter Sword will consume EMC in exchange for a devastating sweep attack. The area of the attack is controlled by charge level (V, shift+V)."]
 	quest.4BCB152BBCEB3B90.quest_desc: [
 		"The Environmental Eye is very useful in theory; however, a lot of magical botanists struggle with its limited range of gauging aura in the environment around them. A simple solution to this problem is the Environmental Ocular. While working similarly to the Environmental Eye, the main difference is its much bigger gauge for aura in the area: It is twice as large."
@@ -1721,6 +1761,8 @@
 		"Depending on their Base Modifier, Capacitors can increase the Speed, Range or Energy Storage of machines."
 		""
 		"Level: 3"
+		""
+		"[ \"Higher levels exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"46D8585E55448576\" } } ]"
 	]
 	quest.4EAD2382EBF87769.quest_desc: ["An upgraded furnace with a base cook time of 160"]
 	quest.4EB47C3E07B444F6.quest_desc: ["Use Animal Seed Base to craft any of the mob seeds from Haven Animal Seeds"]
@@ -1856,7 +1898,7 @@
 	quest.5476B23B4B60A670.quest_desc: ["Iron Jetpacks is a modern Jetpacks mod that is both feature-rich and easy to use. Jetpacks get better as you craft higher tiers. Coils are an integral part of the jetpack crafting process. See JEI."]
 	quest.5478FE88578437EC.quest_desc: ["Uses solar power (sun) to generate RF. Tier 3!"]
 	quest.5485AE6A649AC6BC.quest_desc: [
-		"A vat for alchemical fermentation, required for transmutation."
+		"A vat for alchemical fermentation, required for transmutation. Turns Alchemical Sulfur into its corresponding type of Alchemical Niter - see JEI for recipes."
 		""
 		"See The Hermetica for more details on Theurgy."
 	]
@@ -1924,6 +1966,7 @@
 	quest.5735F3DABF096132.quest_desc: ["Place liquid plastic in the world for it to harden into plastic sheets."]
 	quest.573FB7A2379800A5.quest_desc: ["One of the steps needed to make the endgame less painful"]
 	quest.573FB7A2379800A5.quest_subtitle: "Mystical Agriculture"
+	quest.579B163E3C261DBD.quest_desc: ["The cryo freezer can turn ice shards into a more efficient fuel source for your rockets. 1 bucket of cryo fuel is equivalent to 3 buckets of fuel. Ice shards can be found on cold celestial bodies, such as the moon, Mars, and Glacio."]
 	quest.57C920272A14206C.quest_desc: ["Make your life easier by getting Awakened Draconium from seeds!"]
 	quest.57C920272A14206C.quest_subtitle: "Mystical Agriculture"
 	quest.5818B49C16BB6B8F.quest_desc: ["This wearable item accelerates the growth of nearby crops when powered."]
@@ -1931,6 +1974,7 @@
 	quest.584678F8D7970634.quest_desc: ["Part of the multiblock. Stores the lava used by the foundry for melting materials."]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
 	quest.5873CD588D98B39D.quest_desc: ["A sword with 6 attack damage."]
+	quest.591D0AF49970A691.quest_desc: ["This ingot can be used to create decorative blocks and is also required for late-game crafting."]
 	quest.594A3262325FDCFF.quest_desc: ["More features, and higher durability!"]
 	quest.595C4352743D4003.quest_desc: ["FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."]
 	quest.595C4352743D4003.quest_subtitle: "Framed Blocks"
@@ -2021,7 +2065,7 @@
 	quest.5C271A5D912204B4.title: "Compact Machines?"
 	quest.5C54CFEF6CE75A7A.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.5C968DA6DEDB805A.quest_desc: [
-		"Complete this quest by successfully landing on the moon."
+		"Complete this quest by successfully landing on the moon. Tier 1 rocket required."
 		""
 		"Note: the moon contains Desh."
 	]
@@ -2034,26 +2078,18 @@
 	quest.5CFAC0E0451F6ADD.quest_desc: ["The Tesseract allows you to transport Items, Fluid and Energy. Tesseracts work at any distance and even across dimensions! Use multiple channels to have different groups of Tesseracts!"]
 	quest.5CFAC0E0451F6ADD.quest_subtitle: "Tesseract"
 	quest.5D1A100CF3709F01.quest_desc: ["These crafting tables are used for more complex crafting recipes. Automated versions are also avaliable. See JEI for more details."]
-	quest.5D378E95DFBB5DCC.quest_desc: [
-		"To place your Rocket, you need 9 Rocket Launch Pads and place them in a 3x3 on the ground. Then, you just need to right click on the launch pads with your Rocket."
-		""
-		"Always make sure to take extra launch pads with you! They do not travel with your rocket when it takes off..."
-	]
+	quest.5D378E95DFBB5DCC.quest_desc: ["Place your rocket on the launch pad to get ready to start your space journey!"]
 	quest.5D5354A10309133E.quest_desc: ["Alchemical Coal is a fuel added by ProjectE. It burns four times as long as regular Coal and is able to smelt 32 items. Alchemical Coal is used in the production of Mobius Fuel."]
 	quest.5D554AD1078BFB44.quest_desc: ["The crafting table on a stick from Actually Additions can be used in a charm slot!"]
 	quest.5D78B43DAB5756C1.quest_desc: ["Get rid of excess items from your mob drops (think broken armor, bows, etc)."]
 	quest.5DD07EE53865E25C.quest_desc: ["One is all and all is one."]
 	quest.5DD07EE53865E25C.quest_subtitle: "Avaritia"
 	quest.5DF4D12AFAF3972E.quest_desc: [
-		"Stellaris introduces an expansive and immersive space exploration experience within the familiar Minecraft universe. Players can discover new planets, moon and galaxies!"
+		"Ad Astra! (translation: \"To the Stars!\") is a space mod for Fabric and Forge with a focus on technology, travel and exploration. We've got everything you need to become an astronaut: rockets, space suits, space stations and machines. Why not take a stroll on the Moon? Build a self-sustaining bunker on Mars? Go mining on Venus? The entire Solar System, better yet, Milky Way, is at your disposal!"
 		""
-		"The rocket station will allow you to craft rockets!"
-		""
-		"Note: Stellaris is still on development, so things may change and there may be bugs! Don't leave anything valuable behind when you leave space - it might be destroyed by a meteor :)"
-		""
-		"&4Known bug: Opening any GUI while in a rocket will make it so that you are unable to land on any planet. If this happens, you will need to somehow die or use commands \"/skyblock spawn\" or \"/skyblock home\" to get back to your island. This has been reported to the mod dev.&r"
+		"The NASA Workbenck will allow you to craft rockets. The Astrodux will explain all about the technology and planets in the mod!"
 	]
-	quest.5DF4D12AFAF3972E.quest_subtitle: "Stellaris"
+	quest.5DF4D12AFAF3972E.quest_subtitle: "Ad Astra"
 	quest.5E2AD42305DE2B60.quest_desc: ["In strong lighting, or if placed in the nether, it will generate a passive 40 EMC per second up to a maximum of 60,000 EMC. When placed adjacent to a Energy Condenser MK1, Energy Condenser MK2, Energy Condenser MK3, Anti-Matter Relay MK1, Anti-Matter Relay MK2, or Anti-Matter Relay MK3, it will transfer the EMC into that machine. "]
 	quest.5E44820EC853BAA9.quest_desc: [
 		"Upgraded from the diamond mesh. Requires a netherite upgrade smithing template, which can be found in nether bastions."
@@ -2134,6 +2170,8 @@
 		"Wireless terminal"
 		"Filtered connectors"
 		"Inventory Hopper"
+		""
+		"&4Note: To help with performance, consider placing the terminal directly on the inventory connector block.&r"
 	]
 	quest.60F6E5AB8FBA3AD3.quest_subtitle: "Tom's Simple Storage"
 	quest.60F7B6780A2BEBFC.quest_desc: [
@@ -2155,7 +2193,7 @@
 	quest.6168444BBA2517D8.quest_subtitle: "AppliedE"
 	quest.6168444BBA2517D8.title: "ME Transmutation"
 	quest.61777EB299FB94E0.quest_desc: ["Made of 10,000 lapis"]
-	quest.618D53FB7973A7A1.quest_desc: ["To create Fuel, you need to input oil in the first slot. It will then generate fuel that you can get by putting a bucket in the last slot. You can also use the EnderIO Vat - it's a lot less buggy."]
+	quest.618D53FB7973A7A1.quest_desc: ["Fuel can be created by putting Ad Astra Oil into the Fuel Refinery. You can also use the EnderIO Vat if you wish, although that fuel recipe is more expensive."]
 	quest.61CFDD199E014C42.quest_desc: ["Prevents certain passive mobs from spawning, large radius"]
 	quest.61F806630090ECEC.quest_desc: ["Found on End City ships."]
 	quest.6220ED19B826E0CB.quest_desc: ["The Farmer is a machine for automatically growing and harvesting crops."]
@@ -2254,11 +2292,9 @@
 	quest.66C4AAA972B39531.quest_desc: ["Trust me, this will make your life a lot easier (if you are playing normal mode...)"]
 	quest.66C4AAA972B39531.quest_subtitle: "Mystical Agriculture"
 	quest.67165901C0E6C509.quest_desc: ["Crafting ingredient needed to make recipe holders and encoders."]
-	quest.672951246DF850D1.quest_desc: ["Ice shards are found on cold moons and planets."]
 	quest.672B673A2F199A90.quest_desc: ["All Rotspawn drop utheric shards when killed."]
 	quest.67684E03885EB857.quest_desc: ["These blocks can all be processed through the compressed sieve to generate resources."]
 	quest.67684E03885EB857.title: "Compressed Sieving"
-	quest.678ACA1FAD9052E4.quest_desc: ["Generates power from radioactive materials."]
 	quest.67A73C10038C9156.quest_desc: ["Uses solar power (sun) to generate RF. Tier 7!"]
 	quest.67E4375F1DD59AA0.quest_desc: ["Faster conduits!"]
 	quest.67E4375F1DD59AA0.title: "Conduits - Tier 2"
@@ -2338,7 +2374,7 @@
 		""
 		"Before you can craft creative items, you must finish the quest chapter associated with the mod that the item belongs to."
 	]
-	quest.6B2C7902C393895B.quest_desc: ["Makes your rocket look like a normal rocket!"]
+	quest.6B2C7902C393895B.quest_desc: ["The Tier 4 Rocket will allow you to travel to Glacio, in addition to the capabilities of the previous tier(s)."]
 	quest.6B2F0714255943B6.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Visit Mercury\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"14F9F9F05968992D\" } }, \" to unlock.\" ]"]
 	quest.6B2F0714255943B6.quest_subtitle: "20 Coins"
 	quest.6B2F0714255943B6.title: "Legendary Reward Bag"
@@ -2351,7 +2387,11 @@
 	quest.6BC5D6D133C3F0A0.quest_desc: ["Upgrades for Ex Machinis machines. Hold shift while hovering over the upgrade to see its effects."]
 	quest.6BCDDE81CC8A2A67.quest_desc: ["Made up of 729 cobblestone!"]
 	quest.6C1BC64337960BA4.quest_desc: ["Machine frames are needed to make all Industrial Foregoing (and some other) machines."]
-	quest.6C1D7C9A68FBB65D.quest_desc: ["A creative-tier upgrade that provides infinite access to the stored item in a drawer without consuming the original stack."]
+	quest.6C1D7C9A68FBB65D.quest_desc: [
+		"A creative-tier upgrade that provides infinite access to the stored item in a drawer without consuming the original stack."
+		""
+		"Does not work with creative items."
+	]
 	quest.6C647123A99A46DD.quest_desc: ["This block generator has a speed of 8"]
 	quest.6C682E372AB94474.quest_desc: ["Max Blocks: 27"]
 	quest.6C71752F5F9B7222.quest_desc: ["Just like the wooden barrel, except this one can hold hot liquids such as lava."]
@@ -2424,6 +2464,7 @@
 	]
 	quest.701D82D7BB8B6812.quest_subtitle: "Immersive Engineering"
 	quest.707FCC07A558D9C6.quest_desc: ["Produces passive power by utilizing the temperature difference between two adjacent blocks, such as ice and lava."]
+	quest.709A48BFDF90C78D.quest_desc: ["Enables you to breath oxygen in space while wearing armor besides the space suit (make sure your armor has the proper enchants/modules/updrades to survive in space). This oxygen can works on both hot and cold celestial bodies."]
 	quest.709AE9E272CD7894.quest_desc: ["Upgraded machine frames are crafted using the Dissolution Chamber. See JEI.. Requires Ether Gas, harvested from a wither using a fluid laser."]
 	quest.70A8E4AE5CBA60D7.quest_desc: [
 		"To use framed blocks:"
@@ -2508,7 +2549,13 @@
 		""
 		"Tier 6 seeds require insanium essence to craft and a corresponding crux in order to grow."
 	]
-	quest.736D8DE746E2BC8D.quest_desc: ["Use in an infuser to craft or infuse various items."]
+	quest.736D8DE746E2BC8D.quest_desc: [
+		"Use inside of an infuser to craft or infuse various items. Can also be eaten to cure you from the sickness."
+		""
+		"Found beneath the dreadrock at the bottom of the Undergarden. A Forgotten Pickaxe is required to break dreadrock."
+		""
+		"Be careful, the longer you stay under the dreadrock, the sicker you will get."
+	]
 	quest.737DDA1BE324E0ED.quest_desc: ["This block generator has a speed of 4"]
 	quest.737F70A6CF790A64.quest_desc: ["A simple generator from coal or charcoal"]
 	quest.737F70A6CF790A64.quest_subtitle: "RF Tools"
@@ -2522,7 +2569,11 @@
 		"Uniquely, the SAG Mill can use Grinding Balls made from various materials to increase energy efficiency (resulting in higher processing speed), increase bonus output chances, and add a chance to double all output. This makes the SAG Mill a popular option for ore processing, especially for ores with desirable bonus outputs. "
 	]
 	quest.74353DACE7BECFB0.quest_desc: ["Desh can be found on the moon."]
-	quest.74795B5D24F8B27F.quest_desc: ["Similar to the Storage Terminal, but with the addition of a crafting interface."]
+	quest.74795B5D24F8B27F.quest_desc: [
+		"Similar to the Storage Terminal, but with the addition of a crafting interface."
+		""
+		"&4Note: To help with performance, consider placing the terminal directly on the inventory connector block.&r"
+	]
 	quest.749846E05249E17D.quest_desc: [
 		"The wrench is used to configure pipez. Other cable options are obtainable as you move through the pack."
 		""
@@ -2621,6 +2672,7 @@
 		""
 		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
 	]
+	quest.792487DB89DE3B99.quest_desc: ["This blast furnace makes steel cheaper and can also be used to create Etrium ingots."]
 	quest.79929E7B59774B6F.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for niotic tier Powah items."]
 	quest.79A6A2865FCF6823.quest_desc: ["Uses solar power (sun) to generate RF. Tier 1!"]
 	quest.79C940682CE162AD.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
@@ -2629,11 +2681,6 @@
 	quest.79F4C05D5286D51B.quest_subtitle: "Hostile Neural Networks"
 	quest.7A0CF4B9EC0C721A.quest_desc: ["As a Furnace fuel it is twice as efficient as Coal; it will smelt 16 items, while Coal will only smelt 8. "]
 	quest.7A2458033521612B.quest_desc: ["Essence Tools are higher tier tools that can be upgraded using Augments."]
-	quest.7A4526B9E3692400.quest_desc: [
-		"Some planets are far away and need a larger amount of Fuel."
-		""
-		"This upgrade changes the maximum capacity of the Rocket fuel tank."
-	]
 	quest.7A5DEEFFB61A001D.quest_desc: [
 		"There are six tiers of seeds in Mystical Agricuture."
 		""
@@ -2703,20 +2750,15 @@
 	quest.7E56A182F8DEF697.quest_desc: ["The Crusher, well, crushes things. Not to be mistaken for the Enrichment Chamber."]
 	quest.7E7C8A3B94BF6C37.quest_desc: ["Enchant your meshes with efficiency and fortune for more speed and better drop rates!"]
 	quest.7ED21876B4C1CE24.quest_desc: ["Obtained by reprocessing benitoite with rossinite, which is a waste product from using verderium as fuel in a reactor."]
-	quest.7EE2214DA65D041B.quest_desc: ["Makes your rocket look like a big rocket!"]
 	quest.7EEF3486A0EB8B61.quest_desc: ["Use energy to automate chiseling blocks! "]
-	quest.7EF319CB8B4339B6.quest_desc: [
-		"A space suit is required to survive on other planets and moons."
-		""
-		"Beware of fall damage with the gravity on different planets/moons!"
-	]
+	quest.7EF319CB8B4339B6.quest_desc: ["This space suit will protect you on celestial bodies with cold enviornments (the moon, Mars, Glacio)."]
 	quest.7EF319CB8B4339B6.title: "Space Suit"
 	quest.7EFFE27D4D7E6668.quest_desc: [
 		"Store RF, like a battery!"
 		""
 		"It is a shapeless multiblock; putting a Basic Capacitor Bank next to another Basic Capacitor Bank will combine their energy storage."
 	]
-	quest.7F1466B397B51F04.quest_desc: ["Combine Rogdorium and Utheric Shards in an Infuser to obtain Utherium Crystals."]
+	quest.7F1466B397B51F04.quest_desc: ["Combine Rogdorium (or colorful gems) and Utheric Shards in an Infuser to obtain Utherium Crystals."]
 	quest.7F147A591795B284.quest_desc: [
 		"The finity of aura in the world can be troubling to think about, because once it is drained, it seems like it is not restorable. That, however, is not the case: there are many ways to regenerate aura. See the guidebook for instructions."
 		""
@@ -2741,13 +2783,17 @@
 	]
 	quest.7FF33FA53596F5F3.quest_subtitle: "Dimension Expansion"
 	reward_table.18391202155E43DC.title: "Loot Crate"
+	reward_table.22D9CD26D8F3D1D0.title: "Plushie Reward"
+	reward_table.31B279BE26818EE2.title: "Quests"
 	reward_table.31D1469D74D2DE9B.title: "Uncommon Reward"
 	reward_table.386F90497293500B.title: "Common Reward"
 	reward_table.3D615535F00424DD.title: "Rare Reward"
 	reward_table.4AC6B1253BF1671D.title: "Legendary Reward"
+	reward_table.50353CDD77689199.title: "Quest Reward"
 	reward_table.5F292F7F7DE2F1B1.title: "Epic Reward"
 	reward_table.67B79C569FD5FB4F.title: "Random Reward"
 	reward_table.6E0B4B9793B92F74.title: "Artifact Reward"
+	reward_table.7B6DA3075B0F3C02.title: "4671B60CA5B21433"
 	task.04C8F88A9A8538C1.title: "Bedrock"
 	task.05027AE7D1DF0A1C.title: "Chaos Dragon Tips"
 	task.0E554619515686AA.title: "Demon"

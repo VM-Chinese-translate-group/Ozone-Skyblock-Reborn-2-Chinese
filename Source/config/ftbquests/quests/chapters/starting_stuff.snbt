@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "695D13ED6FF379A4"
 			image: "kubejs:textures/ftblogo.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -17,9 +18,9 @@
 			y: -12.0d
 		}
 		{
-			click: "https://discord.gg/GhwnpFeWKH"
+			click_action: "open_uri:https://discord.gg/GhwnpFeWKH"
 			height: 1.0d
-			hover: ["Join the Discord!"]
+			id: "24C02D3BC9156628"
 			image: "moonlight:textures/gui/sprites/media/discord.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -86,6 +87,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "41539379E66E34ED"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -202,6 +209,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2265D9F689273D64"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -376,6 +389,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2EF405E3943E52E0"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -968,6 +987,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "2F9F5E97546776ED"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "12DFFC961E75282B"
@@ -996,6 +1021,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6994620BFB388920"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1245,6 +1276,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "1761D7D2E23EFB1D"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "272EE42B31F779A7"
@@ -1304,6 +1341,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "37F1CDFCA496FD21"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{

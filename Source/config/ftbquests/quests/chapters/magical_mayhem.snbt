@@ -9,6 +9,7 @@
 	id: "601DE1E7A9B34F09"
 	images: [{
 		height: 1.5d
+		id: "10A0BD27872B40AC"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d
@@ -66,6 +67,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2C890DE3A1F4C0CE"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -300,11 +307,18 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "3CD48D7579BA185E"
-				item: { count: 1, id: "theurgy:mercury_catalyst" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3CD48D7579BA185E"
+					item: { count: 1, id: "theurgy:mercury_catalyst" }
+					type: "item"
+				}
+				{
+					id: "150CDCFB2E8D9BE0"
+					item: { count: 1, id: "theurgy:caloric_flux_emitter" }
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 2.5d
 		}
@@ -356,6 +370,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3FC6074DA0F5A99A"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -568,10 +588,7 @@
 			y: 2.5d
 		}
 		{
-			dependencies: [
-				"072C62252199E65E"
-				"1953C0F0AE829809"
-			]
+			dependencies: ["107E79EE3E89F382"]
 			id: "16F347B287BA5A57"
 			rewards: [
 				{
@@ -590,13 +607,36 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "696F363CBE25641C"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
-			tasks: [{
-				id: "43A6429E8D246549"
-				item: { count: 1, id: "theurgy:incubator" }
-				type: "item"
-			}]
-			x: 4.0d
+			tasks: [
+				{
+					id: "43A6429E8D246549"
+					item: { count: 1, id: "theurgy:incubator" }
+					type: "item"
+				}
+				{
+					id: "79822EC582054DA1"
+					item: { count: 1, id: "theurgy:incubator_mercury_vessel" }
+					type: "item"
+				}
+				{
+					id: "5ABD527C617012AC"
+					item: { count: 1, id: "theurgy:incubator_salt_vessel" }
+					type: "item"
+				}
+				{
+					id: "1E79F9473A05A977"
+					item: { count: 1, id: "theurgy:incubator_sulfur_vessel" }
+					type: "item"
+				}
+			]
+			x: 2.0d
 			y: 4.0d
 		}
 		{
@@ -649,6 +689,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B0F0E8261EEC503"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -746,6 +792,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7270F961275AC175"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [
@@ -1055,6 +1107,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4831769E680A44CF"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1566,6 +1624,55 @@
 			}]
 			x: 6.0d
 			y: 7.0d
+		}
+		{
+			dependencies: [
+				"072C62252199E65E"
+				"1953C0F0AE829809"
+			]
+			id: "107E79EE3E89F382"
+			rewards: [
+				{
+					id: "6B586F171B5862C5"
+					item: {
+						count: 1
+						id: "chancecubes:chance_cube"
+					}
+					type: "item"
+				}
+				{
+					id: "3D755408FCF72B13"
+					item: {
+						count: 1
+						id: "kubejs:coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4EE8884B38C4E4BA"
+					item: { count: 1, id: "theurgy:reformation_target_pedestal" }
+					type: "item"
+				}
+				{
+					id: "20D6719B7E4AD47A"
+					item: { count: 1, id: "theurgy:reformation_source_pedestal" }
+					type: "item"
+				}
+				{
+					id: "3B78F3FEF2D024E0"
+					item: { count: 1, id: "theurgy:reformation_result_pedestal" }
+					type: "item"
+				}
+				{
+					id: "47A44C20EA7C4A9A"
+					item: { count: 1, id: "theurgy:sulfuric_flux_emitter" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
 		}
 	]
 }

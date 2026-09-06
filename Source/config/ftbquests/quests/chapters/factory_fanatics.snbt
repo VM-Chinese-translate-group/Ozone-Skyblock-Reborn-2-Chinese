@@ -9,6 +9,7 @@
 	id: "2658F0CCAA937298"
 	images: [{
 		height: 1.5d
+		id: "28A8CA687224ADBF"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d
@@ -368,6 +369,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "5AB5D3D6716F47FD"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [
 				{
@@ -473,6 +480,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "5692773E4F2B68CC"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "4E84EA7AD19E1419"
@@ -501,6 +514,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4FB4DEC91FC3FF79"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [
@@ -707,6 +726,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "17014E4A7A2AEF3C"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [{
 				id: "28D60E8AE71C387C"
@@ -884,6 +909,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08A6994543F244DF"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [
@@ -1151,6 +1182,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A0FFF736311B3B4"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1537,6 +1574,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "5C4E4FE4F8C88990"
+					table_id: 5779592618688680345L
+					type: "loot"
+				}
 			]
 			tasks: [
 				{
@@ -1665,6 +1708,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A625FFFA64FFD66"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{
@@ -1810,6 +1859,12 @@
 						id: "kubejs:coin"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F875507414632D5"
+					table_id: 5779592618688680345L
+					type: "loot"
 				}
 			]
 			tasks: [{

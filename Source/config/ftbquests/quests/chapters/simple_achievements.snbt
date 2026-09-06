@@ -6,6 +6,7 @@
 	id: "29534AE5CE34445D"
 	images: [{
 		height: 1.5d
+		id: "33545A0D8C734BF4"
 		image: "kubejs:textures/ftblogo.png"
 		rotation: 0.0d
 		width: 3.0d

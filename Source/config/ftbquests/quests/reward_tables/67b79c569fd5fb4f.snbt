@@ -115,6 +115,7 @@
 		{ id: "1047B19354648235", item: { count: 1, id: "enderio:enchanter" } }
 		{ id: "1EE39EB55E40FFB8", item: { count: 1, id: "exdeorum:bone_crook" } }
 		{ id: "6EFE7A4A50A506CE", item: { count: 1, id: "pickletweaks:emerald_boots" } }
+		{ id: "6838185E081E055B", item: { count: 1, id: "mekanism_extras:alloy_radiance" } }
 	]
 	use_title: true
 }
