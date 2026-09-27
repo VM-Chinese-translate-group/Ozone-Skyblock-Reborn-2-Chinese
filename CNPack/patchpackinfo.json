@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
-  "name": "整合包名字简中汉化",
-  "description": "xxx整合包简体中文汉化，记得额外下载i18n模组",
-  "modpackVersionRange": "[- 1.8,)",
+  "name": "Ozone Skyblock Reborn 2简中汉化",
+  "description": "Ozone Skyblock Reborn 2简体中文汉化，记得额外下载i18n模组",
+  "modpackVersionRange": "[1.8,)",
   "authors": [
     "VM汉化组"
   ],

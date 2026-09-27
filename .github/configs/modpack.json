@@ -2,7 +2,7 @@
   "configured": true,
   "packId": 1358268,
   "packName": "Ozone Skyblock Reborn 2",
-  "versionPattern": "Ozone Skyblock Reborn 2 {version}",
+  "versionPattern": "Ozone Skyblock Reborn 2-{version}",
   "updateMethod": "api",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
