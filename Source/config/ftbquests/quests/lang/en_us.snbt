@@ -49,6 +49,8 @@
 	]
 	quest.01A800996EF1127A.quest_subtitle: "Pneumaticcraft"
 	quest.01B8A92F5254E941.quest_desc: ["Stores the same amount of items, but can hold four different types!"]
+	quest.01C55C1EAE8BFDA0.quest_desc: ["The Hydroponic Bed acts as farmland, so you plant a crop or sapling directly on top of it. If a crop requires a crux, place it below the bed. It needs Water and power to run, and supplying Ether Gas lets it automatically harvest the mature plant."]
+	quest.01C55C1EAE8BFDA0.quest_subtitle: "Industrial Foregoing"
 	quest.02316C06703C7D2B.quest_desc: ["A basic crafting material used as a key ingredient in many of Extended Crafting's advanced components."]
 	quest.0231C9D125B29E7E.quest_desc: [
 		"Basic upgrade adds: Redstone modes."
@@ -88,7 +90,7 @@
 	quest.02E01BE2547A5F38.quest_subtitle: "Mystical Agriculture"
 	quest.03122E9277646415.quest_desc: ["Prevents hostile mobs from spawning, large radius"]
 	quest.032193BAE8D6E08E.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
-	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in a refinery will create Ad Astra oil."]
+	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in an Immersive Engineering refinery will create Ad Astra oil."]
 	quest.03A0FA63A3AFBC5D.quest_desc: [
 		"Metal blocks are easy to craft in normal, much harder in expert."
 		""
@@ -449,6 +451,9 @@
 	]
 	quest.130380166BF98207.quest_desc: ["A multiblock structure that fills items with fluids, such as turning empty bottles into potions or imbuing tools with lubricant and other liquids."]
 	quest.130380166BF98207.title: "Bottling Machine"
+	quest.13267CC3ECCC01A5.quest_desc: ["These can be used to simplify the adding and removing of souls in your AE storage. Refer to the guide (hold \"G\" while hovering over the item) for full details."]
+	quest.13267CC3ECCC01A5.quest_subtitle: "Applied Souls"
+	quest.13267CC3ECCC01A5.title: "AE Souls"
 	quest.137F5A524DB75A97.quest_desc: ["Potion ingredient, found in nether fortresses."]
 	quest.1388958122E58F71.quest_desc: ["Potion ingredient, slay a ghast to obtain."]
 	quest.138FFE0F7A3437A7.quest_desc: ["The Singularity Tank is a basic fluid tank that will hold 32 Buckets of any fluid. Use it to store XP from your mob farm! You can also craft an XP Drain Singularity Tank to store player XP as liquid XP."]
@@ -576,7 +581,11 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.1AB8244D9A52E7F4.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for hardened tier Powah items."]
+	quest.1AB8244D9A52E7F4.quest_desc: [
+		"Crafted using the energizing orb. Used in crafting recipes for hardened tier Powah items."
+		""
+		"There are more efficient ways to craft as well, see JEI."
+	]
 	quest.1AE2DA480EB23947.quest_desc: ["Used to make plastic. Refer to JEI and the manual."]
 	quest.1AE506C74AF7D407.quest_desc: ["The best draconic scientists have figured out a way to duplicate chaos shards. Breaking down a chaos shard into its tiniest fragments will allow you to transform it into something that can be refined to create large chaos fragments."]
 	quest.1B071BEFDEC69615.quest_desc: ["The cryo freezer can turn ice shards into a more efficient fuel source for your rockets. 1 bucket of cryo fuel is equivalent to 3 buckets of fuel. Ice shards can be found on cold celestial bodies, such as the moon, Mars, and Glacio."]
@@ -731,9 +740,11 @@
 		"Once you have some souls stored, now you need to place a Soul Surge pointing at the block you want to accelerate and connect it using Soul Pipes to the Soul Laser Base. You can stop the Soul Surge from working by applying a redstone signal to it."
 		""
 		"Each soul lasts for 15 seconds and makes the machine 4 times faster."
+		""
+		"Applied Souls is included in this pack, and provides easy ways to add and remove souls from your AE network."
 	]
 	quest.21FD5B61FBBCA913.quest_subtitle: "Industrial Foregoing Souls"
-	quest.21FD5B61FBBCA913.title: "Tick Acceleration"
+	quest.21FD5B61FBBCA913.title: "Souls Tick Acceleration"
 	quest.2201A958694C7F35.quest_desc: ["Cables (and connectors) can have four different colors (and a base version). These are used to be able to distinguish multiple distinct networks adjacent to each others (to prevent the cables from connecting). A controller will adapt its color to the first colored cable it can find around it and then remember that (unless that color is totally removed)."]
 	quest.220E723BF056F6D6.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.2226EAAF3B304A2D.quest_desc: [
@@ -756,6 +767,8 @@
 	quest.228FC9A995457D3C.quest_desc: ["This block generator has a speed of 32"]
 	quest.22B16AE1B2684DCB.quest_desc: [
 		"&2For tick acceleration earlier in the game, look up the temporal pouch in JEI!&r"
+		""
+		"[ \"See also: \", { \"text\": \"Souls Tick Acceleration\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"21FD5B61FBBCA913\" } } ]"
 		""
 		"This is a small, simple mod that adds various torches that can be used to increase the tick rates of tile entities. In other words: they make machines run faster, crops grow faster, etc..."
 		""
@@ -1218,6 +1231,9 @@
 		"\"How do I get more than five hearts?\""
 		"- Eat a wide variety of food to gain permenant hearts!"
 		""
+		"\"Why so many types of power?\""
+		"- Some mods like to name their power. Generally, all power is the same across mods. RF = FE = CF = µI"
+		""
 		"\"How do I get [insert item here]?\""
 		"- Use JEI to find recipes. Also, vanilla mechanics still apply for many vanilla items (i.e. finding upgrade templates in bastions)."
 		""
@@ -1238,7 +1254,6 @@
 	]
 	quest.39BB1EE4D2B24353.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
 	quest.39BC864BAA5BEF13.quest_desc: ["PackagedAuto is an addon to Applied Energistics 2, and it aims to use \"packages\" of items to allow autocrafting with more than 9 items, and fluid crafting is also supported."]
-	quest.39BC864BAA5BEF13.quest_subtitle: "Packaged Auto"
 	quest.39D148ACFB96F5F9.quest_desc: ["Stores the same amount of fluid, but can hold four different types!"]
 	quest.39E081184335B6E1.quest_desc: ["The Awakening Altarnator is a single-block automatable version of the Awakening Altar."]
 	quest.39E081184335B6E1.quest_subtitle: "Mystical Automation"
@@ -1525,6 +1540,8 @@
 		"Just like the regular sieve, you can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square)."
 		""
 		"Sieves can be automated if you place a click machine below them, pointing up! Better sieving automation can be achieved as well. "
+		""
+		"Note: In JEI, sieve drops for compressed blocks will not always show all drops. Generally, compressed blocks will yield the same drops as the uncompressed variety - just at a higher rate!"
 	]
 	quest.45A5707D025CD692.quest_desc: [
 		"The Diamond Apple grants the following potion effects:"
@@ -1537,7 +1554,7 @@
 	quest.45ACDBE42962793A.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.45D448B5B0D04FDB.quest_desc: ["Receives wireless redstone signals."]
 	quest.45E28C06FE4C7789.quest_desc: ["A two-slotted compacting drawer."]
-	quest.45E3F8498766ED51.quest_desc: ["Even faster conduits!"]
+	quest.45E3F8498766ED51.quest_desc: ["Even faster conduits! Higher tiers exist, see JEI."]
 	quest.45E3F8498766ED51.title: "Conduits - Tier 3"
 	quest.45EDE15AF534BBF5.quest_desc: ["Made using an etching tank and etching acid at first, then can be made using the assembly controller."]
 	quest.462375E9E65C799F.quest_desc: [
@@ -1650,6 +1667,12 @@
 		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4EAD2382EBF87769\" } } ]"
 	]
 	quest.4B893A1BDA3CEC33.quest_desc: ["A powerful sword in it's own right by charging it and using activating it (C) the Dark Matter Sword will consume EMC in exchange for a devastating sweep attack. The area of the attack is controlled by charge level (V, shift+V)."]
+	quest.4BC78C7C9A17B43A.quest_desc: [
+		"Using the base tier bed, first collect data into a Simulation Processor."
+		""
+		"The Simulated Hydroponic Bed grows crops from stored simulation data and only needs power to run, with no Water, Ether Gas, or physical plant required."
+	]
+	quest.4BC78C7C9A17B43A.title: "Simulated Hydroponics"
 	quest.4BCB152BBCEB3B90.quest_desc: [
 		"The Environmental Eye is very useful in theory; however, a lot of magical botanists struggle with its limited range of gauging aura in the environment around them. A simple solution to this problem is the Environmental Ocular. While working similarly to the Environmental Eye, the main difference is its much bigger gauge for aura in the area: It is twice as large."
 		""
@@ -1877,9 +1900,11 @@
 	quest.537E84EDD29F486A.quest_desc: ["Steeleaf is a tool and armor material found in Labyrinth, Hollow Hill, and Dark Tower chests. This material is as powerful as Diamond in a tool or armor, but is less durable than even Iron."]
 	quest.53ADBC3ADF1C83C0.quest_desc: ["Made of 10,000 invar ingots"]
 	quest.53F53BD4220B295B.quest_desc: [
-		"Early game power. Generate power (RF) from coal. Other power generation options are obtainable as you move through the pack."
+		"Early game power. Generate power (RF/FE/CF/µI/etc...) from coal. Other power generation options are obtainable as you move through the pack."
 		""
 		"Note: To make compressed iron in the early game, set off an explosion next to some iron ingots (TNT plus redstone signal). They will be converted to compressed iron, with a 20% loss rate on average."
+		""
+		"About power: Generally, all power is the same across mods. RF = FE = CF = µI"
 	]
 	quest.53F53BD4220B295B.quest_subtitle: "Industrial Foregoing"
 	quest.53F5A5A785503096.quest_desc: ["Energy storage item that holds and transfers RF"]
@@ -1974,7 +1999,6 @@
 	quest.584678F8D7970634.quest_desc: ["Part of the multiblock. Stores the lava used by the foundry for melting materials."]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
 	quest.5873CD588D98B39D.quest_desc: ["A sword with 6 attack damage."]
-	quest.591D0AF49970A691.quest_desc: ["This ingot can be used to create decorative blocks and is also required for late-game crafting."]
 	quest.594A3262325FDCFF.quest_desc: ["More features, and higher durability!"]
 	quest.595C4352743D4003.quest_desc: ["FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."]
 	quest.595C4352743D4003.quest_subtitle: "Framed Blocks"
@@ -2292,6 +2316,7 @@
 	quest.66C4AAA972B39531.quest_desc: ["Trust me, this will make your life a lot easier (if you are playing normal mode...)"]
 	quest.66C4AAA972B39531.quest_subtitle: "Mystical Agriculture"
 	quest.67165901C0E6C509.quest_desc: ["Crafting ingredient needed to make recipe holders and encoders."]
+	quest.67165901C0E6C509.quest_subtitle: "PackagedAuto"
 	quest.672B673A2F199A90.quest_desc: ["All Rotspawn drop utheric shards when killed."]
 	quest.67684E03885EB857.quest_desc: ["These blocks can all be processed through the compressed sieve to generate resources."]
 	quest.67684E03885EB857.title: "Compressed Sieving"
@@ -2620,6 +2645,8 @@
 	quest.76110B292750ABFA.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
 	quest.7613DCA157D6F599.quest_desc: ["Functions like a regular Laser Connector but supports faster transfer speeds and longer connection ranges."]
 	quest.761C779A9A7EB48B.quest_desc: ["Turns nether stars into RF."]
+	quest.7633206043183189.quest_desc: ["Store air, chemicals, power, and souls in your AE system!"]
+	quest.7633206043183189.title: "Other Cell Types"
 	quest.76685F7238F1FDAA.quest_desc: ["Fill an experience obelisk with 2000 levels worth of experience."]
 	quest.7669D1D2ADABBC61.quest_desc: ["Energy cubes can be used to hold large amounts of RF. The higher the tier, the more RF can be stored. Tier 2!"]
 	quest.7690DEBD9A96EAF3.quest_desc: ["Found via mining in the Aether."]
@@ -2672,7 +2699,6 @@
 		""
 		"As you move up in the mesh tiers, the drops from sifting blocks changes. See JEI for details."
 	]
-	quest.792487DB89DE3B99.quest_desc: ["This blast furnace makes steel cheaper and can also be used to create Etrium ingots."]
 	quest.79929E7B59774B6F.quest_desc: ["Crafted using the energizing orb. Used in crafting recipes for niotic tier Powah items."]
 	quest.79A6A2865FCF6823.quest_desc: ["Uses solar power (sun) to generate RF. Tier 1!"]
 	quest.79C940682CE162AD.quest_desc: ["Crafting component and energy storage item used to build and upgrade generators, energy cells, and other power-related devices."]
