@@ -49,6 +49,8 @@
 	]
 	quest.01A800996EF1127A.quest_subtitle: "Pneumaticcraft"
 	quest.01B8A92F5254E941.quest_desc: ["拥有同样的物品存储总量，但能容纳四种不同物品！"]
+	quest.01C55C1EAE8BFDA0.quest_desc: ["The Hydroponic Bed acts as farmland, so you plant a crop or sapling directly on top of it. If a crop requires a crux, place it below the bed. It needs Water and power to run, and supplying Ether Gas lets it automatically harvest the mature plant."]
+	quest.01C55C1EAE8BFDA0.quest_subtitle: "Industrial Foregoing"
 	quest.02316C06703C7D2B.quest_desc: ["A basic crafting material used as a key ingredient in many of Extended Crafting's advanced components."]
 	quest.0231C9D125B29E7E.quest_desc: [
 		"基础升级新增的功能有：红石模式。"
@@ -75,7 +77,7 @@
 		""
 		"要生成圆石以外的其他方块，请参阅JEI。"
 		""
-		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4BDA60A93E629E04\" } } ]"
+		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4BDA60A93E629E04\" } } ]"
 	]
 	quest.02AA09894A7363BD.quest_subtitle: "Cobblegen Galore"
 	quest.02B0D8895641DC69.quest_desc: [
@@ -88,7 +90,7 @@
 	quest.02E01BE2547A5F38.quest_subtitle: "Mystical Agriculture"
 	quest.03122E9277646415.quest_desc: ["Prevents hostile mobs from spawning, large radius"]
 	quest.032193BAE8D6E08E.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
-	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in a refinery will create Ad Astra oil."]
+	quest.0390812A07C4ABB8.quest_desc: ["Biodisel plus biofuel plus sky stone dust in an Immersive Engineering refinery will create Ad Astra oil."]
 	quest.03A0FA63A3AFBC5D.quest_desc: [
 		"在普通难度下合成金属块非常简单，但在专家模式则相当难。"
 		""
@@ -194,7 +196,7 @@
 		"Removes energy from the flux network"
 	]
 	quest.07FD17445A955429.quest_desc: ["Enables you to automate complex crafting recipes. Putting an inventory on top will allow it to automatically pull items into the crafting table."]
-	quest.0802317B97D895D4.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Canola Press\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5F0F1FFB4160C1C0\" } }, \" to unlock.\" ]"]
+	quest.0802317B97D895D4.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Canola Press\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5F0F1FFB4160C1C0\" } }, \" to unlock.\" ]"]
 	quest.0802317B97D895D4.quest_subtitle: "10 Coins"
 	quest.0802317B97D895D4.title: "Rare Reward Bag"
 	quest.080B650EBD5E9738.quest_desc: ["Processors are one of the primary ingredients in AE2 devices and machines. They are also one of your first big automation challenges. There are three types of processor, made with gold, Certus Quartz Crystal, and diamond respectively. They are made using presses in an Inscriber, in a multi-step process (usually achieved via a series of inscribers and filtered piping)."]
@@ -448,6 +450,9 @@
 	]
 	quest.130380166BF98207.quest_desc: ["一个多方块结构，能够将流体灌入物品。例如将药水灌入空瓶或是为工具灌入润滑剂等液体。"]
 	quest.130380166BF98207.title: "灌装机"
+	quest.13267CC3ECCC01A5.quest_desc: ["These can be used to simplify the adding and removing of souls in your AE storage. Refer to the guide (hold \"G\" while hovering over the item) for full details."]
+	quest.13267CC3ECCC01A5.quest_subtitle: "Applied Souls"
+	quest.13267CC3ECCC01A5.title: "AE Souls"
 	quest.137F5A524DB75A97.quest_desc: ["Potion ingredient, found in nether fortresses."]
 	quest.1388958122E58F71.quest_desc: ["Potion ingredient, slay a ghast to obtain."]
 	quest.138FFE0F7A3437A7.quest_desc: ["奇异储罐是一种基础的流体储罐，能够容纳32桶流体。用它来存储刷怪场的经验吧！你还可以合成一个地漏经验奇异储罐，将你的经验存储为流体经验。"]
@@ -508,7 +513,7 @@
 	quest.172D9D871C55C62F.quest_desc: [
 		"A way to tick accelerate blocks, Time-in-a-Bottle style. The longer it is kept in your inventory, the more time you can save! Click a block multiple times to speed it up even faster!"
 		""
-		"[ \"For automated tick acceleration, check out this quest \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"21FD5B61FBBCA913\" } } ]"
+		"[ \"For automated tick acceleration, check out this quest \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"21FD5B61FBBCA913\" } } ]"
 	]
 	quest.172D9D871C55C62F.quest_subtitle: "Gadgets Against Grind"
 	quest.175ABA1A1E81745D.quest_desc: ["Energy storage item that holds and transfers RF"]
@@ -574,7 +579,11 @@
 		""
 		"Refer to the Book of Natural Aura (guidebook) for full detailed information on Nature's Aura."
 	]
-	quest.1AB8244D9A52E7F4.quest_desc: ["使用充能台制作，用于硬化等级的Powah物品合成配方。"]
+	quest.1AB8244D9A52E7F4.quest_desc: [
+		"使用充能台制作，用于硬化等级的Powah物品合成配方。"
+		""
+		"There are more efficient ways to craft as well, see JEI."
+	]
 	quest.1AE2DA480EB23947.quest_desc: ["用于制造塑料，详情查阅JEI和手册。"]
 	quest.1AE506C74AF7D407.quest_desc: ["The best draconic scientists have figured out a way to duplicate chaos shards. Breaking down a chaos shard into its tiniest fragments will allow you to transform it into something that can be refined to create large chaos fragments."]
 	quest.1B071BEFDEC69615.quest_desc: ["The cryo freezer can turn ice shards into a more efficient fuel source for your rockets. 1 bucket of cryo fuel is equivalent to 3 buckets of fuel. Ice shards can be found on cold celestial bodies, such as the moon, Mars, and Glacio."]
@@ -729,9 +738,11 @@
 		"Once you have some souls stored, now you need to place a Soul Surge pointing at the block you want to accelerate and connect it using Soul Pipes to the Soul Laser Base. You can stop the Soul Surge from working by applying a redstone signal to it."
 		""
 		"Each soul lasts for 15 seconds and makes the machine 4 times faster."
+		""
+		"Applied Souls is included in this pack, and provides easy ways to add and remove souls from your AE network."
 	]
 	quest.21FD5B61FBBCA913.quest_subtitle: "Industrial Foregoing Souls"
-	quest.21FD5B61FBBCA913.title: "Tick Acceleration"
+	quest.21FD5B61FBBCA913.title: "Souls Tick Acceleration"
 	quest.2201A958694C7F35.quest_desc: ["Cables (and connectors) can have four different colors (and a base version). These are used to be able to distinguish multiple distinct networks adjacent to each others (to prevent the cables from connecting). A controller will adapt its color to the first colored cable it can find around it and then remember that (unless that color is totally removed)."]
 	quest.220E723BF056F6D6.quest_desc: ["Components are used to craft catalysts. They get harder to craft as they move higher in tiers."]
 	quest.2226EAAF3B304A2D.quest_desc: [
@@ -754,6 +765,8 @@
 	quest.228FC9A995457D3C.quest_desc: ["This block generator has a speed of 32"]
 	quest.22B16AE1B2684DCB.quest_desc: [
 		"&2For tick acceleration earlier in the game, look up the temporal pouch in JEI!&r"
+		""
+		"[ \"See also: \", { \"text\": \"Souls Tick Acceleration\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"21FD5B61FBBCA913\" } } ]"
 		""
 		"This is a small, simple mod that adds various torches that can be used to increase the tick rates of tile entities. In other words: they make machines run faster, crops grow faster, etc..."
 		""
@@ -1184,7 +1197,7 @@
 		""
 		"The Slice'N'Splice requires two tools in order to function- an Axe and Shears. The creation process will not start without these. Each operation will take off one durability from each tool."
 	]
-	quest.38E8EA5AB3A98610.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Teleporter\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6EF67A87979A9378\" } }, \" to unlock.\" ]"]
+	quest.38E8EA5AB3A98610.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Teleporter\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6EF67A87979A9378\" } }, \" to unlock.\" ]"]
 	quest.38E8EA5AB3A98610.quest_subtitle: "15 Coins"
 	quest.38E8EA5AB3A98610.title: "Epic Reward Bag"
 	quest.3905C1E98C8931B0.quest_desc: [
@@ -1214,6 +1227,9 @@
 		"\"How do I get more than five hearts?\""
 		"- Eat a wide variety of food to gain permenant hearts!"
 		""
+		"\"Why so many types of power?\""
+		"- Some mods like to name their power. Generally, all power is the same across mods. RF = FE = CF = µI"
+		""
 		"\"How do I get [insert item here]?\""
 		"- Use JEI to find recipes. Also, vanilla mechanics still apply for many vanilla items (i.e. finding upgrade templates in bastions)."
 		""
@@ -1234,7 +1250,6 @@
 	]
 	quest.39BB1EE4D2B24353.quest_desc: ["Injectors must be correct tier for crafting, see JEI. Power is required for fusion crafting. Injectors are upgradable to next tier."]
 	quest.39BC864BAA5BEF13.quest_desc: ["PackagedAuto is an addon to Applied Energistics 2, and it aims to use \"packages\" of items to allow autocrafting with more than 9 items, and fluid crafting is also supported."]
-	quest.39BC864BAA5BEF13.quest_subtitle: "Packaged Auto"
 	quest.39D148ACFB96F5F9.quest_desc: ["拥有同样的流体存储总量，但能容纳四种不同流体！"]
 	quest.39E081184335B6E1.quest_desc: ["The Awakening Altarnator is a single-block automatable version of the Awakening Altar."]
 	quest.39E081184335B6E1.quest_subtitle: "Mystical Automation"
@@ -1521,6 +1536,8 @@
 		"Just like the regular sieve, you can sift using multiple compressed sieves at once by placing them next to each other (try a 3x3 square)."
 		""
 		"Sieves can be automated if you place a click machine below them, pointing up! Better sieving automation can be achieved as well. "
+		""
+		"Note: In JEI, sieve drops for compressed blocks will not always show all drops. Generally, compressed blocks will yield the same drops as the uncompressed variety - just at a higher rate!"
 	]
 	quest.45A5707D025CD692.quest_desc: [
 		"钻石苹果提供以下药水效果："
@@ -1533,7 +1550,7 @@
 	quest.45ACDBE42962793A.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
 	quest.45D448B5B0D04FDB.quest_desc: ["Receives wireless redstone signals."]
 	quest.45E28C06FE4C7789.quest_desc: ["两个槽的压缩抽屉。"]
-	quest.45E3F8498766ED51.quest_desc: ["Even faster conduits!"]
+	quest.45E3F8498766ED51.quest_desc: ["Even faster conduits! Higher tiers exist, see JEI."]
 	quest.45E3F8498766ED51.title: "Conduits - Tier 3"
 	quest.45EDE15AF534BBF5.quest_desc: ["前期用蚀刻器和蚀刻酸制作，随后可通过装配台制作。"]
 	quest.462375E9E65C799F.quest_desc: [
@@ -1583,7 +1600,7 @@
 		"Or, use an Arc Furnace to break apart armor from the Knight Phantoms."
 	]
 	quest.480E83DD55448590.quest_desc: ["Energy storage item that holds and transfers RF"]
-	quest.483DA3FB8D65ED2F.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Netherite Stick\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"75AD65B7786D4698\" } }, \" to unlock.\" ]"]
+	quest.483DA3FB8D65ED2F.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Netherite Stick\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"75AD65B7786D4698\" } }, \" to unlock.\" ]"]
 	quest.483DA3FB8D65ED2F.quest_subtitle: "15 Coins"
 	quest.483DA3FB8D65ED2F.title: "Random Reward Bag"
 	quest.48675A769F0D3F9D.quest_desc: ["将这些部件组装起来即可构成一台动能发电机，将风能转化为旋转能。（译者注：原文如此）"]
@@ -1643,9 +1660,15 @@
 	quest.4B62DEDA4F901770.quest_desc: [
 		"用更快的速度、可调节的面、烟熏炉和高炉组件等，最大化熔炼效率。"
 		""
-		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4EAD2382EBF87769\" } } ]"
+		"[ \"Higher tiers exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4EAD2382EBF87769\" } } ]"
 	]
 	quest.4B893A1BDA3CEC33.quest_desc: ["A powerful sword in it's own right by charging it and using activating it (C) the Dark Matter Sword will consume EMC in exchange for a devastating sweep attack. The area of the attack is controlled by charge level (V, shift+V)."]
+	quest.4BC78C7C9A17B43A.quest_desc: [
+		"Using the base tier bed, first collect data into a Simulation Processor."
+		""
+		"The Simulated Hydroponic Bed grows crops from stored simulation data and only needs power to run, with no Water, Ether Gas, or physical plant required."
+	]
+	quest.4BC78C7C9A17B43A.title: "Simulated Hydroponics"
 	quest.4BCB152BBCEB3B90.quest_desc: [
 		"The Environmental Eye is very useful in theory; however, a lot of magical botanists struggle with its limited range of gauging aura in the environment around them. A simple solution to this problem is the Environmental Ocular. While working similarly to the Environmental Eye, the main difference is its much bigger gauge for aura in the area: It is twice as large."
 		""
@@ -1758,7 +1781,7 @@
 		""
 		"Level: 3"
 		""
-		"[ \"Higher levels exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"46D8585E55448576\" } } ]"
+		"[ \"Higher levels exist, see JEI or \", { \"text\": \"here\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"46D8585E55448576\" } } ]"
 	]
 	quest.4EAD2382EBF87769.quest_desc: ["An upgraded furnace with a base cook time of 160"]
 	quest.4EB47C3E07B444F6.quest_desc: ["使用动物种子基底来合成Haven Animal Seeds模组的生物种子。"]
@@ -1873,9 +1896,11 @@
 	quest.537E84EDD29F486A.quest_desc: ["Steeleaf is a tool and armor material found in Labyrinth, Hollow Hill, and Dark Tower chests. This material is as powerful as Diamond in a tool or armor, but is less durable than even Iron."]
 	quest.53ADBC3ADF1C83C0.quest_desc: ["Made of 10,000 invar ingots"]
 	quest.53F53BD4220B295B.quest_desc: [
-		"游戏早期发电方式，通过燃煤产生能量（RF），随着你的进一步发展，更多发电方式将会解锁。"
+		"Early game power. Generate power (RF/FE/CF/µI/etc...) from coal. Other power generation options are obtainable as you move through the pack."
 		""
 		"注：在前期，可以通过引爆铁锭（TNT加红石信号）来获取压缩铁锭，平均损失率为20%。"
+		""
+		"About power: Generally, all power is the same across mods. RF = FE = CF = µI"
 	]
 	quest.53F53BD4220B295B.quest_subtitle: "Industrial Foregoing"
 	quest.53F5A5A785503096.quest_desc: ["Energy storage item that holds and transfers RF"]
@@ -1970,7 +1995,6 @@
 	quest.584678F8D7970634.quest_desc: ["多方块结构组件，用于存储镕铸炉熔炼材料所需的熔岩。"]
 	quest.585A89F07F3B4F2D.quest_desc: ["Klein Star Ein holds up to 50,000 EMC and is also used in the crafting of Klein Star Zwei. "]
 	quest.5873CD588D98B39D.quest_desc: ["一把能造成6点伤害的剑。"]
-	quest.591D0AF49970A691.quest_desc: ["This ingot can be used to create decorative blocks and is also required for late-game crafting."]
 	quest.594A3262325FDCFF.quest_desc: ["More features, and higher durability!"]
 	quest.595C4352743D4003.quest_desc: ["FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."]
 	quest.595C4352743D4003.quest_subtitle: "Framed Blocks"
@@ -2225,7 +2249,7 @@
 	quest.63588316070C73FD.quest_desc: ["Even with the dark matter armor, you can still take a noticeable amount of damage when things start getting hairy. You decide to try throwing some red matter at the problem like any good alchemist, and find that this new Red Matter Armor blocks so much incoming damage you can't even feel anything apart from the actual kinetic energy pushing you around. But... Maybe you can go even one step further?"]
 	quest.639103C33226046A.quest_desc: ["刀也经常用来在备菜时切割并分份食材。"]
 	quest.639219AA32B76CE6.quest_desc: ["Augments are used to add new capabilities to Essence Tools and Essence Armor."]
-	quest.63B25E731B126624.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Ender Inhibitor Active\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"097B7BF8B0CBC549\" } }, \" to unlock.\" ]"]
+	quest.63B25E731B126624.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Ender Inhibitor Active\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"097B7BF8B0CBC549\" } }, \" to unlock.\" ]"]
 	quest.63B25E731B126624.quest_subtitle: "5 Coins"
 	quest.63B25E731B126624.title: "Uncommon Reward Bag"
 	quest.63B5756032EE8F24.quest_desc: ["Much faster than a neutron collector!"]
@@ -2287,6 +2311,7 @@
 	quest.66C4AAA972B39531.quest_desc: ["Trust me, this will make your life a lot easier (if you are playing normal mode...)"]
 	quest.66C4AAA972B39531.quest_subtitle: "Mystical Agriculture"
 	quest.67165901C0E6C509.quest_desc: ["Crafting ingredient needed to make recipe holders and encoders."]
+	quest.67165901C0E6C509.quest_subtitle: "PackagedAuto"
 	quest.672B673A2F199A90.quest_desc: ["All Rotspawn drop utheric shards when killed."]
 	quest.67684E03885EB857.quest_desc: ["这些方块可以放入压缩筛子进行筛矿，获取资源。"]
 	quest.67684E03885EB857.title: "压缩筛矿"
@@ -2370,7 +2395,7 @@
 		"Before you can craft creative items, you must finish the quest chapter associated with the mod that the item belongs to."
 	]
 	quest.6B2C7902C393895B.quest_desc: ["The Tier 4 Rocket will allow you to travel to Glacio, in addition to the capabilities of the previous tier(s)."]
-	quest.6B2F0714255943B6.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Visit Mercury\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"14F9F9F05968992D\" } }, \" to unlock.\" ]"]
+	quest.6B2F0714255943B6.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Visit Mercury\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"14F9F9F05968992D\" } }, \" to unlock.\" ]"]
 	quest.6B2F0714255943B6.quest_subtitle: "20 Coins"
 	quest.6B2F0714255943B6.title: "Legendary Reward Bag"
 	quest.6B549E0874E32E16.quest_desc: ["Catalysts are used in complex crafting recipes. They get harder to craft as they move higher in tiers."]
@@ -2615,6 +2640,8 @@
 	quest.76110B292750ABFA.quest_desc: ["Elemental seeds create elemental essence - needed for Awakened Supremium."]
 	quest.7613DCA157D6F599.quest_desc: ["Functions like a regular Laser Connector but supports faster transfer speeds and longer connection ranges."]
 	quest.761C779A9A7EB48B.quest_desc: ["将下界之星转化为RF。"]
+	quest.7633206043183189.quest_desc: ["Store air, chemicals, power, and souls in your AE system!"]
+	quest.7633206043183189.title: "Other Cell Types"
 	quest.76685F7238F1FDAA.quest_desc: ["Fill an experience obelisk with 2000 levels worth of experience."]
 	quest.7669D1D2ADABBC61.quest_desc: ["Energy cubes can be used to hold large amounts of RF. The higher the tier, the more RF can be stored. Tier 2!"]
 	quest.7690DEBD9A96EAF3.quest_desc: ["Found via mining in the Aether."]
@@ -2667,7 +2694,6 @@
 		""
 		"随着筛网等级的改变，筛取物品的掉落也会改变，详情查看JEI。"
 	]
-	quest.792487DB89DE3B99.quest_desc: ["This blast furnace makes steel cheaper and can also be used to create Etrium ingots."]
 	quest.79929E7B59774B6F.quest_desc: ["使用充能台制作，用于钻石等级的Powah物品合成配方。"]
 	quest.79A6A2865FCF6823.quest_desc: ["使用太阳能（太阳）来产生RF。第一级！"]
 	quest.79C940682CE162AD.quest_desc: ["合成材料和能量存储物品，用于建造和升级发电机、能量单元以及其他能量相关的设备。"]
@@ -2729,7 +2755,7 @@
 	quest.7D854FA56E399F98.quest_desc: ["A block that extends and links laser networks between Laser Nodes, allowing items, fluids, energy, or redstone to transfer over long distances."]
 	quest.7D8F28A3E8A48CE7.quest_desc: ["Lets you select your desired destination before teleporting. Must have a trasmitter and receiver."]
 	quest.7DB698F871417522.quest_desc: ["水晶箱子由钻石箱子升级而来。虽然容量没有变化，但是可以看见容器内的物品！"]
-	quest.7DB74BAC57F10381.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Shepherd's Pie\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44750CE6BE9DB523\" } }, \" to unlock.\" ]"]
+	quest.7DB74BAC57F10381.quest_desc: ["[ \"Must complete the quest \", { \"text\": \"Shepherd's Pie\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44750CE6BE9DB523\" } }, \" to unlock.\" ]"]
 	quest.7DB74BAC57F10381.quest_subtitle: "10 Coins"
 	quest.7DB74BAC57F10381.title: "Artifact Reward Bag"
 	quest.7DCFA1397747BF96.quest_desc: ["Load chunks so stuff keeps on ticking when you aren't around. 5x5 area."]
