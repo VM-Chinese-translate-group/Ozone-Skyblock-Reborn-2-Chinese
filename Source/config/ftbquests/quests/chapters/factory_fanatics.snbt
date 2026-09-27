@@ -20,7 +20,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["68D850868C481078"]
+			dependencies: ["665A140AE9AFDEDD"]
 			id: "7BE09731E15491FC"
 			rewards: [
 				{
@@ -538,6 +538,11 @@
 					item: { count: 1, id: "industrialforegoingsouls:soul_surge" }
 					type: "item"
 				}
+				{
+					id: "778964AD229619E7"
+					item: { count: 1, id: "industrialforegoing:blue_laser_lens" }
+					type: "item"
+				}
 			]
 			x: -4.0d
 			y: 3.0d
@@ -618,7 +623,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["6C1BC64337960BA4"]
+			dependencies: ["72C6F582DAA81CBF"]
 			hide_dependency_lines: true
 			id: "3760B6D798A48C9B"
 			rewards: [
